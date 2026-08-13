@@ -1,0 +1,57 @@
+name: Update sanitized dashboard news
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-news.yml"
+      - "scripts/update-news.js"
+      - "tests/news-updater-regression.test.js"
+      - "tests/public-news-artifact-regression.test.js"
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dashboard-news-update
+  cancel-in-progress: true
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out news-only repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run collector regression tests
+        run: node tests/news-updater-regression.test.js
+
+      - name: Collect and sanitize current headlines
+        run: >-
+          node scripts/update-news.js
+          --output docs/news-items.json
+          --script-output docs/news-items.js
+          --previous-url "https://lajward-prog.github.io/lauras-dashboard-news/news-items.json"
+
+      - name: Prove the public files contain news only
+        run: node tests/public-news-artifact-regression.test.js docs
+
+      - name: Commit refreshed headlines
+        run: |
+          if git diff --quiet -- docs/news-items.json docs/news-items.js; then
+            echo "Headline files are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/news-items.json docs/news-items.js
+          git commit -m "Refresh sanitized news headlines"
+          git push
