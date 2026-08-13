@@ -28,7 +28,7 @@ const encodedMarkupRss = `<?xml version="1.0"?><rss><channel><item>
   <title>Casa Grande public meeting update</title>
   <link>https://example.com/local-markup</link>
   <pubDate>Tue, 11 Aug 2026 13:00:00 GMT</pubDate>
-  <description>&lt;a href=&quot;https://example.com&quot;&gt;Source&lt;/a&gt; Clean summary text.</description>
+  <description>&lt;a href=&quot;https://example.com&quot;&gt;Source&lt;/a&gt;&amp;nbsp;&amp;nbsp;Clean summary text.</description>
 </item></channel></rss>`;
 const encodedMarkup = parseRss(encodedMarkupRss, { section: "local", sourceName: "PinalCentral" });
 assert.equal(encodedMarkup[0].summary, "Source Clean summary text.", "Encoded HTML must not leak into public summaries.");
