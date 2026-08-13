@@ -30,7 +30,7 @@ const LOCAL_TOPICS = [
 ];
 
 function decodeEntities(value = "") {
-  const decoded = String(value)
+  let decoded = String(value)
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
     .replace(/&amp;/g, "&")
     .replace(/&quot;/g, '"')
@@ -38,6 +38,12 @@ function decodeEntities(value = "") {
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
     .replace(/&#(\d+);/g, (_, number) => String.fromCodePoint(Number(number)));
+
+  // RSS descriptions sometimes double-encode non-breaking spaces as
+  // `&amp;nbsp;`; remove the remaining spacing entities after the first pass.
+  decoded = decoded
+    .replace(/&(?:nbsp|#160|#x0*a0);/gi, " ")
+    .replace(/\u00a0/g, " ");
 
   return decoded
     .replace(/<[^>]+>/g, " ")
