@@ -1,20 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T09:56:40.021Z",
+  "updatedAt": "2026-08-17T13:04:52.932Z",
   "items": [
-    {
-      "id": "auto-local-6305127557357fff",
-      "section": "local",
-      "headline": "Pinal’s People: Parsons will miss job of seeing Coolidge grow",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-14T10:15:57.516Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
-      "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
     {
       "id": "auto-local-98f060dab548762a",
       "section": "local",
@@ -23,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-17T09:56:40.021Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.pinalcentral.com/pinal_ways/simmering-feud-erupted-in-florences-famous-shootout/article_fab7ceda-e744-41e6-bcf3-85ad36661172.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -36,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-16T01:57:03.863Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/pinal-healthcare-providers-address-challenges-of-growth/article_d3f6aa13-8215-4638-a360-29b2da8abe16.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-16T01:57:03.863Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-police-searching-for-suspect-in-fatal-shooting/article_9ff18baa-cc20-4cd0-be4d-7cbcd8bed7bf.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -62,7 +49,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-16T01:57:03.863Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/american-legion-to-hold-bbq-fundraiser-in-maricopa/article_4114c575-3277-486e-9fae-cfdd8d1e63f8.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -75,23 +62,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-17T07:15:50.982Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.pinalcentral.com/business_and_technology/inflation-slows-but-prices-remain-elevated-as-iran-war-and-spending-on-ai-push-up/article_3c2c46c7-2f25-5ae9-9299-414972e42b77.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-d1f0aaaca9f79b8a",
-      "section": "local",
-      "headline": "Kansas City 3, L.A. Angels 0",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-16T22:47:30.000Z",
-      "addedAt": "2026-08-16T22:47:30.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbS1VYXVuQWo4RWZfS3k4RFZabGtJLTdUdWxpNkZXR1VrQmlacUphT0pvYlc0WXlaQUY5RnV3cm5mVjloNTFFM1ktaVd1QU5EYjN0MEZHVEZyVFUwWEpoVUQtUDZQcm4tTVVOQl9kaGRtall2R3k1TENwdXVDUEw5eXN1OW9qNXpGbEhWMUx5dDVzaXZXblZKcEp0b0k4NnpaTTdNd0g5V2g4aGw1WnFBd2NxRHpRYUN1ckVDazd3?oc=5",
-      "summary": "Kansas City 3, L.A. Angels 0 pinalcentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -103,7 +75,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-16T01:57:03.863Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/5-people-running-for-musd-school-board/article_97c43ba7-57de-4ec2-a8bc-7e0e5211eddb.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -117,9 +89,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-15T18:40:47.000Z",
       "addedAt": "2026-08-15T18:40:47.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUUY3aWVnbDAzLV9BMmRNZ1kzbG1vcUozS3E1Nzg1VEhyM1JHSzI4QTc5QndzOU5Kek9zTVBNdjZZTF9pVUt1dEVVQmVySkVXNFNLbTJLMnlrQTJ3TVJqWWhpR1JXaUhXX1A0MC0wak1jbDNxSkoyd1ZLbXdZVS05WlNmamFYb3dJcE80WG0xZjZFV3FJZTg3M3dINjdlTERuMkdpai1DekI5TGxBN1I0Y05NaUI4RDREcE1YZGlaUF83czRJTDB0QkhmQW02bV80WDlZMkV0SF9pRk9LQzk0MU10NWVoMGc?oc=5",
-      "summary": "Supreme Court orders GOP to rewrite ‘argumentative’ voucher measure summary pinalcentral.com",
+      "summary": "Supreme Court orders GOP to rewrite ‘argumentative’ voucher measure summary PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -131,8 +103,36 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-16T01:57:03.863Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.pinalcentral.com/coolidge_examiner/new-gym-to-open-long-planned-by-coolidge-man/article_7030128f-4d6d-48fc-a25e-fbe76deb1865.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-cdaea95dd3d543d2",
+      "section": "local",
+      "headline": "Angie’s announces plans for CG, Maricopa locations",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-17T13:04:52.932Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
+      "url": "https://www.pinalcentral.com/maricopa_monitor/angie-s-announces-plans-for-cg-maricopa-locations/article_d6f867c4-ab61-4241-89bf-ba25efdfb065.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-d1f0aaaca9f79b8a",
+      "section": "local",
+      "headline": "Kansas City 3, L.A. Angels 0",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-16T22:47:30.000Z",
+      "addedAt": "2026-08-16T22:47:30.000Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbS1VYXVuQWo4RWZfS3k4RFZabGtJLTdUdWxpNkZXR1VrQmlacUphT0pvYlc0WXlaQUY5RnV3cm5mVjloNTFFM1ktaVd1QU5EYjN0MEZHVEZyVFUwWEpoVUQtUDZQcm4tTVVOQl9kaGRtall2R3k1TENwdXVDUEw5eXN1OW9qNXpGbEhWMUx5dDVzaXZXblZKcEp0b0k4NnpaTTdNd0g5V2g4aGw1WnFBd2NxRHpRYUN1ckVDazd3?oc=5",
+      "summary": "Kansas City 3, L.A. Angels 0 PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -145,7 +145,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-17T08:50:15.000Z",
       "addedAt": "2026-08-17T08:50:15.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.npr.org/2026/08/17/nx-s1-5931758/trump-wants-to-build-an-expanded-bunker-under-the-white-house-a-historian-weighs-in",
       "summary": "NPR's Michel Martin speaks with author and presidential historian Garrett Graff about President Trump's plans for an expanded bunker beneath the White House."
     },
@@ -158,35 +158,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-16T15:47:58.000Z",
       "addedAt": "2026-08-16T15:47:58.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
       "summary": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn't done punishing the Big Island with hurricane-force gusts."
     },
     {
-      "id": "auto-national-3d89e44e8b6544ef",
+      "id": "auto-national-1b735e6594cbd5fd",
       "section": "national",
-      "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "headline": "USS Washington to relieve USS Lincoln after concerns about the crew's mental health",
       "sourceName": "NPR",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-17T09:00:00.000Z",
-      "addedAt": "2026-08-17T09:00:00.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
-      "summary": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye."
-    },
-    {
-      "id": "auto-national-c9c67ae8c1ed0b38",
-      "section": "national",
-      "headline": "Car problems? No childcare? How an app is helping people get to work",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-17T09:00:00.000Z",
-      "addedAt": "2026-08-17T09:00:00.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
-      "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference."
+      "publishedAt": "2026-08-17T10:50:05.000Z",
+      "addedAt": "2026-08-17T10:50:05.000Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5933068/uss-washington-to-relieve-uss-lincoln-after-concerns-about-the-crews-mental-health",
+      "summary": "The carrier USS Washington is on its way to the Middle East to relieve the USS Lincoln. The Lincoln has been at the center of concerns over crew mental health and a lack of fresh food and supplies."
     },
     {
       "id": "auto-national-f5e1826ae508b982",
@@ -197,9 +184,35 @@
       "priority": "normal",
       "publishedAt": "2026-08-17T09:00:00.000Z",
       "addedAt": "2026-08-17T09:00:00.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
       "summary": "There's a lot homeowners can do to prepare for wildfires, such as managing flammable plants and using fire-resistant building materials. But some states struggle to pass rules requiring those steps."
+    },
+    {
+      "id": "auto-national-c9c67ae8c1ed0b38",
+      "section": "national",
+      "headline": "Missed shifts were costly to this McDonald's. An app has fixed the problem",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-17T09:00:00.000Z",
+      "addedAt": "2026-08-17T09:00:00.000Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+      "summary": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference."
+    },
+    {
+      "id": "auto-national-3d89e44e8b6544ef",
+      "section": "national",
+      "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-17T09:00:00.000Z",
+      "addedAt": "2026-08-17T09:00:00.000Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+      "summary": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye."
     },
     {
       "id": "auto-national-d8f4fda64fcb33e1",
@@ -210,7 +223,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-17T09:00:00.000Z",
       "addedAt": "2026-08-17T09:00:00.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
       "summary": "Landowners and activists worry about impact to the environment around SpaceX's complex."
     },
@@ -223,35 +236,35 @@
       "priority": "normal",
       "publishedAt": "2026-08-17T08:50:21.000Z",
       "addedAt": "2026-08-17T08:50:21.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.npr.org/2026/08/17/nx-s1-5934649/at-least-5-dead-as-historic-flooding-sweeps-across-indiana",
       "summary": "At least five people have died as a result of severe storms and flooding across Indiana, authorities say."
     },
     {
-      "id": "auto-national-7844aed4b0eb4466",
-      "section": "national",
-      "headline": "Multiple people dead as flooding continues in Indiana",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-16T20:38:40.000Z",
-      "addedAt": "2026-08-16T20:38:40.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
-      "summary": "Some parts of Indiana received more than 11 inches of rainfall over three days, beginning Aug. 11, causing record floods. Several suburbs of Indianapolis also underwater."
-    },
-    {
       "id": "auto-world-0ca8c7d7d3083c56",
       "section": "world",
-      "headline": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "headline": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-17T08:43:12.000Z",
+      "publishedAt": "2026-08-17T12:27:11.000Z",
       "addedAt": "2026-08-16T19:58:14.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
+      "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
+    },
+    {
+      "id": "auto-world-fdbd4a3f9fd65d9b",
+      "section": "world",
+      "headline": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-17T10:39:24.000Z",
+      "addedAt": "2026-08-17T08:38:41.000Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
+      "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday."
     },
     {
       "id": "auto-world-7f4c799c26fc6e93",
@@ -262,22 +275,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-17T06:24:31.000Z",
       "addedAt": "2026-08-16T21:27:42.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
-    },
-    {
-      "id": "auto-world-fdbd4a3f9fd65d9b",
-      "section": "world",
-      "headline": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-17T08:38:41.000Z",
-      "addedAt": "2026-08-17T08:38:41.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
-      "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday."
     },
     {
       "id": "auto-world-e3e2b18d851ca62f",
@@ -288,9 +288,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-17T04:41:31.000Z",
       "addedAt": "2026-08-17T04:41:31.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
       "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
+    },
+    {
+      "id": "auto-world-18938a745a4ecca3",
+      "section": "world",
+      "headline": "Ukrainian strikes kill six in Russia, acting governor says",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-17T11:14:39.000Z",
+      "addedAt": "2026-08-17T06:57:23.000Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
     },
     {
       "id": "auto-world-08a729b954cf4fdf",
@@ -301,22 +314,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-16T12:37:21.000Z",
       "addedAt": "2026-08-15T21:49:12.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
-    },
-    {
-      "id": "auto-world-18938a745a4ecca3",
-      "section": "world",
-      "headline": "Ukrainian strikes kill six in Russia, acting governor says",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-17T08:47:19.000Z",
-      "addedAt": "2026-08-17T06:57:23.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
     },
     {
       "id": "auto-world-15ead3e8c06b1f15",
@@ -325,11 +325,11 @@
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-17T09:01:06.000Z",
+      "publishedAt": "2026-08-17T12:11:13.000Z",
       "addedAt": "2026-08-17T09:01:06.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life."
+      "summary": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\"."
     },
     {
       "id": "auto-world-2a34ecf48ca1b8ec",
@@ -340,7 +340,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-17T08:35:07.000Z",
       "addedAt": "2026-08-17T08:35:07.000Z",
-      "retrievedAt": "2026-08-17T09:56:40.021Z",
+      "retrievedAt": "2026-08-17T13:04:52.932Z",
       "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
       "summary": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet."
     }
