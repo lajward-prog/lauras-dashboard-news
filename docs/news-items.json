@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T01:52:42.361Z",
+  "updatedAt": "2026-08-19T03:57:51.863Z",
   "items": [
     {
       "id": "auto-local-2e63b5021e37f963",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-18T01:50:19.637Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/legal-scandal-forces-pinal-county-off-high-profile-capital-murder-case/article_055dc551-dc8d-4fcc-bfd8-33a80e023e8d.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-17T18:57:04.598Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -36,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-18T18:55:38.180Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/pinal-to-ask-flock-to-remove-its-cameras/article_2359d515-c0e9-463e-9068-8d7f67979141.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +49,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-19T01:52:42.361Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.pinalcentral.com/coolidge_examiner/hope-food-pantry-in-coolidge-to-close-its-doors-this-week/article_a409992a-6ff2-4230-b3f1-1a1e24d75d5d.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -62,21 +62,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-18T01:50:19.637Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/pinals-primary-tax-rate-dropping-10-cents/article_31b8d560-df62-412d-995c-ebc36c4fbedf.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-840a919b652281f2",
-      "section": "local",
-      "headline": "CG Police searching for suspect in fatal shooting",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-16T01:57:03.863Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-police-searching-for-suspect-in-fatal-shooting/article_9ff18baa-cc20-4cd0-be4d-7cbcd8bed7bf.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -94,19 +81,6 @@
       "category": "Local news"
     },
     {
-      "id": "auto-local-91b0c0be5bda5dee",
-      "section": "local",
-      "headline": "New gym to open, long planned by Coolidge man",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-16T01:57:03.863Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
-      "url": "https://www.pinalcentral.com/coolidge_examiner/new-gym-to-open-long-planned-by-coolidge-man/article_7030128f-4d6d-48fc-a25e-fbe76deb1865.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
       "id": "auto-local-cdaea95dd3d543d2",
       "section": "local",
       "headline": "Angie’s announces plans for CG, Maricopa locations",
@@ -114,7 +88,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-17T13:04:52.932Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/angie-s-announces-plans-for-cg-maricopa-locations/article_d6f867c4-ab61-4241-89bf-ba25efdfb065.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -127,8 +101,34 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-17T21:39:35.626Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.pinalcentral.com/local_sports/hernandez-says-coolidge-can-be-dangerous-in-upcoming-season/article_9c9b37a0-b794-4807-ba9e-43bf2db5da50.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-9448fa815e7bae68",
+      "section": "local",
+      "headline": "Heritage Maricopa set for new challenges in 1st AIA season",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-19T03:57:51.863Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
+      "url": "https://www.pinalcentral.com/maricopa_monitor/sports/heritage-maricopa-set-for-new-challenges-in-1st-aia-season/article_c91c3a27-faa0-4e78-b707-b758f77fe537.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-da2f3927bd69cb20",
+      "section": "local",
+      "headline": "Pinal's People: Robert Miller sees volunteering as a way to support others",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-19T03:57:51.863Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
+      "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-robert-miller-sees-volunteering-as-a-way-to-support-others/article_7e885c91-5dd4-45d7-ac85-383968d14780.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -141,7 +141,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-18T09:00:00.000Z",
       "addedAt": "2026-08-18T09:00:00.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
       "summary": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?"
     },
@@ -154,7 +154,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-18T21:17:47.000Z",
       "addedAt": "2026-08-18T21:17:47.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.npr.org/2026/08/18/nx-s1-5931944/border-wall-expansion-brings-protests-in-national-monument-other-arizona-locations",
       "summary": "New efforts to establish a more elaborate \"smart wall\" along parts of the U.S.-Mexico border are spawning protests in Arizona."
     },
@@ -167,7 +167,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-18T09:30:00.000Z",
       "addedAt": "2026-08-18T09:30:00.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
       "summary": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes)."
     },
@@ -180,7 +180,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-18T08:41:14.000Z",
       "addedAt": "2026-08-18T08:41:14.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.npr.org/2026/08/18/nx-s1-5935396/britain-cambridge-professor-jason-arday-hiring-questions",
       "summary": "What can academia learn from Jason Arday's rise and fall? Atlantic staff writer and former academic Tyler Austin Harper weighs the questions his story left behind."
     },
@@ -193,7 +193,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-18T08:39:41.000Z",
       "addedAt": "2026-08-18T08:39:41.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.npr.org/2026/08/18/nx-s1-5935579/border-construction-paused-at-big-bend-national-park-after-public-outcry",
       "summary": "U.S. Customs and Border Protection Commissioner Rodney Scott says he is \"pausing all construction activity\" on border infrastructure in Big Bend National Park, ahead of a visit to the area this week."
     },
@@ -206,7 +206,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-18T05:56:44.000Z",
       "addedAt": "2026-08-18T05:56:44.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
       "summary": "A prosecutor said that while few have been willing to speak about the 1996 killing of Tupac Shakur, Duane \"Keffe D\" Davis is the \"one person who has a hard time being silent.\""
     },
@@ -219,7 +219,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-17T22:37:58.000Z",
       "addedAt": "2026-08-17T22:37:58.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
       "summary": "A federal judge's decision in Texas has major implications for the National Firearms Act. What does this mean for certain guns and other weapons?"
     },
@@ -232,9 +232,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-17T21:41:03.000Z",
       "addedAt": "2026-08-17T21:41:03.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.npr.org/2026/08/17/nx-s1-5934746/testimony-begins-in-the-trial-of-rapper-tupac-shakurs-1996-killing",
       "summary": "Opening statements began Monday in the murder trial of rapper Tupac Shakur. The man implicated in the 1996 killing in Las Vegas is a former gang member."
+    },
+    {
+      "id": "auto-world-69a11fdefd1370b6",
+      "section": "world",
+      "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-19T03:56:35.000Z",
+      "addedAt": "2026-08-19T03:56:35.000Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal."
     },
     {
       "id": "auto-world-0103c5baf0ac505e",
@@ -245,9 +258,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T01:31:15.000Z",
       "addedAt": "2026-08-19T01:31:15.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
+    },
+    {
+      "id": "auto-world-adcae68a557d803d",
+      "section": "world",
+      "headline": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-19T03:12:06.000Z",
+      "addedAt": "2026-08-19T03:12:06.000Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
+      "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran."
     },
     {
       "id": "auto-world-a996f6b5efd8921f",
@@ -258,7 +284,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-18T17:15:39.000Z",
       "addedAt": "2026-08-18T17:15:39.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
       "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed."
     },
@@ -271,7 +297,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-18T13:13:54.000Z",
       "addedAt": "2026-08-18T13:13:54.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
       "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
     },
@@ -284,22 +310,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-18T19:52:32.000Z",
       "addedAt": "2026-08-18T19:52:32.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
       "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
       "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC."
-    },
-    {
-      "id": "auto-world-236a8306b91ee674",
-      "section": "world",
-      "headline": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-18T17:00:29.000Z",
-      "addedAt": "2026-08-18T07:46:55.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians."
     },
     {
       "id": "auto-world-bae503437b5f0ac4",
@@ -315,30 +328,17 @@
       "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\"."
     },
     {
-      "id": "auto-world-535d34d8e164d747",
+      "id": "auto-world-236a8306b91ee674",
       "section": "world",
-      "headline": "Meta hooked children on Facebook and Instagram, court hears",
+      "headline": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-18T22:11:07.000Z",
-      "addedAt": "2026-08-18T22:11:07.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way."
-    },
-    {
-      "id": "auto-world-b7865f1df0f85d74",
-      "section": "world",
-      "headline": "ZZ Top drummer Frank Beard dies aged 77",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-18T22:25:46.000Z",
-      "addedAt": "2026-08-18T22:25:46.000Z",
-      "retrievedAt": "2026-08-19T01:52:42.361Z",
-      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "A statement on the blues-rock band's website said he died on Monday in hospice"
+      "publishedAt": "2026-08-18T17:00:29.000Z",
+      "addedAt": "2026-08-18T07:46:55.000Z",
+      "retrievedAt": "2026-08-19T03:57:51.863Z",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians."
     }
   ],
   "sources": {
