@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T03:58:03.741Z",
+  "updatedAt": "2026-08-20T07:05:45.025Z",
   "items": [
     {
       "id": "auto-local-cbbc13ba30ac05f8",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-19T09:48:44.772Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.pinalcentral.com/florence_reminder_blade_tribune/florence-police-testing-new-license-plate-readers/article_fac60d29-c5fe-4a17-afa2-e7556e0f9c6b.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-18T01:50:19.637Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/legal-scandal-forces-pinal-county-off-high-profile-capital-murder-case/article_055dc551-dc8d-4fcc-bfd8-33a80e023e8d.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -36,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-17T18:57:04.598Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +49,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-19T21:39:53.204Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/florence-prison-revamps-visitation-centers-for-families/article_a6bea238-ff03-45a4-968d-c52a57655bb8.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -62,7 +62,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-19T09:48:44.772Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.pinalcentral.com/eloy_enterprise/tacos-atm-celebrates-official-opening-in-eloy/article_3d5a7414-05a9-4d08-aded-4b3ed03585b3.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -75,8 +75,34 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-19T18:52:29.956Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.pinalcentral.com/coolidge_examiner/federal-agency-cites-lightning-strike-as-cause-for-14-hour-coolidge-blackout/article_e1d8e767-0675-427d-be71-15d6305a3233.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-800e6ca3fb5d12f5",
+      "section": "local",
+      "headline": "Colombian president asks Trump to suspend tariffs to help earthquake recovery",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-20T01:50:58.366Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
+      "url": "https://www.pinalcentral.com/world_news/colombian-president-asks-trump-to-suspend-tariffs-to-help-earthquake-recovery/article_34346eaf-7a77-583f-b6f7-9e09832c17e1.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-840a919b652281f2",
+      "section": "local",
+      "headline": "CG Police searching for suspect in fatal shooting",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-19T07:04:57.667Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-police-searching-for-suspect-in-fatal-shooting/article_9ff18baa-cc20-4cd0-be4d-7cbcd8bed7bf.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -89,35 +115,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-18T17:33:02.000Z",
       "addedAt": "2026-08-18T17:33:02.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS1NyLV9HLUxjbmRORXR6cEZ1TUViXzVtU3JXTF9fWlF4S25HMVdocnlUbnR6Vmw0MUlydHN3ZmJ2S2hXaWhjMVRORHJqNmNrWGpBdkVoajRXZlBabnhLdVZwWl9WSE5vMVh0OU9CUGo5N2RHVEVLeko2U0g3T3lYb3JKSmVHWGdKV3VxbEJOcF9POGswY0UweFRqbkFnQXVGN3JTczEwdGE0SUVmMGktQmZIc2NoMDJYcDJPXzcwTTdDN2FDVDZtdGQ3NXhfejYtZWJZUVNLMA?oc=5",
       "summary": "Pinal to ask Flock to remove its cameras PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-840a919b652281f2",
-      "section": "local",
-      "headline": "CG Police searching for suspect in fatal shooting",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-19T07:04:57.667Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-police-searching-for-suspect-in-fatal-shooting/article_9ff18baa-cc20-4cd0-be4d-7cbcd8bed7bf.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-800e6ca3fb5d12f5",
-      "section": "local",
-      "headline": "Colombian president asks Trump to suspend tariffs to help earthquake recovery",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-20T01:50:58.366Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
-      "url": "https://www.pinalcentral.com/world_news/colombian-president-asks-trump-to-suspend-tariffs-to-help-earthquake-recovery/article_34346eaf-7a77-583f-b6f7-9e09832c17e1.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -143,7 +143,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T08:42:27.000Z",
       "addedAt": "2026-08-19T08:42:27.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.npr.org/2026/08/19/nx-s1-5936217/u-s-delays-50-tariff-on-canadian-imports-after-reaching-deal",
       "summary": "The U.S. has delayed imposing an additional 50% tariff on about $20 billion in imports from Canada after President Trump said the two countries reached a last-minute deal."
     },
@@ -156,7 +156,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T23:19:12.000Z",
       "addedAt": "2026-08-19T23:19:12.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
       "summary": "California has adopted the toughest new rules in the country that require homeowners to manage the plants around their houses. Fire experts say it helps protect houses from burning, but public pushback has been strong."
     },
@@ -169,7 +169,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T16:18:35.000Z",
       "addedAt": "2026-08-19T16:18:35.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
       "summary": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly."
     },
@@ -182,7 +182,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T08:46:31.000Z",
       "addedAt": "2026-08-19T08:46:31.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.npr.org/2026/08/19/nx-s1-5931256/morning-news-brief",
       "summary": "A look at who won and who lost in Tuesday's primaries, President Trump announces delay of tariffs on Canadian imports, child safety trial pitting four states against Meta begins."
     },
@@ -195,7 +195,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T04:55:08.000Z",
       "addedAt": "2026-08-19T04:55:08.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
       "summary": "President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect."
     },
@@ -208,7 +208,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T20:53:13.000Z",
       "addedAt": "2026-08-19T20:53:13.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.npr.org/2026/08/19/nx-s1-5937533/on-his-19th-birthday-a-vigil-is-planned-for-mississippi-teen-nolan-wells",
       "summary": "There's a vigil Wednesday night in Mississippi to mark the birthday of Nolan Wells. The teen who was found dead after being left on a island would have been 19 years old."
     },
@@ -221,7 +221,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T18:01:03.000Z",
       "addedAt": "2026-08-19T18:01:03.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
       "summary": "Lawyers for Rep. Joyce Beatty asked a judge to rule speedily on the complex's renovation and entrance tarp. The National Symphony Orchestra also announced its new season, away from the Kennedy Center."
     },
@@ -234,20 +234,20 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T09:00:00.000Z",
       "addedAt": "2026-08-19T09:00:00.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
       "summary": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools."
     },
     {
       "id": "auto-world-03c276dd5c443442",
       "section": "world",
-      "headline": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "headline": "Trump vows tougher economic measures on Iran and supporting countries",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
       "publishedAt": "2026-08-20T03:22:57.000Z",
       "addedAt": "2026-08-20T01:02:51.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict."
     },
@@ -260,7 +260,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-20T03:09:24.000Z",
       "addedAt": "2026-08-20T03:09:24.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
       "summary": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering."
     },
@@ -273,7 +273,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-20T03:10:48.000Z",
       "addedAt": "2026-08-19T17:47:52.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
     },
@@ -286,9 +286,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T20:34:39.000Z",
       "addedAt": "2026-08-19T01:31:15.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
+    },
+    {
+      "id": "auto-world-ae10de1ba9637a7d",
+      "section": "world",
+      "headline": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-20T05:01:24.000Z",
+      "addedAt": "2026-08-20T05:01:24.000Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland."
     },
     {
       "id": "auto-world-71cd89f9defec728",
@@ -299,7 +312,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T23:11:14.000Z",
       "addedAt": "2026-08-19T19:02:41.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
       "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president."
     },
@@ -312,35 +325,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-19T17:39:49.000Z",
       "addedAt": "2026-08-19T05:53:53.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
       "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
     },
     {
-      "id": "auto-world-c76488f18ffb2c57",
+      "id": "auto-world-448ef2b88472b788",
       "section": "world",
-      "headline": "Trial of mum accused of killing her three children puts postpartum psychosis on the map",
+      "headline": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-19T16:30:55.000Z",
-      "addedAt": "2026-08-19T16:30:55.000Z",
-      "retrievedAt": "2026-08-20T03:58:03.741Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
-      "summary": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions."
-    },
-    {
-      "id": "auto-world-7ec4d6e4637de234",
-      "section": "world",
-      "headline": "US charges 17 Iranians over 'massive' cyber theft campaign",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-19T09:48:16.000Z",
-      "addedAt": "2026-08-19T09:48:16.000Z",
-      "retrievedAt": "2026-08-19T21:39:53.204Z",
-      "url": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says."
+      "publishedAt": "2026-08-20T06:39:14.000Z",
+      "addedAt": "2026-08-20T06:39:14.000Z",
+      "retrievedAt": "2026-08-20T07:05:45.025Z",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision."
     }
   ],
   "sources": {
