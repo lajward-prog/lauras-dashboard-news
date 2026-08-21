@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T15:47:57.943Z",
+  "updatedAt": "2026-08-21T18:55:36.273Z",
   "items": [
     {
       "id": "auto-local-cbbc13ba30ac05f8",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-20T18:58:32.212Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.pinalcentral.com/florence_reminder_blade_tribune/florence-police-testing-new-license-plate-readers/article_fac60d29-c5fe-4a17-afa2-e7556e0f9c6b.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-20T18:58:32.212Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/legal-scandal-forces-pinal-county-off-high-profile-capital-murder-case/article_055dc551-dc8d-4fcc-bfd8-33a80e023e8d.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -36,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-20T21:43:02.702Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,8 +49,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-21T01:57:10.502Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/gric-ua-launch-first-ever-medical-school-branch-offering-mds-on-a-tribal-nation/article_4e878e03-46d4-4219-aede-baed1f9e2364.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-f7c79f3dabc83ea7",
+      "section": "local",
+      "headline": "Federal agency cites lightning strike as cause for 14-hour Coolidge blackout",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-20T18:58:32.212Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
+      "url": "https://www.pinalcentral.com/coolidge_examiner/federal-agency-cites-lightning-strike-as-cause-for-14-hour-coolidge-blackout/article_e1d8e767-0675-427d-be71-15d6305a3233.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -63,37 +76,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T07:00:00.000Z",
       "addedAt": "2026-08-21T07:00:00.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeThLdExodS1hUm1BdFJCYzlZRjNpd1NNZjItc0RoMlZINE4tTWtraG04cnp1czJXU1VSMUg5QWQ4Ni1NZzVWNVhtZUdUaTk5bmJIMlpoZll1X3p1ZERWcHN2OXYxeEFxMWFSY1RkYWI5MDd4R3NGWWk0cmRoOTJRMXVnVmtXLXRrbDluS09iMG1qMWhJTVdCYTROVmJheWhRSF9KT1pLTTlDTktwem5tZkdhMGdNakd5YmMxR3VuaDM3am5qa2xn?oc=5",
       "summary": "2007 Ranger 500 EFI PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-f7c79f3dabc83ea7",
-      "section": "local",
-      "headline": "Federal agency cites lightning strike as cause for 14-hour Coolidge blackout",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-20T18:58:32.212Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
-      "url": "https://www.pinalcentral.com/coolidge_examiner/federal-agency-cites-lightning-strike-as-cause-for-14-hour-coolidge-blackout/article_e1d8e767-0675-427d-be71-15d6305a3233.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-59df16963f1b39af",
-      "section": "local",
-      "headline": "Florence Police Report, 08/20/2026",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-20T07:15:00.000Z",
-      "addedAt": "2026-08-20T07:15:00.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkdBOGpFbHRJN1JaZktyTGxnNlc2YWxUbFRQMEZwLW1BNW5xN1l5alhDRVZGaUlxZXFrVFVIN190cXktZ3ZFV1FrSldqZ3RORUwwampoR3hiU2Y3VUxkZlF1SWlCMzVrdmYycUFsZTBiczVibXB4QzNxZ2NUQUFzUFJQblZKUDNiYThGSlI5ZDNPQXJ2NU9uWWkxODFxdVIxSnFuMGVOVl9oN3JUVlI1MDlSN0hTS2preFB2dzNkYkdVaXNK?oc=5",
-      "summary": "Florence Police Report, 08/20/2026 PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -105,7 +90,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-21T01:57:10.502Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-police-searching-for-suspect-in-fatal-shooting/article_9ff18baa-cc20-4cd0-be4d-7cbcd8bed7bf.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -118,21 +103,36 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-21T01:57:10.502Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.pinalcentral.com/world_news/colombian-president-asks-trump-to-suspend-tariffs-to-help-earthquake-recovery/article_34346eaf-7a77-583f-b6f7-9e09832c17e1.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-cdaea95dd3d543d2",
+      "id": "auto-local-59df16963f1b39af",
       "section": "local",
-      "headline": "Angie’s announces plans for CG, Maricopa locations",
+      "headline": "Florence Police Report, 08/20/2026",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "addedAt": "2026-08-21T13:10:24.687Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
-      "url": "https://www.pinalcentral.com/maricopa_monitor/angie-s-announces-plans-for-cg-maricopa-locations/article_d6f867c4-ab61-4241-89bf-ba25efdfb065.html",
+      "publishedAt": "2026-08-20T07:15:00.000Z",
+      "addedAt": "2026-08-20T07:15:00.000Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkdBOGpFbHRJN1JaZktyTGxnNlc2YWxUbFRQMEZwLW1BNW5xN1l5alhDRVZGaUlxZXFrVFVIN190cXktZ3ZFV1FrSldqZ3RORUwwampoR3hiU2Y3VUxkZlF1SWlCMzVrdmYycUFsZTBiczVibXB4QzNxZ2NUQUFzUFJQblZKUDNiYThGSlI5ZDNPQXJ2NU9uWWkxODFxdVIxSnFuMGVOVl9oN3JUVlI1MDlSN0hTS2preFB2dzNkYkdVaXNK?oc=5",
+      "summary": "Florence Police Report, 08/20/2026 PinalCentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-643a534e7a1369f1",
+      "section": "local",
+      "headline": "Tacos ATM celebrates official opening in Eloy",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-21T18:55:36.273Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
+      "url": "https://www.pinalcentral.com/eloy_enterprise/tacos-atm-celebrates-official-opening-in-eloy/article_3d5a7414-05a9-4d08-aded-4b3ed03585b3.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -145,9 +145,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T08:45:33.000Z",
       "addedAt": "2026-08-21T08:45:33.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5929410/it-looked-like-a-war-zone-spokane-residents-return-home-after-devastating-wildfire",
       "summary": "Weeks after a wildfire destroyed hundreds of homes in Spokane, Washington, people are returning home. Big questions remain about whether it's really safe to return."
+    },
+    {
+      "id": "auto-national-f445593ba5e99092",
+      "section": "national",
+      "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-21T18:47:48.000Z",
+      "addedAt": "2026-08-21T18:47:48.000Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+      "summary": "The ruling comes after months of back and forth between the Trump administration and the National Trust for Historic Preservation."
     },
     {
       "id": "auto-national-ebcff089abbba973",
@@ -158,7 +171,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T09:00:00.000Z",
       "addedAt": "2026-08-21T09:00:00.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
       "summary": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane."
     },
@@ -171,7 +184,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T08:45:43.000Z",
       "addedAt": "2026-08-21T08:45:43.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5910560/life-settlements-let-people-cash-in-on-their-own-life-insurance-heres-how-it-works",
       "summary": "What began as a way to help dying people pay for their final years of life has evolved into a robust and morbid financial market."
     },
@@ -184,7 +197,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T10:47:53.000Z",
       "addedAt": "2026-08-21T10:47:53.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5940036/woman-plotted-to-bomb-the-new-york-state-capitol-building-authorities-say",
       "summary": "The FBI says it used a sting operation as part of an investigation into an alleged plot to bomb the New York State Capitol building in Albany."
     },
@@ -197,7 +210,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T09:01:00.000Z",
       "addedAt": "2026-08-21T09:01:00.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
       "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend."
     },
@@ -223,22 +236,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T09:00:00.000Z",
       "addedAt": "2026-08-21T09:00:00.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
       "summary": "In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. A surge in such activity underscores the growing resistance to this police surveillance technology."
-    },
-    {
-      "id": "auto-national-ebd76657bcb967e6",
-      "section": "national",
-      "headline": "Mom and best friend remember girl killed in a mass shooting one year later",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-21T08:44:49.000Z",
-      "addedAt": "2026-08-21T08:44:49.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5938076/mom-and-best-friend-remember-girl-killed-in-a-mass-shooting-one-year-later",
-      "summary": "For StoryCorps, a mother remembers her daughter who was killed in a mass shooting by speaking with her daughter's best friend."
     },
     {
       "id": "auto-world-48831d99eeca3abf",
@@ -249,35 +249,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T13:44:43.000Z",
       "addedAt": "2026-08-21T13:44:43.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
       "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
-    },
-    {
-      "id": "auto-world-01750a9c05c07e2e",
-      "section": "world",
-      "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-21T13:07:00.000Z",
-      "addedAt": "2026-08-21T13:07:00.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
-    },
-    {
-      "id": "auto-world-3cdb7c173d6d2079",
-      "section": "world",
-      "headline": "Peru earthquake damages buildings and causes power cuts",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-21T11:14:38.000Z",
-      "addedAt": "2026-08-21T11:14:38.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
-      "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says."
     },
     {
       "id": "auto-world-092eb89d901f16df",
@@ -288,7 +262,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T05:00:57.000Z",
       "addedAt": "2026-08-21T05:00:57.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
     },
@@ -301,9 +275,35 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T05:47:32.000Z",
       "addedAt": "2026-08-21T02:59:46.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
+    },
+    {
+      "id": "auto-world-3cdb7c173d6d2079",
+      "section": "world",
+      "headline": "Peru earthquake damages buildings and causes power cuts",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-21T11:14:38.000Z",
+      "addedAt": "2026-08-21T11:14:38.000Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
+      "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says."
+    },
+    {
+      "id": "auto-world-01750a9c05c07e2e",
+      "section": "world",
+      "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-21T13:07:00.000Z",
+      "addedAt": "2026-08-21T13:07:00.000Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
     },
     {
       "id": "auto-world-520b48ae43ed9e34",
@@ -314,7 +314,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T08:38:18.000Z",
       "addedAt": "2026-08-20T23:15:15.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?"
     },
@@ -327,7 +327,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T00:04:10.000Z",
       "addedAt": "2026-08-21T00:04:10.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
       "summary": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP)."
     },
@@ -340,7 +340,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-20T23:16:45.000Z",
       "addedAt": "2026-08-20T23:16:45.000Z",
-      "retrievedAt": "2026-08-21T15:47:57.943Z",
+      "retrievedAt": "2026-08-21T18:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
       "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
     }
