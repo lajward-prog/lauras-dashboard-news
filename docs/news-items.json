@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T06:58:59.530Z",
+  "updatedAt": "2026-08-22T09:41:22.815Z",
   "items": [
+    {
+      "id": "auto-local-612a51c05f00dca9",
+      "section": "local",
+      "headline": "Santa Cruz vs. Coolidge 8/21/26",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-22T07:26:22.000Z",
+      "addedAt": "2026-08-22T07:26:22.000Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTUlBZ3pVM2M4MTVhRU5qVUxUd3gwWElEbnFwS0gtVVdGXzNfbk5Nb2VSOWJYZFFIVkFOVVZrM3RsUnZxclZROW5QNC1yancyUzVMRml4VTFSX3hhR2h0N3F0SkV0SXlrekdyYnQxaDFmci1DQ0tmWjZteEVOc2RYQ2dOV1Q3a3VqSlZXNV9tcGF6UXpabnRwWmctUk9XeXpaV1duUEtxZWtvSVI4UkxsTjdPTHhvMHNGcWUyLVNVNkRFYmJVMXc?oc=5",
+      "summary": "Santa Cruz vs. Coolidge 8/21/26 PinalCentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
     {
       "id": "auto-local-2e63b5021e37f963",
       "section": "local",
@@ -10,7 +25,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-20T18:58:32.212Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/legal-scandal-forces-pinal-county-off-high-profile-capital-murder-case/article_055dc551-dc8d-4fcc-bfd8-33a80e023e8d.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,8 +38,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-20T21:43:02.702Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-272b4dda8b69db92",
+      "section": "local",
+      "headline": "CG chief stands firm on Flock cameras amid privacy debate",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-22T09:41:22.815Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-chief-stands-firm-on-flock-cameras-amid-privacy-debate/article_defb59f3-66a2-428a-9933-134c01e7cb6b.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -36,21 +64,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-22T01:49:33.224Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cd6-candidate-mendoza-highlights-affordability-in-cg-in-run-up-to-election/article_81e7912c-fe5f-442d-bba6-ac7b332ca25a.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-5f135e9dc02b4f29",
-      "section": "local",
-      "headline": "Ongoing fire on Ak-Chin Indian Community burns 40 acres",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-22T01:49:33.224Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
-      "url": "https://www.pinalcentral.com/maricopa_monitor/ongoing-fire-on-ak-chin-indian-community-burns-40-acres/article_1cc1a73e-5e05-45c1-bfe5-c3a4a14bbfdf.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -62,7 +77,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-21T01:57:10.502Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-police-searching-for-suspect-in-fatal-shooting/article_9ff18baa-cc20-4cd0-be4d-7cbcd8bed7bf.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -75,7 +90,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-21T01:57:10.502Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.pinalcentral.com/world_news/colombian-president-asks-trump-to-suspend-tariffs-to-help-earthquake-recovery/article_34346eaf-7a77-583f-b6f7-9e09832c17e1.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -96,36 +111,6 @@
       "category": "Local news"
     },
     {
-      "id": "auto-local-9d8c9e94ecb36932",
-      "section": "local",
-      "headline": "Tacos ATM celebrates official opening in Eloy",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-19T07:22:17.000Z",
-      "addedAt": "2026-08-19T07:22:17.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTDRWOWp4XzkwUmtEVXdBZnphb3M1NzYyWER5RzdSX2RpZ0NiVThDc28xUnVGN2hkTUx2ZGQwZ29zNzVtX2p6M2NEaTc2SXF5NHFSeXctZV9RTDY1cFN4RlV2dGZjcjFCQjVHRmVtODJVTEc0Rl9vMkstT25OVTNDMC04SlhaV3p5NTlnUnY1YmhKVkJZSU9WeWtab1l3UWhpRHQ0SU9RVjZWMHpKVk9RclVLM1NzSEpuc2FQb3VVZ2JiMTh5N3NwYmxkMjNFMmVYbUpYWk5lZw?oc=5",
-      "summary": "Tacos ATM celebrates official opening in Eloy PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-ed0463bfd1ed3f10",
-      "section": "local",
-      "headline": "Florence Police testing new license plate readers",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-19T07:32:29.000Z",
-      "addedAt": "2026-08-19T07:32:29.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxON3FwMUtwOE9IeVI4NWFVNE1FenVCX2tTdHA3a3NOMUFVYmxhaFNDYzk2cGp2bVlYUHJyaTZweTZlaEQxZEZWUGxRb2RQdkRpQ3NmYXNpMnlDTlFLZ0FBNTRrcTU5eWlYY0VaSVY3dkxTbWhHY21TTVZXbDg2U2dKelpnMTc2cUg1dXcycExhU0pnakZhQkp3OEt0THJQX2FrVGFhSmVhbnk1SWpPdTJzUVRrWXBPWnN6ZER0aWY1NWhoNTQ5VndzY0lpZkZKU0d6a3dHc3FVSktWQUU0Rm4tVWo3U0JPY2hTS3VJLUZJWTZFQQ?oc=5",
-      "summary": "Florence Police testing new license plate readers PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
       "id": "auto-local-ba170d56520fac3d",
       "section": "local",
       "headline": "Heritage Maricopa drops close battle to Heritage Gateway",
@@ -133,8 +118,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-22T06:58:59.530Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/sports/heritage-maricopa-drops-close-battle-to-heritage-gateway/article_82e22c88-052b-4679-bd7a-c1581dbe3701.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-b70f5610239d58fb",
+      "section": "local",
+      "headline": "Florence gets blown out by Show Low",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-22T09:41:22.815Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
+      "url": "https://www.pinalcentral.com/local_sports/florence-gets-blown-out-by-show-low/article_e352c16f-482d-4f23-b776-e8e16f98b0f0.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -147,7 +145,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T20:01:51.000Z",
       "addedAt": "2026-08-21T20:01:51.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5936211/trumps-ballroom-construction-can-continue-for-now-supreme-court-says",
       "summary": "The Supreme Court will allow construction on President Trump's controversial White House ballroom to continue. The administration says the renovations are needed for national security."
     },
@@ -160,7 +158,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T21:30:09.000Z",
       "addedAt": "2026-08-21T21:30:09.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5935436/trump-is-set-to-wave-the-green-flag-ahead-of-historic-indy-race-in-d-c",
       "summary": "President Trump will be the first president to oversee an IndyCar race in Washington, D.C. — the next in the country's 250th birthday celebrations."
     },
@@ -173,7 +171,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T18:47:48.000Z",
       "addedAt": "2026-08-21T18:47:48.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
       "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation."
     },
@@ -186,35 +184,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T09:00:00.000Z",
       "addedAt": "2026-08-21T09:00:00.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
       "summary": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane."
-    },
-    {
-      "id": "auto-national-07025c6cec829503",
-      "section": "national",
-      "headline": "Life settlements let people cash in on their own life insurance. Here's how it works",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-21T08:45:43.000Z",
-      "addedAt": "2026-08-21T08:45:43.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5910560/life-settlements-let-people-cash-in-on-their-own-life-insurance-heres-how-it-works",
-      "summary": "What began as a way to help dying people pay for their final years of life has evolved into a robust and morbid financial market."
-    },
-    {
-      "id": "auto-national-d2a4e46b203a7118",
-      "section": "national",
-      "headline": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-22T04:36:27.000Z",
-      "addedAt": "2026-08-22T04:36:27.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-      "summary": "The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday, and Canada immediately said it would retaliate, after last-ditch negotiations failed."
     },
     {
       "id": "auto-national-7f2f5161e73c9cfb",
@@ -230,6 +202,32 @@
       "summary": "Weeks after a wildfire destroyed hundreds of homes in Spokane, Washington, people are returning home. Big questions remain about whether it's really safe to return."
     },
     {
+      "id": "auto-national-d2a4e46b203a7118",
+      "section": "national",
+      "headline": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-22T04:36:27.000Z",
+      "addedAt": "2026-08-22T04:36:27.000Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "summary": "Trade negotiations between the United States and Canada fell apart on Friday night, shortly before a midnight deadline for 50% tariffs to take effect on $20 billion worth of Canadian products."
+    },
+    {
+      "id": "auto-national-cc6504b12a75f5ae",
+      "section": "national",
+      "headline": "A battle over 'Italian brainrot' could shape who owns AI art",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-21T22:16:46.000Z",
+      "addedAt": "2026-08-21T22:16:46.000Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
+      "summary": "A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters."
+    },
+    {
       "id": "auto-national-81b6d7d05a80de78",
       "section": "national",
       "headline": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
@@ -238,7 +236,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T20:58:59.000Z",
       "addedAt": "2026-08-21T20:58:59.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.npr.org/2026/08/21/nx-s1-5931849/amid-intense-backlash-people-are-vandalizing-flock-surveillance-cameras",
       "summary": "Around the country, people are vandalizing Flock cameras. The surge in this type of activity underscores the widespread resistance to this police surveillance technology."
     },
@@ -251,7 +249,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T13:44:43.000Z",
       "addedAt": "2026-08-21T13:44:43.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
       "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
     },
@@ -264,7 +262,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T22:36:12.000Z",
       "addedAt": "2026-08-21T22:36:12.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
     },
@@ -277,7 +275,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T05:00:57.000Z",
       "addedAt": "2026-08-21T05:00:57.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
     },
@@ -290,9 +288,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T02:39:10.000Z",
       "addedAt": "2026-08-22T02:39:10.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
       "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer."
+    },
+    {
+      "id": "auto-world-9a66853540661ee1",
+      "section": "world",
+      "headline": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-22T09:13:26.000Z",
+      "addedAt": "2026-08-21T19:49:56.000Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children."
     },
     {
       "id": "auto-world-3cdb7c173d6d2079",
@@ -303,22 +314,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T11:14:38.000Z",
       "addedAt": "2026-08-21T11:14:38.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
       "summary": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says."
-    },
-    {
-      "id": "auto-world-5509f2f786d4c03c",
-      "section": "world",
-      "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-21T05:47:32.000Z",
-      "addedAt": "2026-08-21T02:59:46.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
     },
     {
       "id": "auto-world-dc67af7fb67c8acc",
@@ -329,22 +327,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T04:46:33.000Z",
       "addedAt": "2026-08-22T04:46:33.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
       "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
       "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
     },
     {
-      "id": "auto-world-9a66853540661ee1",
+      "id": "auto-world-5509f2f786d4c03c",
       "section": "world",
-      "headline": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+      "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-22T06:40:30.000Z",
-      "addedAt": "2026-08-21T19:49:56.000Z",
-      "retrievedAt": "2026-08-22T06:58:59.530Z",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children."
+      "publishedAt": "2026-08-21T05:47:32.000Z",
+      "addedAt": "2026-08-21T02:59:46.000Z",
+      "retrievedAt": "2026-08-22T09:41:22.815Z",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
     }
   ],
   "sources": {
