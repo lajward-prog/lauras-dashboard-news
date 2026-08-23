@@ -1,20 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T18:47:32.640Z",
+  "updatedAt": "2026-08-23T21:35:06.087Z",
   "items": [
-    {
-      "id": "auto-local-2e63b5021e37f963",
-      "section": "local",
-      "headline": "Legal scandal forces Pinal County off high-profile capital murder case",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-20T18:58:32.212Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/legal-scandal-forces-pinal-county-off-high-profile-capital-murder-case/article_055dc551-dc8d-4fcc-bfd8-33a80e023e8d.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
     {
       "id": "auto-local-6305127557357fff",
       "section": "local",
@@ -23,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-20T21:43:02.702Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -36,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-23T18:47:32.640Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-chief-stands-firm-on-flock-cameras-amid-privacy-debate/article_defb59f3-66a2-428a-9933-134c01e7cb6b.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-23T18:47:32.640Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cd6-candidate-mendoza-highlights-affordability-in-cg-in-run-up-to-election/article_81e7912c-fe5f-442d-bba6-ac7b332ca25a.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -63,7 +50,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T07:26:22.000Z",
       "addedAt": "2026-08-22T07:26:22.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTUlBZ3pVM2M4MTVhRU5qVUxUd3gwWElEbnFwS0gtVVdGXzNfbk5Nb2VSOWJYZFFIVkFOVVZrM3RsUnZxclZROW5QNC1yancyUzVMRml4VTFSX3hhR2h0N3F0SkV0SXlrekdyYnQxaDFmci1DQ0tmWjZteEVOc2RYQ2dOV1Q3a3VqSlZXNV9tcGF6UXpabnRwWmctUk9XeXpaV1duUEtxZWtvSVI4UkxsTjdPTHhvMHNGcWUyLVNVNkRFYmJVMXc?oc=5",
       "summary": "Santa Cruz vs. Coolidge 8/21/26 PinalCentral.com",
       "locality": "Pinal County",
@@ -78,7 +65,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T06:45:00.000Z",
       "addedAt": "2026-08-22T06:45:00.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTmlzZVpHbWhFaExmbF84ZDNva1lyMVozQjJpeVlScWV2QzdzdTFIaDY4NWtOYVlMSTNkUjRyYm5laUhDVk1hNGswWmxSLWdFdmdtbmlrZ19Fc0sxN040NHpQX0YxUjRsWUVSRzZxbjZVMzhLejBUc2VZZ00waGtwbGVkS1owNy05Sm1TU21sdUVIRE8yR1JHbVJ2TUtFREFDRUlSaFZoT183ZHFFQUhkWXdnM0dnLUdlNEl0S2xITkVvSmJsMVBGZ0l2WklmMkdr?oc=5",
       "summary": "Thomas: School choice sweeping the nation PinalCentral.com",
       "locality": "Pinal County",
@@ -93,7 +80,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T07:45:00.000Z",
       "addedAt": "2026-08-22T07:45:00.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVjJYLVdlN05KSWpjSHVuRTY3QW1Mb3lleF9xSklKUXNpMWJkajIzM1FuTzJmY05aX3d6OUNGcTdwZWdsSE1idlZpSDVPbU56ZGJ4eHppdHBiR2t0S2tsOFhucWlpY3dNWGJFZWtyaXJ0ejBhR1FFaTZuejg0U2Zxb2ZMckF0ZTZ6TThnVWJZTnZiSHBJN20wamZjaFlhUzZka0V3ZmhjMzVuZ2Z0MkUxZHZ4U2Z0aEMycF9URTJPS0RUUjI1V0lzRWVoRWp6VS13OUlVbDdHQQ?oc=5",
       "summary": "Pinal County Sheriff's log, 08/22/26 PinalCentral.com",
       "locality": "Pinal County",
@@ -107,7 +94,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-21T01:57:10.502Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.pinalcentral.com/world_news/colombian-president-asks-trump-to-suspend-tariffs-to-help-earthquake-recovery/article_34346eaf-7a77-583f-b6f7-9e09832c17e1.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -120,7 +107,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-23T18:47:32.640Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-police-searching-for-suspect-in-fatal-shooting/article_9ff18baa-cc20-4cd0-be4d-7cbcd8bed7bf.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -133,8 +120,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-23T18:47:32.640Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.pinalcentral.com/local_sports/florence-gets-blown-out-by-show-low/article_e352c16f-482d-4f23-b776-e8e16f98b0f0.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-ba170d56520fac3d",
+      "section": "local",
+      "headline": "Heritage Maricopa drops close battle to Heritage Gateway",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-23T21:35:06.087Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
+      "url": "https://www.pinalcentral.com/maricopa_monitor/sports/heritage-maricopa-drops-close-battle-to-heritage-gateway/article_82e22c88-052b-4679-bd7a-c1581dbe3701.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -147,7 +147,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T16:55:37.000Z",
       "addedAt": "2026-08-23T16:55:37.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
       "summary": "A round of storms impacted the region on Aug. 11"
     },
@@ -160,9 +160,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T12:48:05.000Z",
       "addedAt": "2026-08-23T12:48:05.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
       "summary": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA."
+    },
+    {
+      "id": "auto-national-360203cc3c5c19ab",
+      "section": "national",
+      "headline": "Flock Safety alternatives: new names, same surveillance",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-23T21:23:10.000Z",
+      "addedAt": "2026-08-23T21:23:10.000Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5931446-e1/flock-safety-alternatives-new-names-same-surveillance",
+      "summary": "Strong public backlash has lead dozens of cities to cancel their contracts with Flock Safety, which makes license plate readers for police departments. But what are the alternatives to Flock?"
     },
     {
       "id": "auto-national-75e3030300ef9bde",
@@ -173,7 +186,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T11:43:32.000Z",
       "addedAt": "2026-08-22T11:43:32.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity",
       "summary": "Dozens of cities have canceled their contracts with Flock. Some are switching to other companies, but privacy experts say they're no better than Flock."
     },
@@ -186,7 +199,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T12:02:44.000Z",
       "addedAt": "2026-08-23T12:02:44.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.npr.org/2026/08/23/nx-s1-5940882/why-hundreds-showed-up-to-support-murder-trial-defendant-lindsay-clancy",
       "summary": "Hundreds of people have been showing up outside a Massachusetts courthouse to show support for Lindsay Clancy, who's on trial after being charged with killing her three children in 2023."
     },
@@ -199,7 +212,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T09:00:00.000Z",
       "addedAt": "2026-08-23T09:00:00.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
       "summary": "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis."
     },
@@ -225,22 +238,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T21:30:48.000Z",
       "addedAt": "2026-08-22T21:30:48.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5939865/washington-d-c-ready-and-set-for-historic-indycar-race",
       "summary": "For the first time in America's 250 year history, IndyCar drivers will zoom down some of the nation's most famous streets this weekend. The drivers face new challenges on an unconventional route."
     },
     {
-      "id": "auto-national-b8810df9e7ba1799",
-      "section": "national",
-      "headline": "Top California negotiator on federal proposal to manage Colorado River water",
-      "sourceName": "NPR",
+      "id": "auto-world-60c61b7636057d74",
+      "section": "world",
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-22T21:21:31.000Z",
-      "addedAt": "2026-08-22T21:21:31.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5940814/top-california-negotiator-on-federal-proposal-to-manage-colorado-river-water",
-      "summary": "Western states have long disputed how to split the Colorado River's water. JB Hamby, California's top negotiator, weighs in on the new federal proposal to manage the resource."
+      "publishedAt": "2026-08-23T19:11:30.000Z",
+      "addedAt": "2026-08-22T18:20:36.000Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
     },
     {
       "id": "auto-world-f2588305d64391f7",
@@ -251,9 +264,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T18:17:37.000Z",
       "addedAt": "2026-08-23T18:17:37.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
       "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
+    },
+    {
+      "id": "auto-world-42e3f038bbcf4a65",
+      "section": "world",
+      "headline": "Trump waves green flag to start IndyCar race through Washington streets",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-23T20:19:36.000Z",
+      "addedAt": "2026-08-23T18:17:34.000Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
     },
     {
       "id": "auto-world-6b642ecabac288ec",
@@ -264,7 +290,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T17:39:33.000Z",
       "addedAt": "2026-08-23T15:00:17.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
       "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
     },
@@ -277,35 +303,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T12:56:43.000Z",
       "addedAt": "2026-08-23T09:37:05.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
       "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
-    },
-    {
-      "id": "auto-world-42e3f038bbcf4a65",
-      "section": "world",
-      "headline": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-23T18:17:34.000Z",
-      "addedAt": "2026-08-23T18:17:34.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
-    },
-    {
-      "id": "auto-world-60c61b7636057d74",
-      "section": "world",
-      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-23T05:46:43.000Z",
-      "addedAt": "2026-08-22T18:20:36.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
     },
     {
       "id": "auto-world-3eb2ae7242cb437c",
@@ -316,20 +316,20 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T12:52:08.000Z",
       "addedAt": "2026-08-23T12:52:08.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
       "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict."
     },
     {
       "id": "auto-world-e6fa83d2ea106119",
       "section": "world",
-      "headline": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "headline": "Frustration builds in Indiana town struggling without power for 12 days",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
       "publishedAt": "2026-08-23T15:54:32.000Z",
       "addedAt": "2026-08-23T15:54:32.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
       "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\"."
     },
@@ -342,7 +342,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T11:50:59.000Z",
       "addedAt": "2026-08-23T11:50:59.000Z",
-      "retrievedAt": "2026-08-23T18:47:32.640Z",
+      "retrievedAt": "2026-08-23T21:35:06.087Z",
       "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
       "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
     }
