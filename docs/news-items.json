@@ -1,20 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T07:00:30.126Z",
+  "updatedAt": "2026-08-23T09:42:10.445Z",
   "items": [
-    {
-      "id": "auto-local-2e63b5021e37f963",
-      "section": "local",
-      "headline": "Legal scandal forces Pinal County off high-profile capital murder case",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-20T18:58:32.212Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/legal-scandal-forces-pinal-county-off-high-profile-capital-murder-case/article_055dc551-dc8d-4fcc-bfd8-33a80e023e8d.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
     {
       "id": "auto-local-612a51c05f00dca9",
       "section": "local",
@@ -24,22 +11,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T07:26:22.000Z",
       "addedAt": "2026-08-22T07:26:22.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTUlBZ3pVM2M4MTVhRU5qVUxUd3gwWElEbnFwS0gtVVdGXzNfbk5Nb2VSOWJYZFFIVkFOVVZrM3RsUnZxclZROW5QNC1yancyUzVMRml4VTFSX3hhR2h0N3F0SkV0SXlrekdyYnQxaDFmci1DQ0tmWjZteEVOc2RYQ2dOV1Q3a3VqSlZXNV9tcGF6UXpabnRwWmctUk9XeXpaV1duUEtxZWtvSVI4UkxsTjdPTHhvMHNGcWUyLVNVNkRFYmJVMXc?oc=5",
       "summary": "Santa Cruz vs. Coolidge 8/21/26 PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-6305127557357fff",
-      "section": "local",
-      "headline": "Pinal’s People: Parsons will miss job of seeing Coolidge grow",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-20T21:43:02.702Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
-      "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -52,35 +26,24 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T06:45:00.000Z",
       "addedAt": "2026-08-22T06:45:00.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTmlzZVpHbWhFaExmbF84ZDNva1lyMVozQjJpeVlScWV2QzdzdTFIaDY4NWtOYVlMSTNkUjRyYm5laUhDVk1hNGswWmxSLWdFdmdtbmlrZ19Fc0sxN040NHpQX0YxUjRsWUVSRzZxbjZVMzhLejBUc2VZZ00waGtwbGVkS1owNy05Sm1TU21sdUVIRE8yR1JHbVJ2TUtFREFDRUlSaFZoT183ZHFFQUhkWXdnM0dnLUdlNEl0S2xITkVvSmJsMVBGZ0l2WklmMkdr?oc=5",
       "summary": "Thomas: School choice sweeping the nation PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-272b4dda8b69db92",
+      "id": "auto-local-34c479db0a928f3d",
       "section": "local",
-      "headline": "CG chief stands firm on Flock cameras amid privacy debate",
+      "headline": "San Tan Foothills falls to Pusch Ridge",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "addedAt": "2026-08-22T09:41:22.815Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-chief-stands-firm-on-flock-cameras-amid-privacy-debate/article_defb59f3-66a2-428a-9933-134c01e7cb6b.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-b805a5b313a0e979",
-      "section": "local",
-      "headline": "CD6 candidate Mendoza highlights affordability in CG in run-up to election",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-22T01:49:33.224Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/cd6-candidate-mendoza-highlights-affordability-in-cg-in-run-up-to-election/article_81e7912c-fe5f-442d-bba6-ac7b332ca25a.html",
+      "publishedAt": "2026-08-23T06:38:00.000Z",
+      "addedAt": "2026-08-23T06:38:00.000Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa1BuNzJCRjlBRmlQYlZYazl6RDJ2Yi15V0VUeU1takh4VWRvT0lpVWZZdU9adXVTMWNCZ04wakhhT2d4YWxqTlE0SERqZXRGZ1FGamMxaFl0SXVHaEx5VzhQNnZ4NkJqMndKOW0tWVBzSXFVZGZmV0Fnel9la2JPVWtpckhPMjNwTmE3ZHc3aVdiWkdoaktxV1BCVkJVTEVNMXJnY2ExSEcyVzVidmMyb3RNWWdSRnRfaGc3QkZKUTZSSzBudnkwOV93?oc=5",
+      "summary": "San Tan Foothills falls to Pusch Ridge PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -93,9 +56,24 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T07:45:00.000Z",
       "addedAt": "2026-08-22T07:45:00.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVjJYLVdlN05KSWpjSHVuRTY3QW1Mb3lleF9xSklKUXNpMWJkajIzM1FuTzJmY05aX3d6OUNGcTdwZWdsSE1idlZpSDVPbU56ZGJ4eHppdHBiR2t0S2tsOFhucWlpY3dNWGJFZWtyaXJ0ejBhR1FFaTZuejg0U2Zxb2ZMckF0ZTZ6TThnVWJZTnZiSHBJN20wamZjaFlhUzZka0V3ZmhjMzVuZ2Z0MkUxZHZ4U2Z0aEMycF9URTJPS0RUUjI1V0lzRWVoRWp6VS13OUlVbDdHQQ?oc=5",
       "summary": "Pinal County Sheriff's log, 08/22/26 PinalCentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-46927939e263cbcc",
+      "section": "local",
+      "headline": "Florence gets blown out by Show Low",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-22T05:40:00.000Z",
+      "addedAt": "2026-08-22T05:40:00.000Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaDBaV2F0djhpWTN3ZVJTNEF6ZmVfU3BmN2cwV0RZNjJjNVRKTGpNRjUwTjFOeHZSNUpZN3YxOHZIR2xvMnBJUmlBU2xiM3dhbUdzNmpyczJZdHlYRGg2c1UzVG1vajVDM2kwRVNLeElNWG1zbjJNeEpJOXdhSDh3cFlCRGxqckZDcGdBdXpIUS00aURQSDBLWVIxR0NEUDZsZjVvZGFqRElkS1BoRUlPbnJvXzZOWFZlLUdac01FRUxGeWxQM1E?oc=5",
+      "summary": "Florence gets blown out by Show Low PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -113,15 +91,43 @@
       "category": "Local news"
     },
     {
-      "id": "auto-local-840a919b652281f2",
+      "id": "auto-local-3cebd553d475be50",
       "section": "local",
-      "headline": "CG Police searching for suspect in fatal shooting",
+      "headline": "Heritage Maricopa drops close battle to Heritage Gateway",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "addedAt": "2026-08-21T01:57:10.502Z",
+      "publishedAt": "2026-08-22T05:42:00.000Z",
+      "addedAt": "2026-08-22T05:42:00.000Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUDNsVURnVGtQOEtTQndwd1o2TjFsTFozZDRSaml3UTRNbThHektQRzBmOFVZWXFpTzF0VGlOa3BVMHVxYVBWXzZqeFhoRzlsSEtrQmk4M0Q0LWpoQXVobmxvT3ZJbzNPVjhqbmpJNk80T3BhVVl1cWpHUHRvajFPanh2Y25yWFhBcGs5aDJna2xTZWpzTTk1bENfNC1aMlZHaURPZ3ZKbTNtU2dEbzF5QkY3emxERll5WGNod3pucEVOLU01Zk5YdEJKUzRBY3JhaEw0TDlPUUVjNHdsT3hPakZBNzBkRE9zc2FvNGYxM2M?oc=5",
+      "summary": "Heritage Maricopa drops close battle to Heritage Gateway PinalCentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-6305127557357fff",
+      "section": "local",
+      "headline": "Pinal’s People: Parsons will miss job of seeing Coolidge grow",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-20T21:43:02.702Z",
       "retrievedAt": "2026-08-23T07:00:30.126Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-police-searching-for-suspect-in-fatal-shooting/article_9ff18baa-cc20-4cd0-be4d-7cbcd8bed7bf.html",
+      "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-2e63b5021e37f963",
+      "section": "local",
+      "headline": "Legal scandal forces Pinal County off high-profile capital murder case",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-20T18:58:32.212Z",
+      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/legal-scandal-forces-pinal-county-off-high-profile-capital-murder-case/article_055dc551-dc8d-4fcc-bfd8-33a80e023e8d.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -134,7 +140,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T06:45:00.000Z",
       "addedAt": "2026-08-22T06:45:00.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1A2VjI2c3dBYmZKZWpKQllmR0V4a25GdDNFUFNmZnE5YnlvMHJQWXdya2ZNWUI5eWZyX3d5OUo1VjZTZ0ZnbUwyMlladVdGMmo5X1oxUHZhOWtEMF92MWVQTWVXQWZGYzRxSFhBb1lPd1pmT0JacnQ1b0w2NmpsOVNGNUZQd0ZOU3JmVDdfNFVleFpHZGhmdm0yRTk5OFduOFVIa0t4TlBqVDV1YUFpRTVrbUVjSDYtUjQxcGdodGh6Tl90VGJMRw?oc=5",
       "summary": "1 big tent for Democrats PinalCentral.com",
       "locality": "Pinal County",
@@ -149,7 +155,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T11:43:32.000Z",
       "addedAt": "2026-08-22T11:43:32.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity",
       "summary": "Dozens of cities have canceled their contracts with Flock. Some are switching to other companies, but privacy experts say they're no better than Flock."
     },
@@ -162,7 +168,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T11:43:27.000Z",
       "addedAt": "2026-08-22T11:43:27.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5939439/president-trump-is-set-to-wave-the-green-flag-at-a-historic-indy-car-race-in-dc",
       "summary": "We look at the upcoming IndyCar race in Washington, D.C., this weekend, as well as the U.S. Supreme Court decision on the construction of President Trump's White House ballroom."
     },
@@ -175,9 +181,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T11:43:22.000Z",
       "addedAt": "2026-08-22T11:43:22.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5928178/andrew-jacksons-plantation-revamps-tour-as-critics-push-for-deeper-reform",
       "summary": "The tour of President Andrew Jackson's plantation was revamped this year to focus on the life of the 300 people he enslaved. But some people say more needs to be done for their descendants."
+    },
+    {
+      "id": "auto-national-4126d59c48ecfe76",
+      "section": "national",
+      "headline": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-23T09:00:00.000Z",
+      "addedAt": "2026-08-23T09:00:00.000Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
+      "summary": "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis."
     },
     {
       "id": "auto-national-195a9a5bd12e969b",
@@ -188,7 +207,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T21:30:48.000Z",
       "addedAt": "2026-08-22T21:30:48.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5939865/washington-d-c-ready-and-set-for-historic-indycar-race",
       "summary": "For the first time in America's 250 year history, IndyCar drivers will zoom down some of the nation's most famous streets this weekend. The drivers face new challenges on an unconventional route."
     },
@@ -201,7 +220,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T21:21:31.000Z",
       "addedAt": "2026-08-22T21:21:31.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5940814/top-california-negotiator-on-federal-proposal-to-manage-colorado-river-water",
       "summary": "Western states have long disputed how to split the Colorado River's water. JB Hamby, California's top negotiator, weighs in on the new federal proposal to manage the resource."
     },
@@ -214,7 +233,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T20:53:19.000Z",
       "addedAt": "2026-08-22T20:53:19.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
       "summary": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality."
     },
@@ -232,30 +251,30 @@
       "summary": "The Supreme Court will allow construction on President Trump's controversial White House ballroom to continue. The administration says the renovations are needed for national security."
     },
     {
-      "id": "auto-national-03569006e456c152",
-      "section": "national",
-      "headline": "Colorado River crisis: Lower basin braces for massive federal water cuts",
-      "sourceName": "NPR",
+      "id": "auto-world-2d293806afc89b5b",
+      "section": "world",
+      "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-22T11:43:34.000Z",
-      "addedAt": "2026-08-22T11:43:34.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5940831/colorado-river-crisis-lower-basin-braces-for-massive-federal-water-cuts",
-      "summary": "The Trump Administration has released a two-year operating plan for the Colorado River. Arizona, California and Nevada are expected to cut their water use from the river."
+      "publishedAt": "2026-08-23T09:37:05.000Z",
+      "addedAt": "2026-08-23T09:37:05.000Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine."
     },
     {
       "id": "auto-world-60c61b7636057d74",
       "section": "world",
-      "headline": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
       "publishedAt": "2026-08-23T05:46:43.000Z",
       "addedAt": "2026-08-22T18:20:36.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war."
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
     },
     {
       "id": "auto-world-f269adbad0225333",
@@ -266,22 +285,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-22T20:02:46.000Z",
       "addedAt": "2026-08-22T15:00:27.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
       "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
-    },
-    {
-      "id": "auto-world-a08b0603dccd68da",
-      "section": "world",
-      "headline": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-21T22:36:12.000Z",
-      "addedAt": "2026-08-21T22:36:12.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
     },
     {
       "id": "auto-world-842948efb835fc42",
@@ -292,7 +298,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T03:44:19.000Z",
       "addedAt": "2026-08-23T03:44:19.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
       "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium."
     },
@@ -305,9 +311,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-23T01:34:15.000Z",
       "addedAt": "2026-08-23T01:34:15.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
       "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
+    },
+    {
+      "id": "auto-world-a08b0603dccd68da",
+      "section": "world",
+      "headline": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-21T22:36:12.000Z",
+      "addedAt": "2026-08-21T22:36:12.000Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
     },
     {
       "id": "auto-world-092eb89d901f16df",
@@ -318,41 +337,30 @@
       "priority": "normal",
       "publishedAt": "2026-08-21T05:00:57.000Z",
       "addedAt": "2026-08-21T05:00:57.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
       "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
     },
     {
-      "id": "auto-world-cae51eb578d36f31",
+      "id": "auto-world-aad594b6f7ff83a9",
       "section": "world",
-      "headline": "Syria says Israeli strike near Damascus violation of international law",
+      "headline": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-22T21:42:42.000Z",
-      "addedAt": "2026-08-22T21:42:42.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border."
-    },
-    {
-      "id": "auto-world-6c7d8fa61bcdbe20",
-      "section": "world",
-      "headline": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-22T02:39:10.000Z",
-      "addedAt": "2026-08-22T02:39:10.000Z",
-      "retrievedAt": "2026-08-23T07:00:30.126Z",
-      "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
-      "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer."
+      "publishedAt": "2026-08-22T23:45:01.000Z",
+      "addedAt": "2026-08-22T23:45:01.000Z",
+      "retrievedAt": "2026-08-23T09:42:10.445Z",
+      "url": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile."
     }
   ],
   "sources": {
     "local": "PinalCentral",
     "national": "NPR National RSS",
     "world": "BBC News World RSS",
-    "failures": []
+    "failures": [
+      "PinalCentral: https://www.pinalcentral.com/ returned 429"
+    ]
   }
 }
