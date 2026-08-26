@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T07:08:02.283Z",
+  "updatedAt": "2026-08-26T09:57:05.705Z",
   "items": [
     {
       "id": "auto-local-cf4179ad085c15b6",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-26T01:57:54.487Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.pinalcentral.com/coolidge_examiner/prop-320-detrimental-to-pinal-school-districts-cusd-warns/article_625a2901-0ed4-40ce-95b7-21bf5a8a72a3.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,23 +23,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-24T04:04:11.342Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-b717682f98f8f66d",
-      "section": "local",
-      "headline": "Truck fire closes road in Maricopa over weekend",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-25T02:12:49.000Z",
-      "addedAt": "2026-08-25T02:12:49.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSF9zRjhjc0xnQXUwVGVtUk5SVUItNV9KdUxOamNsME9femVULV9ZMEY4UlhPLWloUXl5MXJWeUtlTGttcUVzaUVnZlo0aTdlbU1VRGgwbWphWk5HWm1yeE5mcFRHWkZrSWxWemZkTVUxZlkxMFkwVVB0Y05FN2xSVlNreHpvZHpjVGNmN0JVeDBkaTdTOENHZmZhR2RPb3JVOFNMbE9ldlRYUjFYYUh2Q0x2WkhpMkpWSHRvQ2VpNUNTTUdveGlxY0dSN1o5YmlvSEUtTERjc2RiMlk?oc=5",
-      "summary": "Truck fire closes road in Maricopa over weekend PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -51,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-26T07:08:02.283Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-chief-stands-firm-on-flock-cameras-amid-privacy-debate/article_defb59f3-66a2-428a-9933-134c01e7cb6b.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -77,23 +62,23 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-26T07:08:02.283Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/ongoing-fire-on-ak-chin-indian-community-burns-40-acres/article_1cc1a73e-5e05-45c1-bfe5-c3a4a14bbfdf.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-3c83b61a30332f37",
+      "id": "auto-local-b717682f98f8f66d",
       "section": "local",
-      "headline": "Vernon Osife Sr.",
+      "headline": "Truck fire closes road in Maricopa over weekend",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-25T23:00:00.000Z",
-      "addedAt": "2026-08-25T23:00:00.000Z",
+      "publishedAt": "2026-08-25T02:12:49.000Z",
+      "addedAt": "2026-08-25T02:12:49.000Z",
       "retrievedAt": "2026-08-26T07:08:02.283Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTWVKVEhyS3NpdGxrTE5aS0wwMHIzQ1dEWGJEb1k2UjgtQWpxQWM3YWdxUFNoQUJ1bUJ0RkRGQVBWa2hnR3lKQk9CTVZ2VzdxREdpTHJwb1VEblhSb3lxRHVTLVhOYno0Tlk4c0ZLdURHUHk4TTBhN2RyV21jWENkNGE0T0RUazBMZTFBT1d1SlVIa3dTdnJxakZhendBRDJDZTIxeGJyelM?oc=5",
-      "summary": "Vernon Osife Sr. PinalCentral.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSF9zRjhjc0xnQXUwVGVtUk5SVUItNV9KdUxOamNsME9femVULV9ZMEY4UlhPLWloUXl5MXJWeUtlTGttcUVzaUVnZlo0aTdlbU1VRGgwbWphWk5HWm1yeE5mcFRHWkZrSWxWemZkTVUxZlkxMFkwVVB0Y05FN2xSVlNreHpvZHpjVGNmN0JVeDBkaTdTOENHZmZhR2RPb3JVOFNMbE9ldlRYUjFYYUh2Q0x2WkhpMkpWSHRvQ2VpNUNTTUdveGlxY0dSN1o5YmlvSEUtTERjc2RiMlk?oc=5",
+      "summary": "Truck fire closes road in Maricopa over weekend PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -118,7 +103,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-25T18:56:06.477Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.pinalcentral.com/local_sports/florence-gets-blown-out-by-show-low/article_e352c16f-482d-4f23-b776-e8e16f98b0f0.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -131,10 +116,49 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-25T18:56:06.477Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/sports/heritage-maricopa-drops-close-battle-to-heritage-gateway/article_82e22c88-052b-4679-bd7a-c1581dbe3701.html",
       "locality": "Pinal County",
       "category": "Local news"
+    },
+    {
+      "id": "auto-local-a1b04f8ed4187cc7",
+      "section": "local",
+      "headline": "Former Maricopa standout, Cowing, returns punt for TD to spark 49ers in preseason win over Chargers",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-26T09:57:05.705Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
+      "url": "https://www.pinalcentral.com/maricopa_monitor/sports/former-maricopa-standout-cowing-returns-punt-for-td-to-spark-49ers-in-preseason-win-over/article_e7bbd21f-e82e-5a66-82f2-fa4ff3459b71.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-national-f988284c18cb59d9",
+      "section": "national",
+      "headline": "Utah puts up ads promoting nuclear energy. Public interest groups say it's propaganda",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-26T08:47:13.000Z",
+      "addedAt": "2026-08-26T08:47:13.000Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5936461/utah-puts-up-ads-promoting-nuclear-energy-public-interest-groups-say-its-propaganda",
+      "summary": "Public interest groups have filed a formal complaint against advertising by the state of Utah promoting nuclear energy development. They argue it amounts to propaganda."
+    },
+    {
+      "id": "auto-national-fd2fa8987fe7764d",
+      "section": "national",
+      "headline": "Morning news brief",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-26T08:44:37.000Z",
+      "addedAt": "2026-08-26T08:44:37.000Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5942908/morning-news-brief",
+      "summary": "Canada strikes back in a trade war with the U.S., Trump administration is planning to revoke 200,000 immigration visas, study finds 1 in 4 former pro players who died between 2016 and 2021 had CTE."
     },
     {
       "id": "auto-national-b703079f41150ab8",
@@ -145,7 +169,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T10:28:31.000Z",
       "addedAt": "2026-08-25T10:28:31.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.npr.org/2026/08/25/nx-s1-5943570/trump-administration-unveils-new-iran-sanctions",
       "summary": "The Trump administration has struggled to find an exit ramp to the war against Iran. Now, it is trying to step up the financial pressure instead by introducing new sanctions to end the six month war."
     },
@@ -158,7 +182,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T09:00:00.000Z",
       "addedAt": "2026-08-25T09:00:00.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
       "summary": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins."
     },
@@ -171,7 +195,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T09:00:00.000Z",
       "addedAt": "2026-08-25T09:00:00.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
       "summary": "President Trump's Education Department is telling schools to stop considering race when it comes to school discipline."
     },
@@ -184,7 +208,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-26T05:45:58.000Z",
       "addedAt": "2026-08-26T05:45:58.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
       "summary": "Retailer Target pulled a children's Halloween costume from its shelves after widespread social media backlash, apologizing for selling a garment critics said evoked racist minstrel caricatures."
     },
@@ -197,7 +221,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T20:55:48.000Z",
       "addedAt": "2026-08-25T20:55:48.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.npr.org/2026/08/25/nx-s1-5943100-e1/mexican-cattle-allowed-in-the-u-s-after-a-yearlong-ban",
       "summary": "A border crossing in Arizona opened to cattle from Mexico for the first time in more than a year. This despite a parasite being found on the Mexican side. U.S. ranchers are upset."
     },
@@ -210,35 +234,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T20:49:43.000Z",
       "addedAt": "2026-08-25T20:49:43.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.npr.org/2026/08/25/nx-s1-5936454/colorado-resort-town-suing-ices-landlord-over-detentions",
       "summary": "A city in Colorado is suing the landlord of an ICE processing facility there, saying its detentions there violate local zoning codes."
-    },
-    {
-      "id": "auto-national-fcfb9dc01bab9a4b",
-      "section": "national",
-      "headline": "Churches, libraries and breweries: Inside DHS' covert surveillance operation",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-25T09:00:00.000Z",
-      "addedAt": "2026-08-25T09:00:00.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
-      "summary": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings."
-    },
-    {
-      "id": "auto-national-72166a6f907632a3",
-      "section": "national",
-      "headline": "30 structures burned in Reno's Hawk Fire, officials say",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-25T08:44:26.000Z",
-      "addedAt": "2026-08-25T08:44:26.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5943559/30-structures-burned-in-renos-hawk-fire-officials-say",
-      "summary": "Officials have confirmed more than 30 structures have burned in the Hawk Fire just northwest of Reno, Nevada."
     },
     {
       "id": "auto-world-90d5ea5673c11006",
@@ -249,7 +247,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T19:50:57.000Z",
       "addedAt": "2026-08-25T17:54:03.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
       "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
     },
@@ -262,7 +260,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T19:30:37.000Z",
       "addedAt": "2026-08-25T19:30:37.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
       "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams."
     },
@@ -275,7 +273,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T16:40:11.000Z",
       "addedAt": "2026-08-25T16:40:11.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
       "summary": "The footage shows dozens of men, women and children sitting in a forest."
     },
@@ -288,7 +286,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-24T15:14:14.000Z",
       "addedAt": "2026-08-24T15:14:14.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
       "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war."
     },
@@ -301,7 +299,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T02:08:57.000Z",
       "addedAt": "2026-08-25T02:08:57.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
       "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat."
     },
@@ -327,7 +325,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T00:17:25.000Z",
       "addedAt": "2026-08-25T00:17:25.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa."
     },
@@ -340,7 +338,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-25T19:48:14.000Z",
       "addedAt": "2026-08-25T15:43:50.000Z",
-      "retrievedAt": "2026-08-26T07:08:02.283Z",
+      "retrievedAt": "2026-08-26T09:57:05.705Z",
       "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
       "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
     }
@@ -349,6 +347,8 @@
     "local": "PinalCentral",
     "national": "NPR National RSS",
     "world": "BBC News World RSS",
-    "failures": []
+    "failures": [
+      "PinalCentral discovery RSS: https://news.google.com/rss/search?q=site%3Apinalcentral.com&hl=en-US&gl=US&ceid=US%3Aen returned 503"
+    ]
   }
 }
