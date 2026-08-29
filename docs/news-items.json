@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T16:42:46.236Z",
+  "updatedAt": "2026-08-29T20:54:55.467Z",
   "items": [
     {
       "id": "auto-local-69e32cec61e47060",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-28T00:24:38.203Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.pinalcentral.com/eloy_enterprise/eloy-fire-vets-proud-of-progress-in-80-year-history/article_c07ba70a-f71c-4111-928b-8099cd92a2a0.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -24,7 +24,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-27T07:15:00.000Z",
       "addedAt": "2026-08-27T07:15:00.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNnp6T1NVREszc0dnX0dIU19FVy1YRDJyQ3RaUWRUMmZlWXNleEpFSVZJMHBZNDI0SWx4R0dTM0I5WEkxZTUwY2Q5eVg0R3dpRUJLeTRPa3dXTUJzUThReVRoY2M3bDBNM25wWDBTVFdDUDY2V3lYZWFDZGlBZExLZ2IyMjc1NkNLd29RTGx0OFdHWnJyVEpubHJWZnViUHMwQWNmU2pOM1V6S1JRVmJYTE8wZFkycWpxcDdJcHhWSXRENkloWnhPbUIwSUY?oc=5",
       "summary": "Coolidge Police log, 08/27/26 PinalCentral.com",
       "locality": "Pinal County",
@@ -38,7 +38,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-28T00:24:38.203Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -51,7 +51,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-29T16:42:46.236Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/dolly-partons-memory-lives-on-in-program-that-impacts-thousands-of-pinal-kids/article_bcd6c248-1bd1-46da-a17e-f0d4e75f1ce9.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -64,7 +64,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-29T16:42:46.236Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.pinalcentral.com/florence_reminder_blade_tribune/florence-nonprofit-seeks-local-support-as-thanksgiving-food-drive-begins/article_6bd7b320-402b-4d86-b672-be95cc4456c0.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -77,7 +77,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-29T16:42:46.236Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.pinalcentral.com/breaking/pinal-board-rejects-sprawling-data-center/article_3ac027a2-6778-4560-b26f-4f5e83aa68cb.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -90,38 +90,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-29T16:42:46.236Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.pinalcentral.com/business_and_technology/new-cg-senior-development-to-combine-housing-commercial-space/article_557e918c-269b-4c23-8050-9dbec5471ec8.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-3667aeb9e64ca553",
-      "section": "local",
-      "headline": "Florence vs. Pusch Ridge 8/27/26",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-28T06:54:46.000Z",
-      "addedAt": "2026-08-28T06:54:46.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVDRZRk5ncTI2SVZSc2JfVjhyM09YX1o5YmZoNXhURldyV09WMDhfZHJqc2p1SUNhTWdWajg5XzlNbGNqaXQxcE1ENE9wS3pUVkw1bUFJa3RBNk1zekhnd2ZxNjA3NlQtVlVabU8tWjFFVFhCd2dnZUJZZ0NNbkNuS3JncEdQSElJMFRJWHVIdF9MVDdvYTRrS3lxand2OGJTY0VLUnRZYklTTmdiS1Vrd0c4cnVoQjhZLTFjdDJUV0ZzWGpVOThr?oc=5",
-      "summary": "Florence vs. Pusch Ridge 8/27/26 PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-126b6ac8f8766cdf",
-      "section": "local",
-      "headline": "Editorial: CAP water cuts",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-27T06:45:00.000Z",
-      "addedAt": "2026-08-27T06:45:00.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnlMSHd6TVhIMjVSSWowUktmMTNobWRhaUsyRTkyOTFGUjBNWVRyV2YzUzMyZ2hQNE5DaHdvWXZISV9FR19lam9ZWmlzZ1g2YWRUaFVjNFlxV1EwN3A1ejBDTElHWnp2QjZ1anBEWG82R0hWeko5bU5MbURRYWZtT2FqZHlVSmRCT2xOSXJiUU9xTV81TGxKOXR6ZjVZNFEwcjdId05BSmUzMmlUTzFCaFJmb0hoRlpZc29XVw?oc=5",
-      "summary": "Editorial: CAP water cuts PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -141,6 +111,34 @@
       "category": "Local news"
     },
     {
+      "id": "auto-local-126b6ac8f8766cdf",
+      "section": "local",
+      "headline": "Editorial: CAP water cuts",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-27T06:45:00.000Z",
+      "addedAt": "2026-08-27T06:45:00.000Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnlMSHd6TVhIMjVSSWowUktmMTNobWRhaUsyRTkyOTFGUjBNWVRyV2YzUzMyZ2hQNE5DaHdvWXZISV9FR19lam9ZWmlzZ1g2YWRUaFVjNFlxV1EwN3A1ejBDTElHWnp2QjZ1anBEWG82R0hWeko5bU5MbURRYWZtT2FqZHlVSmRCT2xOSXJiUU9xTV81TGxKOXR6ZjVZNFEwcjdId05BSmUzMmlUTzFCaFJmb0hoRlpZc29XVw?oc=5",
+      "summary": "Editorial: CAP water cuts PinalCentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-f6ae702b151bd598",
+      "section": "local",
+      "headline": "Maricopa has rough outing against Mountain Pointe",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-29T20:54:55.467Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
+      "url": "https://www.pinalcentral.com/maricopa_monitor/sports/maricopa-has-rough-outing-against-mountain-pointe/article_c854eb9d-d014-4269-a9e3-9ed5cabb642f.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
       "id": "auto-national-ec57f4d2c474162e",
       "section": "national",
       "headline": "Canada drops lobster tariffs, saving Maine supply chain",
@@ -149,7 +147,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-29T11:40:51.000Z",
       "addedAt": "2026-08-29T11:40:51.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.npr.org/2026/08/29/nx-s1-5945744/canada-drops-lobster-tariffs-saving-maine-supply-chain",
       "summary": "Maine's lobster fishing industry is closely integrated with processors across the border in Canada. People who depend on it are feeling whiplash from on-again, off-again tariff threats."
     },
@@ -162,7 +160,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-29T09:00:00.000Z",
       "addedAt": "2026-08-29T09:00:00.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
       "summary": "The WNBA's popularity has risen in recent years, but so have threats and abuse directed at its players. One team is taking a novel approach to this, by partnering with national security specialists."
     },
@@ -175,7 +173,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-29T11:40:49.000Z",
       "addedAt": "2026-08-29T11:40:49.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.npr.org/2026/08/29/nx-s1-5945671/leaf-it-behind-why-experts-say-we-need-to-stop-eating-lettuce",
       "summary": "People have been avoiding lettuce this summer. NPR's Scott Simon talks with Washington Post columnist Tamar Haspel, who says we really should just skip the lettuce, permanently."
     },
@@ -188,7 +186,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-29T09:00:00.000Z",
       "addedAt": "2026-08-29T09:00:00.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
       "summary": "The great Dolly Parton died earlier this week and tributes have poured in from across the country. Fans are mourning the loss of a country music icon who not only changed the musical landscape but gave back to communities with her Imagination Library program and donations to deve"
     },
@@ -214,7 +212,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-29T00:06:04.000Z",
       "addedAt": "2026-08-29T00:06:04.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
       "summary": "His removal order was triggered by two convictions from over 15 years ago, when he struggled with untreated PTSD. New York's governor said Park earned a \"second chance through rehabilitation.\""
     },
@@ -227,7 +225,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-28T10:54:22.000Z",
       "addedAt": "2026-08-28T10:54:22.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
       "summary": "Shreya Ahuja is searching for her parents after devastating floods struck Nepal. She is calling for international help and communications access as her family waits for news."
     },
@@ -240,7 +238,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-28T09:01:00.000Z",
       "addedAt": "2026-08-28T09:01:00.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
       "summary": "The singer, actress and philanthropist could have filled a whole quiz, but we had to give other people a chance."
     },
@@ -253,9 +251,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-29T16:15:56.000Z",
       "addedAt": "2026-08-29T01:21:43.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
+    },
+    {
+      "id": "auto-world-c640f6e63f7b9a5c",
+      "section": "world",
+      "headline": "Former Ecuadorian president imprisoned for corruption",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-29T19:44:54.000Z",
+      "addedAt": "2026-08-29T19:44:54.000Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
+      "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant."
     },
     {
       "id": "auto-world-65dd705ff551875a",
@@ -266,9 +277,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-29T07:11:04.000Z",
       "addedAt": "2026-08-29T07:11:04.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
       "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets."
+    },
+    {
+      "id": "auto-world-5e85e185498ceb18",
+      "section": "world",
+      "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-29T20:13:16.000Z",
+      "addedAt": "2026-08-29T09:38:07.000Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
     },
     {
       "id": "auto-world-0b2970efeec7ce6f",
@@ -279,7 +303,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-28T21:29:01.000Z",
       "addedAt": "2026-08-28T21:29:01.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
       "summary": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack."
     },
@@ -292,61 +316,35 @@
       "priority": "normal",
       "publishedAt": "2026-08-28T19:05:23.000Z",
       "addedAt": "2026-08-28T19:05:23.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
       "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
       "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action."
     },
     {
-      "id": "auto-world-2040a49d786f2591",
+      "id": "auto-world-b6a1786019927cd0",
       "section": "world",
-      "headline": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "headline": "Norway's new king remembers 'my dear father' in first speech",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-29T01:14:13.000Z",
-      "addedAt": "2026-08-29T01:14:13.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two ships were seized within four days last week raising to at least 13 the number attacked since January."
+      "publishedAt": "2026-08-29T19:06:28.000Z",
+      "addedAt": "2026-08-29T19:06:28.000Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign."
     },
     {
-      "id": "auto-world-5e85e185498ceb18",
+      "id": "auto-world-84cd542f5042fbad",
       "section": "world",
-      "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "headline": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-29T15:27:56.000Z",
-      "addedAt": "2026-08-29T09:38:07.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
-      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
-    },
-    {
-      "id": "auto-world-0121afcd81ea5084",
-      "section": "world",
-      "headline": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-29T03:54:11.000Z",
-      "addedAt": "2026-08-28T22:05:41.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
-    },
-    {
-      "id": "auto-world-d231b4f37d9b3fe8",
-      "section": "world",
-      "headline": "Satellite images reveal scale of flood devastation in Nepal villages",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-28T17:36:54.000Z",
-      "addedAt": "2026-08-28T17:36:54.000Z",
-      "retrievedAt": "2026-08-29T16:42:46.236Z",
-      "url": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
-      "summary": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters."
+      "publishedAt": "2026-08-29T17:52:42.000Z",
+      "addedAt": "2026-08-29T17:52:42.000Z",
+      "retrievedAt": "2026-08-29T20:54:55.467Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
     }
   ],
   "sources": {
