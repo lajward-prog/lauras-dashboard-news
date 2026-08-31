@@ -1,33 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-30T23:28:56.092Z",
+  "updatedAt": "2026-08-31T05:32:45.131Z",
   "items": [
-    {
-      "id": "auto-local-69e32cec61e47060",
-      "section": "local",
-      "headline": "Eloy Fire vets proud of progress in 80-year history",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-28T00:24:38.203Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
-      "url": "https://www.pinalcentral.com/eloy_enterprise/eloy-fire-vets-proud-of-progress-in-80-year-history/article_c07ba70a-f71c-4111-928b-8099cd92a2a0.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-6305127557357fff",
-      "section": "local",
-      "headline": "Pinal’s People: Parsons will miss job of seeing Coolidge grow",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-08-28T00:24:38.203Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
-      "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
     {
       "id": "auto-local-c138e2c9f65a0565",
       "section": "local",
@@ -36,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-29T16:42:46.236Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/dolly-partons-memory-lives-on-in-program-that-impacts-thousands-of-pinal-kids/article_bcd6c248-1bd1-46da-a17e-f0d4e75f1ce9.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-29T16:42:46.236Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.pinalcentral.com/florence_reminder_blade_tribune/florence-nonprofit-seeks-local-support-as-thanksgiving-food-drive-begins/article_6bd7b320-402b-4d86-b672-be95cc4456c0.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -62,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-29T16:42:46.236Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.pinalcentral.com/breaking/pinal-board-rejects-sprawling-data-center/article_3ac027a2-6778-4560-b26f-4f5e83aa68cb.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -75,7 +49,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-29T16:42:46.236Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.pinalcentral.com/business_and_technology/new-cg-senior-development-to-combine-housing-commercial-space/article_557e918c-269b-4c23-8050-9dbec5471ec8.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -89,7 +63,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-28T06:54:46.000Z",
       "addedAt": "2026-08-28T06:54:46.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVDRZRk5ncTI2SVZSc2JfVjhyM09YX1o5YmZoNXhURldyV09WMDhfZHJqc2p1SUNhTWdWajg5XzlNbGNqaXQxcE1ENE9wS3pUVkw1bUFJa3RBNk1zekhnd2ZxNjA3NlQtVlVabU8tWjFFVFhCd2dnZUJZZ0NNbkNuS3JncEdQSElJMFRJWHVIdF9MVDdvYTRrS3lxand2OGJTY0VLUnRZYklTTmdiS1Vrd0c4cnVoQjhZLTFjdDJUV0ZzWGpVOThr?oc=5",
       "summary": "Florence vs. Pusch Ridge 8/27/26 PinalCentral.com",
       "locality": "Pinal County",
@@ -103,7 +77,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-30T05:23:09.626Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/sports/maricopa-has-rough-outing-against-mountain-pointe/article_c854eb9d-d014-4269-a9e3-9ed5cabb642f.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -116,7 +90,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-30T16:40:16.277Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/sports/coolidge-produces-total-team-effort-in-victory-over-heritage-maricopa/article_08b9aeb9-961e-46c5-ad21-576fddca83ef.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -129,8 +103,34 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-08-30T21:04:42.419Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.pinalcentral.com/local_sports/florence-struggles-in-red-zone-against-round-valley/article_1180a262-d127-4bcb-8782-51b27751b6b4.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-da2f3927bd69cb20",
+      "section": "local",
+      "headline": "Pinal's People: Robert Miller sees volunteering as a way to support others",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-31T05:32:45.131Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
+      "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-robert-miller-sees-volunteering-as-a-way-to-support-others/article_7e885c91-5dd4-45d7-ac85-383968d14780.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-5064471b4ba83b20",
+      "section": "local",
+      "headline": "Pinal’s People: Robbins attributes time in CG as catalyst for successful NFL career",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-08-31T05:32:45.131Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
+      "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-robbins-attributes-time-in-cg-as-catalyst-for-successful-nfl-career/article_1315fe6f-7b45-4e4a-9c4c-3a41d6056138.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -143,9 +143,22 @@
       "priority": "normal",
       "publishedAt": "2026-08-30T21:01:15.000Z",
       "addedAt": "2026-08-30T21:01:15.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.npr.org/2026/08/30/nx-s1-5949338/finally-an-economic-indicator-you-can-eat",
       "summary": "A corn dog may look like lunch. But to an economist, the price is a bigger story about food prices and inflation."
+    },
+    {
+      "id": "auto-national-7e5fa0c28286a78b",
+      "section": "national",
+      "headline": "Arizona's taps won't run dry, but water bills will go up under federal plan for Colorado River",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-31T04:01:00.000Z",
+      "addedAt": "2026-08-31T04:01:00.000Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5945480/arizonas-taps-wont-run-dry-but-water-bills-will-go-up-under-federal-plan-for-colorado-river",
+      "summary": "New federal rules mean Arizona will be getting a lot less water from the Colorado river. City leaders say they've been planning for years and no one will run out, but keeping taps flowing is expensive."
     },
     {
       "id": "auto-national-e2b973f0b4bc4fd5",
@@ -156,7 +169,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-30T21:01:16.000Z",
       "addedAt": "2026-08-30T21:01:16.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.npr.org/2026/08/30/nx-s1-5949326/the-nancy-grace-roman-telescope-begins-its-journey-into-deep-space",
       "summary": "NASA launched a telescope named after Nancy Grace Roman, the pioneering astronomer whose work helped make Hubble and generations of space telescopes possible."
     },
@@ -169,7 +182,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-30T21:01:13.000Z",
       "addedAt": "2026-08-30T21:01:13.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.npr.org/2026/08/30/nx-s1-5948223/insanity-defenses-rarely-work-lindsay-clancys-case-may-be-different",
       "summary": "Insanity defenses are notoriously difficult to win. But Massachusetts law could give Lindsay Clancy a better chance."
     },
@@ -182,7 +195,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-30T21:01:07.000Z",
       "addedAt": "2026-08-30T21:01:07.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.npr.org/2026/08/30/nx-s1-5938256/he-offered-strangers-10-to-tie-his-shoe-then-things-got-weird",
       "summary": "Would $10 convince you to walk up to a stranger and tie their shoe? One Minneapolis artist turned that question into delightfully public chaos."
     },
@@ -195,7 +208,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-30T12:32:17.000Z",
       "addedAt": "2026-08-30T12:32:17.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.npr.org/2026/08/30/nx-s1-5943175/haitians-in-springfield-ohio-avoid-leaving-home-as-ice-activity-intensifies",
       "summary": "As threats of deportation loom, some Haitians in Springfield, Ohio, are hiding in their homes, too afraid to visit their churches."
     },
@@ -208,7 +221,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-29T21:14:12.000Z",
       "addedAt": "2026-08-29T21:14:12.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.npr.org/2026/08/29/nx-s1-5945658/more-school-districts-are-shrinking-new-research-asks-whether-closures-work",
       "summary": "School districts across the country are closing campuses as enrollment falls. New research says the financial savings may be smaller than expected."
     },
@@ -221,22 +234,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-29T21:14:08.000Z",
       "addedAt": "2026-08-29T21:14:08.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.npr.org/2026/08/29/nx-s1-5947251/what-to-know-about-faa-moves-to-fire-two-controllers-after-deadly-laguardia-crash",
       "summary": "The FAA's response to a deadly crash is opening a larger debate about staffing, safety and a workplace practice controllers call the \"early shove.\""
-    },
-    {
-      "id": "auto-national-ea0ba5c4e42fd8d9",
-      "section": "national",
-      "headline": "ICE arrests are surging as the administration targets more immigrants",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-29T21:14:07.000Z",
-      "addedAt": "2026-08-29T21:14:07.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
-      "url": "https://www.npr.org/2026/08/29/nx-s1-5946880/ice-arrests-are-surging-as-the-administration-targets-more-immigrants",
-      "summary": "ICE made nearly 50,000 arrests in July -- the highest monthly total of Trump's second term -- as enforcement expands to more places like airports, courthouses and immigration check-ins."
     },
     {
       "id": "auto-world-cd454d4b845952d5",
@@ -247,7 +247,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-30T04:01:02.000Z",
       "addedAt": "2026-08-29T01:21:43.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
     },
@@ -260,7 +260,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-30T16:11:44.000Z",
       "addedAt": "2026-08-30T03:57:01.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
       "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks."
     },
@@ -273,35 +273,48 @@
       "priority": "normal",
       "publishedAt": "2026-08-30T20:40:02.000Z",
       "addedAt": "2026-08-30T20:40:02.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss",
       "summary": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet."
     },
     {
       "id": "auto-world-cd57c60b2fd8772f",
       "section": "world",
-      "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "headline": "US and Iran trade strikes for first time in weeks",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-30T21:15:42.000Z",
+      "publishedAt": "2026-08-31T04:54:32.000Z",
       "addedAt": "2026-08-30T21:15:42.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July."
+      "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others."
     },
     {
       "id": "auto-world-852a3532ef3ac493",
       "section": "world",
-      "headline": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "headline": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-08-30T20:02:43.000Z",
+      "publishedAt": "2026-08-31T03:56:15.000Z",
       "addedAt": "2026-08-30T20:02:43.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
       "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port."
+    },
+    {
+      "id": "auto-world-64cfd9e01882537c",
+      "section": "world",
+      "headline": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-08-30T23:52:27.000Z",
+      "addedAt": "2026-08-30T22:14:37.000Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
+      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC."
     },
     {
       "id": "auto-world-c640f6e63f7b9a5c",
@@ -312,22 +325,9 @@
       "priority": "normal",
       "publishedAt": "2026-08-29T19:44:54.000Z",
       "addedAt": "2026-08-29T19:44:54.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
       "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant."
-    },
-    {
-      "id": "auto-world-64cfd9e01882537c",
-      "section": "world",
-      "headline": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-08-30T22:14:37.000Z",
-      "addedAt": "2026-08-30T22:14:37.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
-      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC."
     },
     {
       "id": "auto-world-5f62508bc72484fd",
@@ -338,7 +338,7 @@
       "priority": "normal",
       "publishedAt": "2026-08-30T17:49:31.000Z",
       "addedAt": "2026-08-30T11:25:11.000Z",
-      "retrievedAt": "2026-08-30T23:28:56.092Z",
+      "retrievedAt": "2026-08-31T05:32:45.131Z",
       "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
       "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
     }
