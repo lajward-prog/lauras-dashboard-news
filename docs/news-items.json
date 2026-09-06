@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-06T04:37:07.300Z",
+  "updatedAt": "2026-09-06T10:54:47.516Z",
   "items": [
     {
       "id": "auto-local-6305127557357fff",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-03T21:01:15.477Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-04T20:44:55.568Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/strong-winds-heavy-rain-accompany-wild-cg-storm/article_42f8af9a-f45c-40f6-b631-66916b14f5d1.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -36,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-05T04:26:26.298Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-planning-panel-advances-landscaping-code-overhaul-focused-on-conservation/article_a75a08b5-1db2-45c6-bcfa-cdd94544f7da.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +49,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-05T04:26:26.298Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/florence-man-faces-16-counts-in-child-abuse-investigation/article_4e032c73-b244-4cb8-9de7-81b38f1528f7.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -62,7 +62,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-04T23:02:38.201Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.pinalcentral.com/world_news/russian-drone-strikes-ukraine-security-service-headquarters-as-us-talks-on-war-are-expected/article_55e8ece8-21db-50fb-a249-98a89a2d086c.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -75,7 +75,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-03T21:01:15.477Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/offering-new-things-to-explore-maricopa-kids-day-returns-for-another-year/article_8cb14664-a6b9-466d-b847-1e162dc66490.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -88,7 +88,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-04T04:31:32.456Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/group-of-maricopa-residents-seek-removal-of-flock-cameras/article_2f2f9daa-c6dc-4d74-a513-05dee627b5b5.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -101,7 +101,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-06T04:37:07.300Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.pinalcentral.com/florence_reminder_blade_tribune/injured-veteran-to-receive-custom-home-7th-of-its-kind-in-az-near-florence/article_780ab7e6-dd0c-49d4-82f3-c59841b329d4.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -114,36 +114,23 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-06T04:37:07.300Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/biggs-outlines-vision-for-arizona-pinal-during-cg-stop/article_a1e04d35-d7f2-423c-9e40-c2e74e5b8220.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-f39ea8cb88916286",
+      "id": "auto-local-e12fe0afa845e8ed",
       "section": "local",
-      "headline": "ALA-Ironwood seals victory over Florence",
+      "headline": "Maricopa hopes competitiveness can translate to wins",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "addedAt": "2026-09-05T22:54:09.827Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
-      "url": "https://www.pinalcentral.com/local_sports/ala-ironwood-seals-victory-over-florence/article_387bdaa4-69fc-4522-a6a7-16c2661e3a6c.html",
+      "addedAt": "2026-09-06T10:54:47.516Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
+      "url": "https://www.pinalcentral.com/maricopa_monitor/sports/maricopa-hopes-competitiveness-can-translate-to-wins/article_878e3d94-0445-4f80-9730-0124e2409971.html",
       "locality": "Pinal County",
       "category": "Local news"
-    },
-    {
-      "id": "auto-national-7436d63e7b720eb9",
-      "section": "national",
-      "headline": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-05T15:05:08.000Z",
-      "addedAt": "2026-09-05T15:05:08.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "summary": "One of the Iranian tankers struck was near a key area in Iran's oil-export system, according to U.S. Central Command."
     },
     {
       "id": "auto-national-2026a9e0a3ba2481",
@@ -154,9 +141,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-05T11:43:16.000Z",
       "addedAt": "2026-09-05T11:43:16.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.npr.org/2026/09/05/nx-s1-5954228/on-the-line-wildland-firefighter-justin-brown-on-battling-a-historic-fire-season",
       "summary": "The wildfire season in the western U.S. is one of the worst on record. NPR's Scott Simon talks to Justin Brown, a wildland firefighter, about the challenges in tackling today's blazes."
+    },
+    {
+      "id": "auto-national-9962a35b0cad1aad",
+      "section": "national",
+      "headline": "American Muslims are giving Texas barbecue a halal makeover",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-06T10:00:00.000Z",
+      "addedAt": "2026-09-06T10:00:00.000Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+      "summary": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions."
     },
     {
       "id": "auto-national-61688ea581741b81",
@@ -167,7 +167,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-05T21:01:14.000Z",
       "addedAt": "2026-09-05T21:01:14.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.npr.org/2026/09/05/nx-s1-5959173/u-s-forest-service-to-keep-some-research-stations-open-after-pushback-about-restructuring",
       "summary": "In a massive restructuring under the Trump administration, U.S. Forest Service is closing dozens of research stations but, as NPR's Chiara Eisner reports, it is keeping some facilities open that had been projected to shutter."
     },
@@ -180,7 +180,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-05T21:01:11.000Z",
       "addedAt": "2026-09-05T21:01:11.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.npr.org/2026/09/05/nx-s1-5958641/i-dont-think-i-had-10-in-the-bank-angela-davis-remembers-gloria-steinems-allyship",
       "summary": "Activist and author Angela Davis remembers her friend Gloria Steinem, and discusses intersectional feminism today."
     },
@@ -193,7 +193,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-05T21:01:10.000Z",
       "addedAt": "2026-09-05T21:01:10.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
       "summary": "On the centennial of father's birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space."
     },
@@ -206,7 +206,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-05T21:01:09.000Z",
       "addedAt": "2026-09-05T21:01:09.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.npr.org/2026/09/05/nx-s1-5954545/the-republican-midterm-convention-is-taking-place-in-the-heart-of-bush-country",
       "summary": "The Republican midterm convention in Dallas takes place in the same city that helped give rise to the Bush political dynasty. Still, many policies championed by the conservative presidents are noticeably absent from today's Republican Party."
     },
@@ -219,22 +219,21 @@
       "priority": "normal",
       "publishedAt": "2026-09-05T21:01:06.000Z",
       "addedAt": "2026-09-05T21:01:06.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.npr.org/2026/09/05/nx-s1-5953991/covering-the-wild-world-of-prediction-markets",
       "summary": "NPR's Bobby Allyn talks about covering the prediction markets, where anyone can trade bets on the outcome of anything happening in the real world."
     },
     {
-      "id": "auto-national-ec12292b44f89302",
+      "id": "auto-national-7436d63e7b720eb9",
       "section": "national",
-      "headline": "9/11 1st responder shares his story with family",
+      "headline": "U.S. and Iran trade attacks on ships as fighting flares up again",
       "sourceName": "NPR",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-05T11:50:26.000Z",
-      "addedAt": "2026-09-05T11:50:26.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5921394/9-11-1st-responder-shares-his-story-with-family",
-      "summary": "A captain with the New York City Fire Department 25 years ago on Sept. 11, 2001, tells his daughter for the first time what he experienced that day."
+      "publishedAt": "2026-09-05T15:05:08.000Z",
+      "addedAt": "2026-09-05T15:05:08.000Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted"
     },
     {
       "id": "auto-world-152941cd911216c5",
@@ -245,7 +244,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-04T16:02:32.000Z",
       "addedAt": "2026-09-04T16:02:32.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
       "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
     },
@@ -258,22 +257,48 @@
       "priority": "normal",
       "publishedAt": "2026-09-05T09:12:48.000Z",
       "addedAt": "2026-09-05T09:12:48.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations."
     },
     {
       "id": "auto-world-e7ca182c23103038",
       "section": "world",
-      "headline": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "headline": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-06T02:24:16.000Z",
+      "publishedAt": "2026-09-06T10:44:26.000Z",
       "addedAt": "2026-09-06T02:24:16.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine."
+      "summary": "It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv."
+    },
+    {
+      "id": "auto-world-2cd5643ef6040a20",
+      "section": "world",
+      "headline": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-06T09:56:39.000Z",
+      "addedAt": "2026-09-06T09:56:39.000Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
+    },
+    {
+      "id": "auto-world-4366b844748e671b",
+      "section": "world",
+      "headline": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-06T08:05:22.000Z",
+      "addedAt": "2026-09-05T21:29:38.000Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
     },
     {
       "id": "auto-world-365651c3bd66be93",
@@ -289,19 +314,6 @@
       "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled."
     },
     {
-      "id": "auto-world-063b9a97f655041a",
-      "section": "world",
-      "headline": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-06T01:54:29.000Z",
-      "addedAt": "2026-09-06T01:54:29.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
-      "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-      "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house."
-    },
-    {
       "id": "auto-world-b54f6ae9456b4d70",
       "section": "world",
       "headline": "Germany's far-right AfD bids for first taste of power in eastern vote",
@@ -310,35 +322,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-04T23:07:23.000Z",
       "addedAt": "2026-09-04T23:07:23.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
       "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
       "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two."
     },
     {
-      "id": "auto-world-2194e8f0da59ab73",
+      "id": "auto-world-063b9a97f655041a",
       "section": "world",
-      "headline": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "headline": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-05T22:44:07.000Z",
-      "addedAt": "2026-09-05T15:07:45.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
-    },
-    {
-      "id": "auto-world-4366b844748e671b",
-      "section": "world",
-      "headline": "TV presenter among 11 sentenced to death in Egypt drugs case",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-05T21:29:38.000Z",
-      "addedAt": "2026-09-05T21:29:38.000Z",
-      "retrievedAt": "2026-09-06T04:37:07.300Z",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
+      "publishedAt": "2026-09-06T01:54:29.000Z",
+      "addedAt": "2026-09-06T01:54:29.000Z",
+      "retrievedAt": "2026-09-06T10:54:47.516Z",
+      "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house."
     }
   ],
   "sources": {
