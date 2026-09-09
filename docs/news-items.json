@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T16:37:16.097Z",
+  "updatedAt": "2026-09-09T20:55:36.273Z",
   "items": [
     {
       "id": "auto-local-6305127557357fff",
@@ -10,8 +10,47 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-07T04:39:17.359Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-ec65d7f4d2405ad6",
+      "section": "local",
+      "headline": "Comic book artist to be featured at Casa Grande Art Museum",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-08T11:17:44.339Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "url": "https://www.pinalcentral.com/recreation_and_entertainment/comic-book-artist-to-be-featured-at-casa-grande-art-museum/article_f341476c-8a94-4f9b-abf1-8e2701bfcbde.html",
+      "locality": "Casa Grande",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-625eda430eb421f8",
+      "section": "local",
+      "headline": "Fire chief speaks on Bright International chemical fires",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "url": "https://www.pinalcentral.com/coolidge_examiner/fire-chief-speaks-on-bright-international-chemical-fires/article_42705795-e53e-4be4-97a6-45e85a340a2f.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-e36d3a7544fd4ee1",
+      "section": "local",
+      "headline": "Eloy booth brings small town, big heart to League of Cities",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "url": "https://www.pinalcentral.com/eloy_enterprise/eloy-booth-brings-small-town-big-heart-to-league-of-cities/article_6dfc7866-abfb-4537-9a1c-3406fd95fd9e.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -24,35 +63,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-08T16:54:00.000Z",
       "addedAt": "2026-09-08T16:54:00.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcGhidW44a3hUYzJtRkhEU3NWSXJHeG95bVgtR3dTV0p0czNPZnVhbXY3aGQtdThmZi05QU1sTmoyQ2hJYmdveUlKMENvQkM0Ti1DQ3l2NXpaUUxpQ0gtVm9wMzQtWjJvdXJjRWRXRWZiMDJ3RFNSYjdsSVNKa1R0cW1tRGhVREl5dTBudVRxNURIcS1wSDN5N0UwNFp2cjhTakVqbWVFaDlrRVNIYmNHOXFBSk9FRHR5TDIxSjhnTlY?oc=5",
       "summary": "BackStory: Flock protest in Maricopa PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-ec65d7f4d2405ad6",
-      "section": "local",
-      "headline": "Comic book artist to be featured at Casa Grande Art Museum",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-08T11:17:44.339Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
-      "url": "https://www.pinalcentral.com/recreation_and_entertainment/comic-book-artist-to-be-featured-at-casa-grande-art-museum/article_f341476c-8a94-4f9b-abf1-8e2701bfcbde.html",
-      "locality": "Casa Grande",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-b58044ed1df33fc1",
-      "section": "local",
-      "headline": "Copeland: Community is key to future school district success",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
-      "url": "https://www.pinalcentral.com/free-access/copeland-community-is-key-to-future-school-district-success/article_06d07c09-fd3f-437c-805b-857b83a99e5e.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -64,7 +77,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T21:08:51.266Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/solar-energy-complex-okd-south-of-eloy/article_f6d64908-efc8-4fd1-9c9e-b25d3c670700.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -77,7 +90,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.pinalcentral.com/world_news/russian-drone-strikes-ukraine-security-service-headquarters-as-us-talks-on-war-are-expected/article_55e8ece8-21db-50fb-a249-98a89a2d086c.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -90,7 +103,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/florence-man-faces-16-counts-in-child-abuse-investigation/article_4e032c73-b244-4cb8-9de7-81b38f1528f7.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -103,7 +116,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/offering-new-things-to-explore-maricopa-kids-day-returns-for-another-year/article_8cb14664-a6b9-466d-b847-1e162dc66490.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -116,23 +129,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-09T11:21:22.681Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/sports/maricopa-hopes-competitiveness-can-translate-to-wins/article_878e3d94-0445-4f80-9730-0124e2409971.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-5d1bb62c9620abbd",
-      "section": "local",
-      "headline": "Florida State League Playoffs",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-09T03:53:19.000Z",
-      "addedAt": "2026-09-09T03:53:19.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckpjaFR3R2ZNZk9BelBpanBUbExWRFZnV0pEY2lYQW1DWTdaeVJZWmg3SUJQYk81M0ZMcHBIcXZkTTVxSVp4Mmg2U29URHpFSXZEekRqYmNxRWxtQy1PSl9CT3RJZ1p4cjJ2YUxfVjI2U3RoNC1nT1FVc01kNVpYaGFlMTNRa1RieFl2SU1TdGVDQmM3N1NVTS1vOTNPV0ZPQUVBakppS2JIVVU5MmU5Si1DejlxRnlNLTBFSVFfOV9UQQ?oc=5",
-      "summary": "Florida State League Playoffs PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -241,6 +239,32 @@
       "summary": "In the Portland, Oregon, area, a nonprofit harvests edible fruit from thousands of metro trees, shrubs and bushes, and distributes it to people in need."
     },
     {
+      "id": "auto-world-b200394c89eee0e7",
+      "section": "world",
+      "headline": "Iran referred to UN Security Council for nuclear non-compliance",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-09T20:22:51.000Z",
+      "addedAt": "2026-09-09T20:22:51.000Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections."
+    },
+    {
+      "id": "auto-world-3ff633b412adf7f6",
+      "section": "world",
+      "headline": "Google picks Finland for its largest single investment in Europe",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-09T17:06:48.000Z",
+      "addedAt": "2026-09-09T17:06:48.000Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs."
+    },
+    {
       "id": "auto-world-b8fc02c563f9c04e",
       "section": "world",
       "headline": "Germany's Merz attacks AfD in stormy debate after far-right election win",
@@ -249,7 +273,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T13:29:33.000Z",
       "addedAt": "2026-09-09T13:29:33.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
       "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
     },
@@ -260,11 +284,11 @@
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-09T16:01:54.000Z",
+      "publishedAt": "2026-09-09T20:28:04.000Z",
       "addedAt": "2026-09-09T16:01:54.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes."
+      "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes."
     },
     {
       "id": "auto-world-eaab11451b53aa52",
@@ -275,7 +299,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T10:20:40.000Z",
       "addedAt": "2026-09-09T03:03:32.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force."
     },
@@ -288,7 +312,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T11:01:41.000Z",
       "addedAt": "2026-09-09T11:01:41.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
       "summary": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms."
     },
@@ -301,7 +325,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T12:06:40.000Z",
       "addedAt": "2026-09-09T12:06:40.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
       "summary": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game."
     },
@@ -314,41 +338,17 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T06:42:01.000Z",
       "addedAt": "2026-09-09T06:42:01.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T20:55:36.273Z",
       "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
       "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say."
-    },
-    {
-      "id": "auto-world-3322774fd5728b88",
-      "section": "world",
-      "headline": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-08T23:11:41.000Z",
-      "addedAt": "2026-09-08T23:11:41.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
-      "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
-      "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman."
-    },
-    {
-      "id": "auto-world-e9a66f750fe65e19",
-      "section": "world",
-      "headline": "Europe's royalty pay respects to King Harald V in Norway",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-09T16:30:28.000Z",
-      "addedAt": "2026-09-09T16:30:28.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
-      "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday."
     }
   ],
   "sources": {
     "local": "PinalCentral",
     "national": "NPR National RSS",
     "world": "BBC News World RSS",
-    "failures": []
+    "failures": [
+      "NPR National: https://feeds.npr.org/1003/rss.xml returned 404"
+    ]
   }
 }
