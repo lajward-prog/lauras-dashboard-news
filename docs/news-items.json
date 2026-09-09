@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T11:21:22.681Z",
+  "updatedAt": "2026-09-09T16:37:16.097Z",
   "items": [
     {
       "id": "auto-local-6305127557357fff",
@@ -10,8 +10,23 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-07T04:39:17.359Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-50cd09c74a900526",
+      "section": "local",
+      "headline": "BackStory: Flock protest in Maricopa",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-08T16:54:00.000Z",
+      "addedAt": "2026-09-08T16:54:00.000Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcGhidW44a3hUYzJtRkhEU3NWSXJHeG95bVgtR3dTV0p0czNPZnVhbXY3aGQtdThmZi05QU1sTmoyQ2hJYmdveUlKMENvQkM0Ti1DQ3l2NXpaUUxpQ0gtVm9wMzQtWjJvdXJjRWRXRWZiMDJ3RFNSYjdsSVNKa1R0cW1tRGhVREl5dTBudVRxNURIcS1wSDN5N0UwNFp2cjhTakVqbWVFaDlrRVNIYmNHOXFBSk9FRHR5TDIxSjhnTlY?oc=5",
+      "summary": "BackStory: Flock protest in Maricopa PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -23,7 +38,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T11:17:44.339Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.pinalcentral.com/recreation_and_entertainment/comic-book-artist-to-be-featured-at-casa-grande-art-museum/article_f341476c-8a94-4f9b-abf1-8e2701bfcbde.html",
       "locality": "Casa Grande",
       "category": "Local news"
@@ -36,7 +51,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.pinalcentral.com/free-access/copeland-community-is-key-to-future-school-district-success/article_06d07c09-fd3f-437c-805b-857b83a99e5e.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +64,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T21:08:51.266Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/solar-energy-complex-okd-south-of-eloy/article_f6d64908-efc8-4fd1-9c9e-b25d3c670700.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -62,7 +77,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.pinalcentral.com/world_news/russian-drone-strikes-ukraine-security-service-headquarters-as-us-talks-on-war-are-expected/article_55e8ece8-21db-50fb-a249-98a89a2d086c.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -75,7 +90,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/florence-man-faces-16-counts-in-child-abuse-investigation/article_4e032c73-b244-4cb8-9de7-81b38f1528f7.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -88,7 +103,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/offering-new-things-to-explore-maricopa-kids-day-returns-for-another-year/article_8cb14664-a6b9-466d-b847-1e162dc66490.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -101,34 +116,23 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-09T11:21:22.681Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/sports/maricopa-hopes-competitiveness-can-translate-to-wins/article_878e3d94-0445-4f80-9730-0124e2409971.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-f39ea8cb88916286",
+      "id": "auto-local-5d1bb62c9620abbd",
       "section": "local",
-      "headline": "ALA-Ironwood seals victory over Florence",
+      "headline": "Florida State League Playoffs",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "addedAt": "2026-09-09T11:21:22.681Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
-      "url": "https://www.pinalcentral.com/local_sports/ala-ironwood-seals-victory-over-florence/article_387bdaa4-69fc-4522-a6a7-16c2661e3a6c.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-da2f3927bd69cb20",
-      "section": "local",
-      "headline": "Pinal's People: Robert Miller sees volunteering as a way to support others",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-09T11:21:22.681Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
-      "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-robert-miller-sees-volunteering-as-a-way-to-support-others/article_7e885c91-5dd4-45d7-ac85-383968d14780.html",
+      "publishedAt": "2026-09-09T03:53:19.000Z",
+      "addedAt": "2026-09-09T03:53:19.000Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckpjaFR3R2ZNZk9BelBpanBUbExWRFZnV0pEY2lYQW1DWTdaeVJZWmg3SUJQYk81M0ZMcHBIcXZkTTVxSVp4Mmg2U29URHpFSXZEekRqYmNxRWxtQy1PSl9CT3RJZ1p4cjJ2YUxfVjI2U3RoNC1nT1FVc01kNVpYaGFlMTNRa1RieFl2SU1TdGVDQmM3N1NVTS1vOTNPV0ZPQUVBakppS2JIVVU5MmU5Si1DejlxRnlNLTBFSVFfOV9UQQ?oc=5",
+      "summary": "Florida State League Playoffs PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -141,7 +145,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T08:44:28.000Z",
       "addedAt": "2026-09-09T08:44:28.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5961306/economy-remains-top-of-mind-for-many-americans-as-trade-war-with-canada-escalates",
       "summary": "President Trump's trade war with Canada comes as Americans keep the economy top of mind heading into the midterm elections."
     },
@@ -154,22 +158,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T09:00:00.000Z",
       "addedAt": "2026-09-09T09:00:00.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
       "summary": "Voters and election officials are navigating uncertainty about mail-in voting for the midterms as the legal fight drags on over the U.S. Postal Service plan for President Trump's bid for restrictions."
-    },
-    {
-      "id": "auto-national-43b514e85ccca4be",
-      "section": "national",
-      "headline": "Judges may face unprecedented decisions this election. A new guide seeks to help",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-09T09:00:00.000Z",
-      "addedAt": "2026-09-09T09:00:00.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
-      "summary": "The idea of law enforcement taking possession of ballots in the middle of an active election used to be considered impossible. Now, it's a scenario voting officials — and judges — are training for."
     },
     {
       "id": "auto-national-48cba88373ad8ab5",
@@ -180,9 +171,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T09:00:00.000Z",
       "addedAt": "2026-09-09T09:00:00.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
       "summary": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then."
+    },
+    {
+      "id": "auto-national-43b514e85ccca4be",
+      "section": "national",
+      "headline": "Ballot seizures seemed impossible. But judges and officials are prepping for them now",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-09T09:00:00.000Z",
+      "addedAt": "2026-09-09T09:00:00.000Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
+      "summary": "The idea of law enforcement taking possession of ballots in the middle of an active election used to be considered impossible. Now, it's a scenario voting officials — and judges — are training for."
     },
     {
       "id": "auto-national-224804b8a9786f95",
@@ -193,7 +197,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T09:09:32.000Z",
       "addedAt": "2026-09-09T09:09:32.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
       "summary": "Flight data suggest an Amazon cargo plane tried to abort an unsteady landing at Miami International Airport before smashing into a van and killing five people inside, according to information investigators released Tuesday."
     },
@@ -206,7 +210,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T09:05:03.000Z",
       "addedAt": "2026-09-09T09:05:03.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested",
       "summary": "A member of the Georgia National Guard deployed in Washington, D.C., as part of a task force to fight crime, has been arrested for pulling a gun on a fellow Guard member in an alleged dispute over regulation haircuts."
     },
@@ -219,7 +223,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T08:46:25.000Z",
       "addedAt": "2026-09-09T08:46:25.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5961417/new-york-city-mayor-mamdani-releases-documents-related-to-post-9-11-air-quality",
       "summary": "New York City has released 170,000 documents it says show officials knew the air quality around the World Trade Center after 9/11 was dangerous to breathe, but they didn't warn local residents."
     },
@@ -232,9 +236,35 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T08:46:02.000Z",
       "addedAt": "2026-09-09T08:46:02.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5904568/oregon-nonprofit-harvests-fruit-from-backyards-and-parks-for-people-in-need",
       "summary": "In the Portland, Oregon, area, a nonprofit harvests edible fruit from thousands of metro trees, shrubs and bushes, and distributes it to people in need."
+    },
+    {
+      "id": "auto-world-b8fc02c563f9c04e",
+      "section": "world",
+      "headline": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-09T13:29:33.000Z",
+      "addedAt": "2026-09-09T13:29:33.000Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
+    },
+    {
+      "id": "auto-world-361c4bd2a1b9877f",
+      "section": "world",
+      "headline": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-09T16:01:54.000Z",
+      "addedAt": "2026-09-09T16:01:54.000Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes."
     },
     {
       "id": "auto-world-eaab11451b53aa52",
@@ -245,9 +275,35 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T10:20:40.000Z",
       "addedAt": "2026-09-09T03:03:32.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force."
+    },
+    {
+      "id": "auto-world-b2a8493e554fb42e",
+      "section": "world",
+      "headline": "Colombia's new president loosens gun control rules",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-09T11:01:41.000Z",
+      "addedAt": "2026-09-09T11:01:41.000Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms."
+    },
+    {
+      "id": "auto-world-d0827a904b7db28f",
+      "section": "world",
+      "headline": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-09T12:06:40.000Z",
+      "addedAt": "2026-09-09T12:06:40.000Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
+      "summary": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game."
     },
     {
       "id": "auto-world-b03c06c2349f534c",
@@ -258,22 +314,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T06:42:01.000Z",
       "addedAt": "2026-09-09T06:42:01.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
       "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say."
-    },
-    {
-      "id": "auto-world-c5dbe69da0ac52e3",
-      "section": "world",
-      "headline": "South Park creators rename show 'South America' in apparent dig at Trump",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-09T05:39:16.000Z",
-      "addedAt": "2026-09-09T05:39:16.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
-      "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state."
     },
     {
       "id": "auto-world-3322774fd5728b88",
@@ -284,69 +327,28 @@
       "priority": "normal",
       "publishedAt": "2026-09-08T23:11:41.000Z",
       "addedAt": "2026-09-08T23:11:41.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
       "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
       "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman."
     },
     {
-      "id": "auto-world-19f3a2be466e99fd",
+      "id": "auto-world-e9a66f750fe65e19",
       "section": "world",
-      "headline": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "headline": "Europe's royalty pay respects to King Harald V in Norway",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-08T17:10:54.000Z",
-      "addedAt": "2026-09-08T16:36:47.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\""
-    },
-    {
-      "id": "auto-world-8ec72e6fda663a64",
-      "section": "world",
-      "headline": "Argentina to file criminal case against oil company operating in Falklands",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-08T11:09:54.000Z",
-      "addedAt": "2026-09-08T11:09:54.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
-      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
-    },
-    {
-      "id": "auto-world-a91a42954bc41260",
-      "section": "world",
-      "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-09T09:47:39.000Z",
-      "addedAt": "2026-09-09T09:47:39.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
-      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
-    },
-    {
-      "id": "auto-world-e8f04de0a5315020",
-      "section": "world",
-      "headline": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-09T08:21:39.000Z",
-      "addedAt": "2026-09-09T08:21:39.000Z",
-      "retrievedAt": "2026-09-09T11:21:22.681Z",
-      "url": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The billion dollar payout marks the largest divorce settlement in the country's history."
+      "publishedAt": "2026-09-09T16:30:28.000Z",
+      "addedAt": "2026-09-09T16:30:28.000Z",
+      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday."
     }
   ],
   "sources": {
     "local": "PinalCentral",
     "national": "NPR National RSS",
     "world": "BBC News World RSS",
-    "failures": [
-      "PinalCentral discovery RSS: https://news.google.com/rss/search?q=site%3Apinalcentral.com&hl=en-US&gl=US&ceid=US%3Aen returned 503"
-    ]
+    "failures": []
   }
 }
