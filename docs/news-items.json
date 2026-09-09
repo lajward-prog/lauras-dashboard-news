@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T20:55:36.273Z",
+  "updatedAt": "2026-09-09T23:13:56.076Z",
   "items": [
     {
       "id": "auto-local-6305127557357fff",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-07T04:39:17.359Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T11:17:44.339Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.pinalcentral.com/recreation_and_entertainment/comic-book-artist-to-be-featured-at-casa-grande-art-museum/article_f341476c-8a94-4f9b-abf1-8e2701bfcbde.html",
       "locality": "Casa Grande",
       "category": "Local news"
@@ -36,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-09T20:55:36.273Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.pinalcentral.com/coolidge_examiner/fire-chief-speaks-on-bright-international-chemical-fires/article_42705795-e53e-4be4-97a6-45e85a340a2f.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +49,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-09T20:55:36.273Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.pinalcentral.com/eloy_enterprise/eloy-booth-brings-small-town-big-heart-to-league-of-cities/article_6dfc7866-abfb-4537-9a1c-3406fd95fd9e.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -63,9 +63,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-08T16:54:00.000Z",
       "addedAt": "2026-09-08T16:54:00.000Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcGhidW44a3hUYzJtRkhEU3NWSXJHeG95bVgtR3dTV0p0czNPZnVhbXY3aGQtdThmZi05QU1sTmoyQ2hJYmdveUlKMENvQkM0Ti1DQ3l2NXpaUUxpQ0gtVm9wMzQtWjJvdXJjRWRXRWZiMDJ3RFNSYjdsSVNKa1R0cW1tRGhVREl5dTBudVRxNURIcS1wSDN5N0UwNFp2cjhTakVqbWVFaDlrRVNIYmNHOXFBSk9FRHR5TDIxSjhnTlY?oc=5",
-      "summary": "BackStory: Flock protest in Maricopa PinalCentral.com",
+      "summary": "BackStory: Flock protest in Maricopa pinalcentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -77,8 +77,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T21:08:51.266Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/solar-energy-complex-okd-south-of-eloy/article_f6d64908-efc8-4fd1-9c9e-b25d3c670700.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-b88005212f643dd0",
+      "section": "local",
+      "headline": "Anthropic researcher resigns with warning about the dangers of AI development",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-09T23:13:56.076Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
+      "url": "https://www.pinalcentral.com/business_and_technology/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/article_dd5e5099-aafc-583f-afde-51ceebd6ae7a.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -90,7 +103,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.pinalcentral.com/world_news/russian-drone-strikes-ukraine-security-service-headquarters-as-us-talks-on-war-are-expected/article_55e8ece8-21db-50fb-a249-98a89a2d086c.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -103,7 +116,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/florence-man-faces-16-counts-in-child-abuse-investigation/article_4e032c73-b244-4cb8-9de7-81b38f1528f7.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -116,21 +129,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/offering-new-things-to-explore-maricopa-kids-day-returns-for-another-year/article_8cb14664-a6b9-466d-b847-1e162dc66490.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-e12fe0afa845e8ed",
-      "section": "local",
-      "headline": "Maricopa hopes competitiveness can translate to wins",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-09T11:21:22.681Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
-      "url": "https://www.pinalcentral.com/maricopa_monitor/sports/maricopa-hopes-competitiveness-can-translate-to-wins/article_878e3d94-0445-4f80-9730-0124e2409971.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -148,19 +148,6 @@
       "summary": "President Trump's trade war with Canada comes as Americans keep the economy top of mind heading into the midterm elections."
     },
     {
-      "id": "auto-national-29fc4e52cbbcd03c",
-      "section": "national",
-      "headline": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-09T09:00:00.000Z",
-      "addedAt": "2026-09-09T09:00:00.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
-      "summary": "Voters and election officials are navigating uncertainty about mail-in voting for the midterms as the legal fight drags on over the U.S. Postal Service plan for President Trump's bid for restrictions."
-    },
-    {
       "id": "auto-national-48cba88373ad8ab5",
       "section": "national",
       "headline": "Citing the 'Deep State,' Trump overhauls the intelligence community",
@@ -169,7 +156,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T09:00:00.000Z",
       "addedAt": "2026-09-09T09:00:00.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
       "summary": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then."
     },
@@ -182,61 +169,74 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T09:00:00.000Z",
       "addedAt": "2026-09-09T09:00:00.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
       "summary": "The idea of law enforcement taking possession of ballots in the middle of an active election used to be considered impossible. Now, it's a scenario voting officials — and judges — are training for."
     },
     {
-      "id": "auto-national-224804b8a9786f95",
+      "id": "auto-national-29fc4e52cbbcd03c",
       "section": "national",
-      "headline": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+      "headline": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
       "sourceName": "NPR",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-09T09:09:32.000Z",
-      "addedAt": "2026-09-09T09:09:32.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
-      "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
-      "summary": "Flight data suggest an Amazon cargo plane tried to abort an unsteady landing at Miami International Airport before smashing into a van and killing five people inside, according to information investigators released Tuesday."
+      "publishedAt": "2026-09-09T09:00:00.000Z",
+      "addedAt": "2026-09-09T09:00:00.000Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
+      "summary": "Voters and election officials are navigating uncertainty about mail-in voting for the midterms as the legal fight drags on over the U.S. Postal Service plan for President Trump's bid for restrictions."
     },
     {
-      "id": "auto-national-c026b8ecc372e784",
+      "id": "auto-national-19f0cf5bd6f95f39",
       "section": "national",
-      "headline": "National Guard member arrested in DC, accused of drawing gun on fellow Guard member",
+      "headline": "Investigators release information from flight data recorder in Miami plane crash",
       "sourceName": "NPR",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-09T09:05:03.000Z",
-      "addedAt": "2026-09-09T09:05:03.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested",
-      "summary": "A member of the Georgia National Guard deployed in Washington, D.C., as part of a task force to fight crime, has been arrested for pulling a gun on a fellow Guard member in an alleged dispute over regulation haircuts."
+      "publishedAt": "2026-09-09T21:54:43.000Z",
+      "addedAt": "2026-09-09T21:54:43.000Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961260/investigators-release-information-from-flight-data-recorder-in-miami-plane-crash",
+      "summary": "Safety investigators are releasing new details about the moments before the deadly cargo plane crash in Miami on Sunday, raising questions about the actions of the two pilots."
     },
     {
-      "id": "auto-national-68f0652c57424264",
+      "id": "auto-national-d88c887e4d325ae5",
       "section": "national",
-      "headline": "New York City Mayor Mamdani releases documents related to post-9/11 air quality",
+      "headline": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
       "sourceName": "NPR",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-09T08:46:25.000Z",
-      "addedAt": "2026-09-09T08:46:25.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5961417/new-york-city-mayor-mamdani-releases-documents-related-to-post-9-11-air-quality",
-      "summary": "New York City has released 170,000 documents it says show officials knew the air quality around the World Trade Center after 9/11 was dangerous to breathe, but they didn't warn local residents."
+      "publishedAt": "2026-09-09T20:42:19.000Z",
+      "addedAt": "2026-09-09T20:42:19.000Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
+      "summary": "The formerly prominent, widely recorded conductor was sentenced Wednesday to nearly six years of probation for five counts of possession of child sex abuse material in Indianapolis."
     },
     {
-      "id": "auto-national-260122a5537c15dd",
+      "id": "auto-national-31cd2417432bb756",
       "section": "national",
-      "headline": "Oregon nonprofit harvests fruit from backyards and parks for people in need",
+      "headline": "Special education head at Education Department abruptly resigns",
       "sourceName": "NPR",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-09T08:46:02.000Z",
-      "addedAt": "2026-09-09T08:46:02.000Z",
-      "retrievedAt": "2026-09-09T16:37:16.097Z",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5904568/oregon-nonprofit-harvests-fruit-from-backyards-and-parks-for-people-in-need",
-      "summary": "In the Portland, Oregon, area, a nonprofit harvests edible fruit from thousands of metro trees, shrubs and bushes, and distributes it to people in need."
+      "publishedAt": "2026-09-09T17:48:56.000Z",
+      "addedAt": "2026-09-09T17:48:56.000Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns",
+      "summary": "The leader of the Education Department's special education office told employees she is resigning less than four months in the role and as the agency overall is morphing and shrinking."
+    },
+    {
+      "id": "auto-national-9f6ebfab30ec5f49",
+      "section": "national",
+      "headline": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-09T17:23:15.000Z",
+      "addedAt": "2026-09-09T17:23:15.000Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5954174/andrew-tate-bail-extradition-jail",
+      "summary": "Prosecutors told the court that Andrew and Tristan Tate boasted about having multiple passports and flying on private jets. But the Tates' lawyers argued they were only playing a role for their fans."
     },
     {
       "id": "auto-world-b200394c89eee0e7",
@@ -247,7 +247,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T20:22:51.000Z",
       "addedAt": "2026-09-09T20:22:51.000Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections."
     },
@@ -260,22 +260,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T17:06:48.000Z",
       "addedAt": "2026-09-09T17:06:48.000Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
       "summary": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs."
-    },
-    {
-      "id": "auto-world-b8fc02c563f9c04e",
-      "section": "world",
-      "headline": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-09T13:29:33.000Z",
-      "addedAt": "2026-09-09T13:29:33.000Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
-      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
     },
     {
       "id": "auto-world-361c4bd2a1b9877f",
@@ -286,9 +273,35 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T20:28:04.000Z",
       "addedAt": "2026-09-09T16:01:54.000Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
       "summary": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes."
+    },
+    {
+      "id": "auto-world-020bc80b6d37daaa",
+      "section": "world",
+      "headline": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-09T18:27:35.000Z",
+      "addedAt": "2026-09-09T18:27:35.000Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
+      "url": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House has described the cash gifts to Harp and three others as personal - and legal."
+    },
+    {
+      "id": "auto-world-b8fc02c563f9c04e",
+      "section": "world",
+      "headline": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-09T13:29:33.000Z",
+      "addedAt": "2026-09-09T13:29:33.000Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
+      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
     },
     {
       "id": "auto-world-eaab11451b53aa52",
@@ -299,7 +312,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T10:20:40.000Z",
       "addedAt": "2026-09-09T03:03:32.000Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "summary": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force."
     },
@@ -312,7 +325,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T11:01:41.000Z",
       "addedAt": "2026-09-09T11:01:41.000Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
       "summary": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms."
     },
@@ -325,30 +338,15 @@
       "priority": "normal",
       "publishedAt": "2026-09-09T12:06:40.000Z",
       "addedAt": "2026-09-09T12:06:40.000Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
+      "retrievedAt": "2026-09-09T23:13:56.076Z",
       "url": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
       "summary": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game."
-    },
-    {
-      "id": "auto-world-b03c06c2349f534c",
-      "section": "world",
-      "headline": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-09T06:42:01.000Z",
-      "addedAt": "2026-09-09T06:42:01.000Z",
-      "retrievedAt": "2026-09-09T20:55:36.273Z",
-      "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say."
     }
   ],
   "sources": {
     "local": "PinalCentral",
     "national": "NPR National RSS",
     "world": "BBC News World RSS",
-    "failures": [
-      "NPR National: https://feeds.npr.org/1003/rss.xml returned 404"
-    ]
+    "failures": []
   }
 }
