@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T20:51:14.178Z",
+  "updatedAt": "2026-09-10T23:09:37.335Z",
   "items": [
     {
       "id": "auto-local-3cc4226b3efdaaba",
@@ -11,7 +11,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T07:15:00.000Z",
       "addedAt": "2026-09-10T07:15:00.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMmJXa05XQ2paVHhjMVB3R1RnNFAxcWsycXhldWJRaU12Ymc0c0ZQRVJEMmd6aU10X0FqalRRbzdCbHQzcDJBeVNNVGxpcDA1YWFZSVNkZklrRG1mdWQ3aXpPTVpYaDVYYjJrcVpna09QVWJDQUlqVXZfSWRfMGwtLU5fOGtsYkhpVXBtN1BTLTdzeE1xeURzUmNkNVhEamk1VngwWWdWU25IVFNUenlCaHRydXI0QzlKcUExdF83TnVlXzg0cW5xblZzb3d4LWlX?oc=5",
       "summary": "Casa Grande Police log, 09/10/26 PinalCentral.com",
       "locality": "Casa Grande",
@@ -26,7 +26,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T08:25:32.000Z",
       "addedAt": "2026-09-10T08:25:32.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFFkdFUtcGV1UUVYZVpQU3ozb2VPSXcwR1EzQ2xrVjdvS1FhdnN0UmZCb0NqMzRvVkNrTGtjSkVjSFRWN19BME5SeWxodVZOWG9aSWttUEFJM1hlUFk1b3B2eGtMT28yczBPWFhZTFU1elpzYl9EdXA0ak5pSnpVdGduSE9IamNicDZQZng2NGRXUVQ5bkN1ZVVwaEJ1LWFEX3hwcENvWGxqV3ZQbmIyYjliUWphb2NxMjZZdHhDWEhTRFRPU1BrUDJVSmo1MkV4dHRNSUgyTFVOUQ?oc=5",
       "summary": "Hobbs and Biggs make their border security pitches PinalCentral.com",
       "locality": "Pinal County",
@@ -40,7 +40,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-10T20:51:14.178Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -54,9 +54,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T07:15:00.000Z",
       "addedAt": "2026-09-10T07:15:00.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObEdWNWJ5bkd3SlNkUlMxMWJ0eGtjeTVJdFhhOTVRZU1aR2lnRklpV2FNdHRZNkZPZXdPenRUYmJReVJmNnhQb2wtSThHNW1qMzYtbkR5MnFhOHNvU1pOM0NodG1DQzNIbGlfVWFBeHpHZ0J2dG9PeDRCYlZ2VjRrdnNDMHVFVWxGNE16cmFOanB0RFZRaVc2WGVzVXBKMzhvaDlWR1BXT1dBZ3dINnNzcWZSY1FaV21ub3ZBSmFkb0VjSmR1c0dwdWdNOTY?oc=5",
       "summary": "Coolidge Police log, 09/10/26 PinalCentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-1a68d894adb7b652",
+      "section": "local",
+      "headline": "Clark Pacific breaks ground, thanks Coolidge leaders, people",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
+      "url": "https://www.pinalcentral.com/coolidge_examiner/clark-pacific-breaks-ground-thanks-coolidge-leaders-people/article_531e6f88-8eb6-499f-afff-1c1c5f6d3ceb.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -69,22 +82,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T00:59:59.000Z",
       "addedAt": "2026-09-10T00:59:59.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWXZ4V1FRaE9DTEVkN2FoVGFZVGR6ZGZLRy1xXzU3WjJDaTgtcWxKeHVmcDhUWXh1QlNQaUQ3V1FEaHF6RVpjcG1nOEg1ZS1zZURTV1VYOEdtVWlGZWtpd0xXYkxVTUdNWGxHTF9jZWx5NzRwOWplTWFqRXZ0XzVqczZ5NUFjbXE2cE15TW1iQzNwT1NQUnRZM0RhbVdVOVRCZi1iWGRBenZ4dHdVTXhYdUI5bEd6UHdzUGtJeWhSajV0SjFxbVFSQlFB?oc=5",
       "summary": "SunZia bringing wind power to Pinal PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-1a68d894adb7b652",
-      "section": "local",
-      "headline": "Clark Pacific breaks ground, thanks Coolidge leaders, people",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-10T20:51:14.178Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
-      "url": "https://www.pinalcentral.com/coolidge_examiner/clark-pacific-breaks-ground-thanks-coolidge-leaders-people/article_531e6f88-8eb6-499f-afff-1c1c5f6d3ceb.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -96,23 +96,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-10T20:51:14.178Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/maricopa-cadet-credits-communitys-support-in-obtaining-dream-role-with-air-force/article_fb11bee7-aeda-4a44-a257-83f71cc59e5d.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-0668027b3c2e384c",
+      "id": "auto-local-4bf536d8ee36b4b7",
       "section": "local",
-      "headline": "Friday Night Spotlight September 11, 2026",
+      "headline": "Petition seeks to honor teacher who cherished Maricopa's history",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-10T11:56:39.000Z",
-      "addedAt": "2026-09-09T23:56:39.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdS0wQjZJMV9qci04eTczbVlpV29KUFQ4Zkk3U2U0dU4wLUllMGJOT3U5TkM3dnUyTmUwNW9wMkxCNHBfc0ZZR0R6VXlyY3hyTFFwUm9iUEFFS0NBYlpTLWl5cEh0Q2pBRUxkWVdyR2VGbXcycVVqZXBOMzJ5blZEbW5GQmNCdjFyWkU3RHZWdUtfSHE4NnlwTUw2Mnk4dzFoUGlQZHk5TXRiSlFzMm92aTNtLWtsZkVP?oc=5",
-      "summary": "Friday Night Spotlight September 11, 2026 PinalCentral.com",
+      "addedAt": "2026-09-10T23:09:37.335Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
+      "url": "https://www.pinalcentral.com/maricopa_monitor/petition-seeks-to-honor-teacher-who-cherished-maricopas-history/article_6fa9e114-6a8f-4dfe-a493-c615eccb298e.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -124,7 +122,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-08T04:33:53.197Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.pinalcentral.com/world_news/russian-drone-strikes-ukraine-security-service-headquarters-as-us-talks-on-war-are-expected/article_55e8ece8-21db-50fb-a249-98a89a2d086c.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -137,7 +135,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-10T20:51:14.178Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.pinalcentral.com/business_and_technology/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/article_dd5e5099-aafc-583f-afde-51ceebd6ae7a.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -151,22 +149,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T11:27:14.000Z",
       "addedAt": "2026-09-10T11:27:14.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
       "summary": "President Trump tries to incentivize voters by promising $5,000 to Americans if the GOP wins the midterms. And, young conservatives reflect on the party one year after Charlie Kirk's death."
-    },
-    {
-      "id": "auto-national-954629d7c1e8a37e",
-      "section": "national",
-      "headline": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-10T09:00:00.000Z",
-      "addedAt": "2026-09-10T09:00:00.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-      "summary": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, drawing a strong response from House Democrats."
     },
     {
       "id": "auto-national-b5e5130bdecb1760",
@@ -182,6 +167,19 @@
       "summary": "President Trump's trade war with Canada comes as Americans keep the economy top of mind heading into the midterm elections."
     },
     {
+      "id": "auto-national-954629d7c1e8a37e",
+      "section": "national",
+      "headline": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-10T09:00:00.000Z",
+      "addedAt": "2026-09-10T09:00:00.000Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
+      "summary": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, drawing a strong response from House Democrats."
+    },
+    {
       "id": "auto-national-b368f647cd15e4ea",
       "section": "national",
       "headline": "Morning news brief",
@@ -190,7 +188,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T08:43:29.000Z",
       "addedAt": "2026-09-10T08:43:29.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.npr.org/2026/09/10/nx-s1-5955574/morning-news-brief",
       "summary": "Trump kicks off Republican midterm convention with primetime speech, Missouri Supreme Court to decide whether to hold secretary of state in contempt, Apple unveils new foldable phone."
     },
@@ -203,9 +201,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T08:43:18.000Z",
       "addedAt": "2026-09-10T08:43:18.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.npr.org/2026/09/10/nx-s1-5961280/maine-gov-janet-mills-on-the-effect-the-u-s-canada-trade-war-will-have-on-the-state",
       "summary": "NPR's Michel Martin asks Maine's Democratic Governor Janet Mills about the impact of the escalating U.S.-Canada trade war on her state."
+    },
+    {
+      "id": "auto-national-7cfd19f2714935a3",
+      "section": "national",
+      "headline": "Lawsuit challenges intimidation of DHS observers across the country",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-10T21:07:38.000Z",
+      "addedAt": "2026-09-10T21:07:38.000Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
+      "summary": "The sweeping lawsuit brought by Common Cause argues federal agencies are illegally surveilling and intimidating people who try to peacefully observe federal immigration enforcement activity."
     },
     {
       "id": "auto-national-58e2f06b98a5979c",
@@ -216,7 +227,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T15:44:12.000Z",
       "addedAt": "2026-09-10T15:44:12.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
       "summary": "Barbara Keating died aboard one of the planes that hijackers slammed into the World Trade Center. Her remains were finally identified last year, and her family is gathering for a long-delayed funeral."
     },
@@ -229,22 +240,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T10:47:08.000Z",
       "addedAt": "2026-09-10T10:47:08.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.npr.org/2026/09/10/nx-s1-5963895/nyc-firefighters-want-answers-after-release-of-post-9-11-air-quality-documents",
       "summary": "New York City's firefighters are demanding answers after the city released documents showing how toxic the air quality was following the attacks on the World Trade Center on 9/11."
-    },
-    {
-      "id": "auto-national-83d4eb8889defd58",
-      "section": "national",
-      "headline": "Trump officials revive a bid to alter the U.S. census and reshape voting maps",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-10T08:43:14.000Z",
-      "addedAt": "2026-09-10T08:43:14.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5963868/trump-officials-revive-a-bid-to-alter-the-u-s-census-and-reshape-voting-maps",
-      "summary": "The Trump administration is making a new push to exclude millions of U.S. residents from a key census count that the 14th Amendment says must include the \"whole number of persons in each state.\""
     },
     {
       "id": "auto-world-15e5e6596b3f390d",
@@ -255,7 +253,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T10:43:53.000Z",
       "addedAt": "2026-09-10T10:43:53.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
       "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election."
     },
@@ -268,7 +266,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T16:48:37.000Z",
       "addedAt": "2026-09-10T16:48:37.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
       "summary": "Analysts question if the US president's election year offer is workable, legal or affordable."
     },
@@ -281,7 +279,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T07:12:32.000Z",
       "addedAt": "2026-09-10T07:12:32.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms."
     },
@@ -294,7 +292,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T04:07:44.000Z",
       "addedAt": "2026-09-10T04:07:44.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in."
     },
@@ -307,7 +305,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T18:15:47.000Z",
       "addedAt": "2026-09-10T18:15:47.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
       "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route."
     },
@@ -333,7 +331,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T20:10:51.000Z",
       "addedAt": "2026-09-10T20:10:51.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
       "summary": "The father had threatened to behead a female primary school teacher near Toulouse."
     },
@@ -346,7 +344,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T19:16:24.000Z",
       "addedAt": "2026-09-10T19:16:24.000Z",
-      "retrievedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-10T23:09:37.335Z",
       "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
       "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
     }
