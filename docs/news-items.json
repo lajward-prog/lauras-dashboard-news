@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T23:15:17.256Z",
+  "updatedAt": "2026-09-12T04:32:44.544Z",
   "items": [
+    {
+      "id": "auto-local-ddbd493c65a0e95d",
+      "section": "local",
+      "headline": "Economy, border, water dominate Ciscomani-Mendoza debate",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-11T20:57:25.767Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.pinalcentral.com/arizona_city_independent/economy-border-water-dominate-ciscomani-mendoza-debate/article_f38fedda-1a09-4e8b-b373-465f693a1f86.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
     {
       "id": "auto-local-e89fa2249317276b",
       "section": "local",
@@ -18,17 +31,41 @@
       "category": "Local news"
     },
     {
-      "id": "auto-local-032f6b4c9fe22e9a",
+      "id": "auto-local-6305127557357fff",
       "section": "local",
-      "headline": "Proposition 320 seen as major problem for Pinal schools",
+      "headline": "Pinal’s People: Parsons will miss job of seeing Coolidge grow",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-10T00:00:36.000Z",
-      "addedAt": "2026-09-10T00:00:36.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTk1NcXNzS24wN1FMM2FmbHpkbE9BWExWRFBJSU94TjZOMGZKVktFV0lNVjBWVVB1WFh4elF4U0M0aXhpdkxYcU1URGJqSWkzX1ZlLTIybDNfLVl0RjFRNTh0MzRSSmlLaHJEdHoxc2xIX3ZIb05HMWlUdTlvYS16SFpxdzk1R0xJdVA5N2JxQURNSjZsM2NTQ3Fka1MtTEdYRjY1dUZqOGpTZHd4RVBxN09yLWh5THJQYVFWNEVDQVRXbU9XQnVCazBGcThOLWx5MlhJQ0RGaVNSSXhERm5Rc1ZjeDA?oc=5",
-      "summary": "Proposition 320 seen as major problem for Pinal schools PinalCentral.com",
+      "addedAt": "2026-09-10T20:51:14.178Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-71f6877db58d30d2",
+      "section": "local",
+      "headline": "Multiple 9/11 remembrances held in Maricopa",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-12T04:32:44.544Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.pinalcentral.com/maricopa_monitor/multiple-9-11-remembrances-held-in-maricopa/article_58e5064e-e2d8-4a18-be34-c5f7033b8c35.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-4bf536d8ee36b4b7",
+      "section": "local",
+      "headline": "Petition seeks to honor teacher who cherished Maricopa's history",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-12T04:32:44.544Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.pinalcentral.com/maricopa_monitor/petition-seeks-to-honor-teacher-who-cherished-maricopas-history/article_6fa9e114-6a8f-4dfe-a493-c615eccb298e.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -41,24 +78,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-10T17:45:00.000Z",
       "addedAt": "2026-09-10T17:45:00.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd29jQk1CRG5VenBHTU84MXBscV9fenNxaGRlYXFfZHdMaHVncWVVSnVpTmZyQVl6TzVia0FwWW1qempLWWJfdzVHMFBUTUxQZHRfMzJHOW5JeW01R3VZVUt6cW5mOHJyY0RsNl9aRXB3UjhjQXlBU2d3ZW9VcGpyX0RBdC0xUE44SmxacllWUWFzYnpsZXllQXg0SGRXOFBhaTJFX1pBZFRmZzV3SFdQSHV1VjhxTWpUMnI3NDh5ZGpGa29raC1qUGFDazYyaUZtNlB5UzhjdUg4VUVoQ0I1c1FIQlo5MzhyME5r?oc=5",
       "summary": "Clark Pacific breaks ground, thanks Coolidge leaders, people PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-bcc960bb524d0c31",
-      "section": "local",
-      "headline": "Struggles continue for Florence in loss to Thatcher",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-11T05:47:47.000Z",
-      "addedAt": "2026-09-11T05:47:47.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZWdGSHhhNXpWdUgta2dJaFRELUJGb3ZreTd5S21vN1JXbkJiVTdkckFvQnladnU5TnhiSUplSm1NRFJWaGVOWDBpOWsyUW1BMVFiTFVHSzNaOUNPaVEwVmlSM1Z2b3RLNGRQV3pORTkxTjJhRHlfVGoyNU9jOHZsdkJicHlSTkJaVi00Z3dSUmVOUkpzdjB1ZGtPSEZjZXpvSVZLV1Z1eEptUm5aVE5hbWRYZHZrLUdEd3NZTjZ0M0pNZkoxZWtCUDZRdHZxLUw0VENVZ3hUU2lERTA?oc=5",
-      "summary": "Struggles continue for Florence in loss to Thatcher PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -76,43 +98,28 @@
       "category": "Local news"
     },
     {
-      "id": "auto-local-4f8caeaded2427a3",
+      "id": "auto-local-8dffdad4c50488ba",
       "section": "local",
-      "headline": "Democratic candidate event planned",
+      "headline": "Florence man faces 16 counts in child abuse investigation",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-11T17:54:28.000Z",
-      "addedAt": "2026-09-11T17:54:28.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmVFekkwNE5zeV90ZGRRNl9oTzhrVVlnb1BhSGtVTWZSSC1td2lITzhMUE1fVl9oQlpwdXhPX2Q3S1hDcDF4RHhuUGtScmNnMVczb2NRYUxHY09OcXBxSk04Ym5YXzVqcC03Vko1aHA3SXV1Xy0tOFVnSmFFMWRfaDNGRmZzWEZhc2tPZ0hKMWxMX0RBeUc3UDBZZEdJU3lqbnk2emJOQlVVS2I5MEhyb2RhNlIxSWZ5bE9jWVZQX0x0U21NQmNjdzJpVGJuMTQ?oc=5",
-      "summary": "Democratic candidate event planned PinalCentral.com",
+      "addedAt": "2026-09-12T04:32:44.544Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/florence-man-faces-16-counts-in-child-abuse-investigation/article_4e032c73-b244-4cb8-9de7-81b38f1528f7.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-ddbd493c65a0e95d",
+      "id": "auto-local-b75ab39faf664c5e",
       "section": "local",
-      "headline": "Economy, border, water dominate Ciscomani-Mendoza debate",
+      "headline": "Proposition 320 seen as major problem for Pinal schools",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "addedAt": "2026-09-11T20:57:25.767Z",
-      "retrievedAt": "2026-09-11T20:57:25.767Z",
-      "url": "https://www.pinalcentral.com/arizona_city_independent/economy-border-water-dominate-ciscomani-mendoza-debate/article_f38fedda-1a09-4e8b-b373-465f693a1f86.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-6305127557357fff",
-      "section": "local",
-      "headline": "Pinal’s People: Parsons will miss job of seeing Coolidge grow",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-10T20:51:14.178Z",
-      "retrievedAt": "2026-09-11T20:57:25.767Z",
-      "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
+      "addedAt": "2026-09-12T04:32:44.544Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.pinalcentral.com/all_communities/proposition-320-seen-as-major-problem-for-pinal-schools/article_7c79957c-cdd1-4d0b-b82f-600b0c58fed2.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -130,21 +137,6 @@
       "category": "Local news"
     },
     {
-      "id": "auto-local-1876a0064824f13b",
-      "section": "local",
-      "headline": "CG Union, Maricopa set for grudge match Thursday night",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-10T09:31:34.000Z",
-      "addedAt": "2026-09-10T09:31:34.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSFFsdnpDRXlMWUpSc3pBajNVYllRU0QwLXhzQ0cwb3JDaGdnTVZ4cDE5QVNlMEp0TllKOFN4VDJlcHRlUDA1V2ZEbHd2QWIzbnpEVzdaZDI0dTloVlBuYXc4dzkwcDk5bWVTYVFrbTY1Rm1mc1kwdU5aNGFLZ3AwRjFDTnBqNXhZUU5vOVZubXAwR2ZkSURzVTRDTUdMT3lZVncwcmpOcDhFaE12M01XeTdmQVpkMG9mb29TV0hEYklKcnZJOHhsNV8xUERvU3BJQmVRT1ZWYzlqUGpyNklncEh3QVJGaHJKSVBHSQ?oc=5",
-      "summary": "CG Union, Maricopa set for grudge match Thursday night PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
       "id": "auto-national-d77240be92c5c5e3",
       "section": "national",
       "headline": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
@@ -153,22 +145,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-11T15:34:51.000Z",
       "addedAt": "2026-09-11T15:34:51.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
       "summary": "The worst U.S. measles outbreak in decades is growing and flu season is imminent. Experts are fretting about federal health data reliability after the CDC questioned two Pennsylvania measles deaths."
-    },
-    {
-      "id": "auto-national-973e3018eef41b44",
-      "section": "national",
-      "headline": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-11T11:55:49.000Z",
-      "addedAt": "2026-09-11T11:55:49.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
-      "url": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
-      "summary": "NPR reflects on the events of 9/11 and the toll it left on the U.S. 25 years later. And, President Trump and Vice President Vance's convention speeches urge voters to back the GOP in the midterms."
     },
     {
       "id": "auto-national-b5e5130bdecb1760",
@@ -184,6 +163,19 @@
       "summary": "President Trump's trade war with Canada comes as Americans keep the economy top of mind heading into the midterm elections."
     },
     {
+      "id": "auto-national-973e3018eef41b44",
+      "section": "national",
+      "headline": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-11T11:55:49.000Z",
+      "addedAt": "2026-09-11T11:55:49.000Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
+      "summary": "NPR reflects on the events of 9/11 and the toll it left on the U.S. 25 years later. And, President Trump and Vice President Vance's convention speeches urge voters to back the GOP in the midterms."
+    },
+    {
       "id": "auto-national-7781e55d36429818",
       "section": "national",
       "headline": "Empty seats, socialism and Trump dominate the Republican midterm convention",
@@ -192,7 +184,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-11T09:00:00.000Z",
       "addedAt": "2026-09-11T09:00:00.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
       "summary": "The two day Republican convention in Dallas showcased the party's biggest asset in trying to win competitive midterm races and its greatest obstacle: President Trump."
     },
@@ -205,7 +197,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-11T20:22:51.000Z",
       "addedAt": "2026-09-11T20:22:51.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://www.npr.org/2026/09/11/nx-s1-5945632/25-years-since-9-11-remembrances-and-a-pledge-to-never-forget",
       "summary": "Events to honor the nearly 3,000 who perished on 9/11 and more are underway Friday, including in New York City."
     },
@@ -218,7 +210,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-11T19:05:00.000Z",
       "addedAt": "2026-09-11T19:05:00.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://www.npr.org/sections/the-picture-show/2026/09/11/g-s1-142913/in-photos-remembering-the-sept-11-attacks-25-years-later",
       "summary": "Around the U.S., ceremonies commemorate the 25th anniversary of the Sept. 11th terror attacks in New York and at the Pentagon."
     },
@@ -231,7 +223,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-11T13:37:18.000Z",
       "addedAt": "2026-09-11T13:37:18.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://www.npr.org/2026/09/11/nx-s1-5965794/the-voices-of-sept-11-my-first-thought-was-i-cant-believe-that-i-survived",
       "summary": "We listen back to interviews recorded in the aftermath of Sept. 11, with a particular focus on stories of survival and loss at the World Trade Center, and some reflections in poetry and music."
     },
@@ -244,9 +236,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-11T10:49:13.000Z",
       "addedAt": "2026-09-11T10:49:13.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://www.npr.org/2026/09/11/nx-s1-5965530/25-years-later-americans-pause-to-remember-the-lives-lost-on-9-11",
       "summary": "Twenty-five years ago, nearly 3,000 people were killed in the 9/11 attacks. Today, Americans are honoring the lives lost and reflecting on the aftermath of that tragic day."
+    },
+    {
+      "id": "auto-world-aadbc30deac3c57e",
+      "section": "world",
+      "headline": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-12T03:02:28.000Z",
+      "addedAt": "2026-09-12T03:02:28.000Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
     },
     {
       "id": "auto-world-d758f7d04fdd437d",
@@ -257,7 +262,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-11T15:50:23.000Z",
       "addedAt": "2026-09-11T15:50:23.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
       "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey."
     },
@@ -270,7 +275,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-11T19:44:58.000Z",
       "addedAt": "2026-09-11T19:44:58.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
       "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years."
     },
@@ -283,9 +288,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-11T05:53:06.000Z",
       "addedAt": "2026-09-11T05:53:06.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
       "summary": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes."
+    },
+    {
+      "id": "auto-world-66b5df1aef041328",
+      "section": "world",
+      "headline": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-12T02:29:49.000Z",
+      "addedAt": "2026-09-12T02:29:49.000Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August."
     },
     {
       "id": "auto-world-f0b3aca4074d501a",
@@ -296,69 +314,41 @@
       "priority": "normal",
       "publishedAt": "2026-09-11T22:17:45.000Z",
       "addedAt": "2026-09-11T20:11:47.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
       "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
       "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
     },
     {
-      "id": "auto-world-8d07cb1f0ed7d752",
+      "id": "auto-world-a850b71006049b11",
       "section": "world",
-      "headline": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "headline": "Tragic death of woman who testified against father in notorious mafia murder of mother",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-11T16:00:59.000Z",
-      "addedAt": "2026-09-11T16:00:59.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
-      "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt."
+      "publishedAt": "2026-09-11T20:34:29.000Z",
+      "addedAt": "2026-09-11T20:34:29.000Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy."
     },
     {
-      "id": "auto-world-4ec57342c8e95caf",
+      "id": "auto-world-9a6d33fe77e704e3",
       "section": "world",
-      "headline": "Six Nigerians accused of romance scams to be extradited to the US",
+      "headline": "Passenger train derails in France leaving at least 44 injured",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-11T21:07:19.000Z",
-      "addedAt": "2026-09-11T21:07:19.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say."
-    },
-    {
-      "id": "auto-world-0360843b1dbe9f72",
-      "section": "world",
-      "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-11T17:32:44.000Z",
-      "addedAt": "2026-09-11T05:41:54.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown."
-    },
-    {
-      "id": "auto-world-f95b0f2a19ddd236",
-      "section": "world",
-      "headline": "Can Trump really pay $5,000 to every American adult?",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-10T16:48:37.000Z",
-      "addedAt": "2026-09-10T16:48:37.000Z",
-      "retrievedAt": "2026-09-11T23:15:17.256Z",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "summary": "Analysts question if the US president's election year offer is workable, legal or affordable."
+      "publishedAt": "2026-09-11T21:25:32.000Z",
+      "addedAt": "2026-09-11T21:25:32.000Z",
+      "retrievedAt": "2026-09-12T04:32:44.544Z",
+      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
     }
   ],
   "sources": {
     "local": "PinalCentral",
     "national": "NPR National RSS",
     "world": "BBC News World RSS",
-    "failures": [
-      "PinalCentral: https://www.pinalcentral.com/ returned 429"
-    ]
+    "failures": []
   }
 }
