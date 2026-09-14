@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T19:50:22.319Z",
+  "updatedAt": "2026-09-14T23:51:46.826Z",
   "items": [
     {
-      "id": "auto-local-ddbd493c65a0e95d",
+      "id": "auto-local-3911a0fabfd9595d",
       "section": "local",
-      "headline": "Economy, border, water dominate Ciscomani-Mendoza debate",
+      "headline": "Education measures, school board races on Pinal ballots",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "addedAt": "2026-09-11T20:57:25.767Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
-      "url": "https://www.pinalcentral.com/arizona_city_independent/economy-border-water-dominate-ciscomani-mendoza-debate/article_f38fedda-1a09-4e8b-b373-465f693a1f86.html",
+      "addedAt": "2026-09-14T23:51:46.826Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/education-measures-school-board-races-on-pinal-ballots/article_9fa7afa3-1ed6-4a89-8d50-1743db8830cf.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -23,8 +23,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-14T04:54:43.729Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-e1f7b9de8b6c6600",
+      "section": "local",
+      "headline": "Questions of integrity rise as water levels fall",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-14T23:51:46.826Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
+      "url": "https://www.pinalcentral.com/questions-of-integrity-rise-as-water-levels-fall/article_d02b395e-b868-4544-85fe-8721e40b451b.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -36,8 +49,23 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-12T04:32:44.544Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/multiple-9-11-remembrances-held-in-maricopa/article_58e5064e-e2d8-4a18-be34-c5f7033b8c35.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-f9389acb2704114d",
+      "section": "local",
+      "headline": "Korn Ferry Tour Money Leaders",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-14T19:01:13.000Z",
+      "addedAt": "2026-09-14T19:01:13.000Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOTRiWml0ai1sSzV1azYzb2lVZi1RMTdubG1STHRPdjJkMnpqbDZiRmxuT2czZnIzT0Q2YU9WbEhyQXVrelprWUNvd0JzMGw3SFg1bkg2cGtMQ2V6bDBoNlFsUkxlQ242cnd2OGZiQzNZX3VtTWRFSEFmUENFMjFhdlQ3QS16dHllT1FDZW1HMmJwZUVLX2VyTnBEXy1ZemZPS29CTFdnVlRjTVMxUHR6ei04TkZGTHYtRlhNbkxYV1RqUQ?oc=5",
+      "summary": "Korn Ferry Tour Money Leaders PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -49,7 +77,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-12T04:32:44.544Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/petition-seeks-to-honor-teacher-who-cherished-maricopas-history/article_6fa9e114-6a8f-4dfe-a493-c615eccb298e.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -62,7 +90,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-12T04:32:44.544Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.pinalcentral.com/all_communities/proposition-320-seen-as-major-problem-for-pinal-schools/article_7c79957c-cdd1-4d0b-b82f-600b0c58fed2.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -76,7 +104,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-14T19:07:00.000Z",
       "addedAt": "2026-09-14T19:07:00.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWVBRWFZpZnVrSmhHWm5pTkFIdGZTNzZ1STAtNDVfSnRjTmhkQkoxYTJTbWNGVU5ZUVFtbFFxTFROWUdlam84U2o3a1hqVS1vcjd2eU9pTzR2dS1OZTlEcGRpcVlvTVNIYS15bklEYnlQaGZoNE9mVnZ2NXVham0xYk9obmU1LUtNUjhOZ0NYY3ZSYzlmMjZKLTZPVlVCMjhVeUp3OWdnZ2Z0aGlydHk1MnBfOG52ZUI1WVQ0aE5nQzFKcnEwa3Fj?oc=5",
       "summary": "BackStory: Maricopa Rams face off against CG Cougars PinalCentral.com",
       "locality": "Pinal County",
@@ -90,7 +118,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-13T16:15:47.648Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.pinalcentral.com/recreation_and_entertainment/comic-book-artist-to-be-featured-at-casa-grande-art-museum/article_f341476c-8a94-4f9b-abf1-8e2701bfcbde.html",
       "locality": "Casa Grande",
       "category": "Local news"
@@ -111,32 +139,6 @@
       "category": "Local news"
     },
     {
-      "id": "auto-local-b54d0e1b04f99b0c",
-      "section": "local",
-      "headline": "Maricopa undergoing rebuild with young roster, tough schedule",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-13T20:48:45.144Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
-      "url": "https://www.pinalcentral.com/maricopa_monitor/sports/maricopa-undergoing-rebuild-with-young-roster-tough-schedule/article_6f2c23d5-67aa-4d29-993a-6b76aea092b9.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-f0b0f07ef7a2ac8e",
-      "section": "local",
-      "headline": "Scottsdale Christian shuts out Coolidge",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-14T12:44:24.224Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
-      "url": "https://www.pinalcentral.com/local_sports/scottsdale-christian-shuts-out-coolidge/article_dd2bca25-fca6-4fb8-927b-b9087507ca40.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
       "id": "auto-national-cc1101cd90d27dcc",
       "section": "national",
       "headline": "Forecast says families will spend more to heat their homes this winter",
@@ -145,9 +147,35 @@
       "priority": "normal",
       "publishedAt": "2026-09-14T08:44:07.000Z",
       "addedAt": "2026-09-14T08:44:07.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.npr.org/2026/09/14/nx-s1-5966663/forecast-says-families-will-spend-more-to-heat-their-homes-this-winter",
       "summary": "It's probably going to cost more to heat your home this winter. Forecasters say heating bills are likely to climb faster than overall inflation, despite what's expected to be a relatively mild winter."
+    },
+    {
+      "id": "auto-national-96ea7dad2d12f81c",
+      "section": "national",
+      "headline": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-14T23:38:40.000Z",
+      "addedAt": "2026-09-14T23:38:40.000Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+      "summary": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election."
+    },
+    {
+      "id": "auto-national-7d7e30d09ee0629b",
+      "section": "national",
+      "headline": "Trump's EPA repeals pollution limits on fossil fuel power plants",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-14T20:34:28.000Z",
+      "addedAt": "2026-09-14T20:34:28.000Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
+      "summary": "The Trump administration is eliminating limits on climate-warming pollution from the nation's fossil fuel power plants. Environmental groups say this will impact the climate and public health."
     },
     {
       "id": "auto-national-99ef483f21bd8fce",
@@ -158,7 +186,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-14T08:43:12.000Z",
       "addedAt": "2026-09-14T08:43:12.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.npr.org/2026/09/14/nx-s1-5968179/kennedy-center-board-says-venue-could-close-soon-due-to-financial-woes",
       "summary": "NPR's A Martinez speaks with Washington Post arts and government reporter Jonathan Edwards about internal documents showing the Kennedy Center could close as soon as Tuesday."
     },
@@ -171,7 +199,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-13T17:45:33.000Z",
       "addedAt": "2026-09-13T17:45:33.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
       "summary": "Wisconsin Congressman Tom Tiffany escaped a sinking plane and swam to shallow water after an emergency landing in a lake. Tiffany and the pilot called 911 from on top of the plane."
     },
@@ -184,7 +212,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-14T11:00:00.000Z",
       "addedAt": "2026-09-14T11:00:00.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration",
       "summary": "Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit."
     },
@@ -197,7 +225,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-14T05:26:01.000Z",
       "addedAt": "2026-09-14T05:26:01.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.npr.org/2026/09/14/g-s1-143138/amazon-suspends-21-air-cargo-carrier",
       "summary": "Amazon said it's decided to pause operations with 21 Air as the investigation into the crash continues. North Carolina-based 21 had flown packages for Amazon since 2024."
     },
@@ -210,35 +238,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-13T12:05:49.000Z",
       "addedAt": "2026-09-13T12:05:49.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.npr.org/2026/09/13/nx-s1-5959165/a-tiktok-famous-masked-superhero-is-roaming-the-streets-of-roanoke-virginia",
       "summary": "NPRs Ayesha Rascoe talks to The Roanoke Raven, a local Virginia \"superhero\" who highlights the work of nonprofits at events and in social media videos."
-    },
-    {
-      "id": "auto-national-12b45185dc510c99",
-      "section": "national",
-      "headline": "How a young woman was recruited to ISIS — and how she eventually escaped",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-13T09:00:00.000Z",
-      "addedAt": "2026-09-13T09:00:00.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
-      "summary": "A young Canadian mother shares her memories of being an ISIS bride, and her harrowing escape from the extremist group."
-    },
-    {
-      "id": "auto-national-8da3afac1e967b62",
-      "section": "national",
-      "headline": "25 years post 9/11, a grieving sister finds peace at United 93 crash site",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-12T21:01:04.000Z",
-      "addedAt": "2026-09-12T21:01:04.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
-      "url": "https://www.npr.org/2026/09/12/nx-s1-5954542/25-years-post-9-11-a-grieving-sister-finds-peace-at-united-93-crash-site",
-      "summary": "On September 11, 2001 Lori Guadagno lost her brother on flight United 93. 25 years later, the crash site is a place where she feels a sense of connection that she can't find anywhere else."
     },
     {
       "id": "auto-world-38d8bebdc8a28b7e",
@@ -249,7 +251,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-14T14:08:12.000Z",
       "addedAt": "2026-09-14T14:08:12.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
       "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
     },
@@ -262,7 +264,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-14T08:36:09.000Z",
       "addedAt": "2026-09-13T22:27:54.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes."
     },
@@ -275,9 +277,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-13T19:34:36.000Z",
       "addedAt": "2026-09-13T15:42:50.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US."
+    },
+    {
+      "id": "auto-world-ebc25bcfbc6475ee",
+      "section": "world",
+      "headline": "Legendary costume designer Bob Mackie dies aged 87",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-14T21:29:12.000Z",
+      "addedAt": "2026-09-14T21:29:12.000Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John."
     },
     {
       "id": "auto-world-afeafde70b71e1ce",
@@ -288,7 +303,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-14T12:18:13.000Z",
       "addedAt": "2026-09-13T16:05:41.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
       "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
     },
@@ -301,7 +316,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-14T11:31:39.000Z",
       "addedAt": "2026-09-14T11:31:39.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
       "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race."
     },
@@ -314,22 +329,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-13T14:25:56.000Z",
       "addedAt": "2026-09-13T14:25:56.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
       "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
-    },
-    {
-      "id": "auto-world-468829fd5a681312",
-      "section": "world",
-      "headline": "Body of missing runner found in South Africa",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-14T14:58:48.000Z",
-      "addedAt": "2026-09-14T14:58:48.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
-      "url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby."
     },
     {
       "id": "auto-world-daba09fbcea1f361",
@@ -340,7 +342,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-14T16:48:10.000Z",
       "addedAt": "2026-09-14T16:48:10.000Z",
-      "retrievedAt": "2026-09-14T19:50:22.319Z",
+      "retrievedAt": "2026-09-14T23:51:46.826Z",
       "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
       "summary": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety."
     }
