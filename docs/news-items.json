@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-18T20:53:24.521Z",
+  "updatedAt": "2026-09-18T23:17:22.820Z",
   "items": [
     {
       "id": "auto-local-ab2c250f2ad12ede",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-18T11:12:25.027Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.pinalcentral.com/local_sports/coolidge-bounces-back-with-road-win-over-safford/article_ead7fe28-b451-4929-a3b5-195073342b33.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,21 +23,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-17T16:58:56.599Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-595244c697662ad9",
-      "section": "local",
-      "headline": "Tiny Bears Playhouse aims to bring playtime in from the heat",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-17T04:51:18.882Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -49,21 +36,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-18T20:53:24.521Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/lewis-tells-board-voting-by-mail-to-continue-after-supreme-court-decision/article_e638d3a9-82c2-4743-9c71-2403ce28e038.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-225c6f43b926c798",
-      "section": "local",
-      "headline": "Newly sworn-in USDA under secretary visits projects funded in CG, Maricopa",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-17T04:51:18.882Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/newly-sworn-in-usda-under-secretary-visits-projects-funded-in-cg-maricopa/article_7926aea2-beda-445b-9c32-de4b9084174c.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -76,7 +50,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-17T06:45:00.000Z",
       "addedAt": "2026-09-17T06:45:00.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2pQNEJOc05nVWpwanJVb1hPWU1nQUJSUzVxN0xUVWNDSWdNRVJLUHFwZlhPSEZIbWExYUNrUzhnVW52alFyQWQ4UEJkWVBxVC1KUDdXSUM4ck16NHZjcEVjT2pMVzlucDNTNGE1ZEV4aUR4Tk5QTFBfM2RveWRER0EzN05DS2diV1NOSWJfVER0VWcwNDNYaVItOXZFM1lfTzEzT1kwWDNtOVc0RWFJeUdBazdPV21kM0VSTXpfaWpiMUJlcjh6Z1UwZGs?oc=5",
       "summary": "York: Trump, inflation and the midterms PinalCentral.com",
       "locality": "Pinal County",
@@ -90,7 +64,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-18T20:53:24.521Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.pinalcentral.com/apache_junction_central/apache-junction-offers-a-la-carte-public-school-classes-for-esa-families/article_8bd6d85d-0ac5-42d8-89ad-23a21c992324.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -103,8 +77,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-17T11:39:42.749Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.pinalcentral.com/coolidge_examiner/cusd-board-president-among-inductees-selected-for-chs-hall-of-fame/article_1e5fbfa6-def7-4542-9987-495f2004883e.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-595244c697662ad9",
+      "section": "local",
+      "headline": "Tiny Bears Playhouse aims to bring playtime in from the heat",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-17T04:51:18.882Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -116,7 +103,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-17T04:51:18.882Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/2-juveniles-arrested-in-cg-shooting-police-looking-for-3rd-suspect/article_188224ce-66cd-4a57-bb23-97cc4df48054.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -129,8 +116,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-18T11:12:25.027Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/pinal-40-expands-copper-country-music-fest-for-2026/article_26f681c5-cf96-4ae4-b08d-123d63c0b725.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-6464e20b0c3ff3de",
+      "section": "local",
+      "headline": "Amid possible school closures, 4-day week might keep one FUSD school open",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-18T23:17:22.820Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
+      "url": "https://www.pinalcentral.com/florence_reminder_blade_tribune/amid-possible-school-closures-4-day-week-might-keep-one-fusd-school-open/article_8806b0d9-6037-41b4-ac21-37ec7fe10d8d.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -143,22 +143,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T20:15:53.000Z",
       "addedAt": "2026-09-18T20:15:53.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
       "summary": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming."
     },
     {
-      "id": "auto-national-89c9a0b4451114b1",
+      "id": "auto-national-4ac7514fcf9ede30",
       "section": "national",
-      "headline": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
+      "headline": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
       "sourceName": "NPR",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-17T21:17:39.000Z",
-      "addedAt": "2026-09-17T21:17:39.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
-      "url": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice",
-      "summary": "The White House says it is withdrawing its nomination of Lance Schroyer, a former Oklahoma state trooper, to lead ICE, ensuring that an agency at the forefront of President Trump's domestic agenda will remain without a Senate-confirmed leader for at least a while longer."
+      "publishedAt": "2026-09-18T21:13:14.000Z",
+      "addedAt": "2026-09-18T21:13:14.000Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+      "summary": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory."
     },
     {
       "id": "auto-national-ab3ced6e6aeae6c4",
@@ -169,7 +169,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T11:00:00.000Z",
       "addedAt": "2026-09-18T11:00:00.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
       "summary": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind."
     },
@@ -182,7 +182,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T09:01:00.000Z",
       "addedAt": "2026-09-18T09:01:00.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
       "summary": "The world made it to another Friday without an AI apocalypse, so here's the quiz! See you next week … maybe."
     },
@@ -195,7 +195,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T09:00:00.000Z",
       "addedAt": "2026-09-18T09:00:00.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
       "summary": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products."
     },
@@ -208,7 +208,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T08:45:04.000Z",
       "addedAt": "2026-09-18T08:45:04.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5971152/army-medics-being-trained-to-treat-wounded-military-dogs-despite-supply-challenges",
       "summary": "The nature of modern warfare doesn't just mean challenges for treating human casualties. The Army is also training medics to better treat wounded military dogs on the frontlines."
     },
@@ -221,7 +221,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T08:44:14.000Z",
       "addedAt": "2026-09-18T08:44:14.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5971450/couple-shares-how-chance-encounter-brought-them-together-after-meeting-online",
       "summary": "A couple, now married, tell the story of how they met online and then crossed paths in an unexpected place."
     },
@@ -234,9 +234,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T08:44:08.000Z",
       "addedAt": "2026-09-18T08:44:08.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
       "summary": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\""
+    },
+    {
+      "id": "auto-world-c6fadd382fbca4ff",
+      "section": "world",
+      "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-18T22:58:55.000Z",
+      "addedAt": "2026-09-18T22:58:55.000Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials."
     },
     {
       "id": "auto-world-7ea44c1d235711e3",
@@ -245,9 +258,9 @@
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-18T20:47:49.000Z",
+      "publishedAt": "2026-09-18T23:06:59.000Z",
       "addedAt": "2026-09-18T20:47:49.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career."
     },
@@ -260,7 +273,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T18:04:38.000Z",
       "addedAt": "2026-09-18T15:14:35.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
       "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
     },
@@ -273,35 +286,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T17:57:30.000Z",
       "addedAt": "2026-09-18T17:57:30.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
       "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
       "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross."
     },
     {
-      "id": "auto-world-50fe8801d182d5a2",
+      "id": "auto-world-13295b3c0dfabc30",
       "section": "world",
-      "headline": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "headline": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-18T20:17:50.000Z",
-      "addedAt": "2026-09-18T10:39:31.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
-    },
-    {
-      "id": "auto-world-0478d913b9b40286",
-      "section": "world",
-      "headline": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-18T18:56:17.000Z",
-      "addedAt": "2026-09-18T18:56:17.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
-      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "summary": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in."
+      "publishedAt": "2026-09-18T20:35:03.000Z",
+      "addedAt": "2026-09-18T20:35:03.000Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
+      "url": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House."
     },
     {
       "id": "auto-world-c33c4d1d5a19c0b9",
@@ -317,30 +317,30 @@
       "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US."
     },
     {
-      "id": "auto-world-0202aa3d23a0cfe7",
+      "id": "auto-world-50fe8801d182d5a2",
       "section": "world",
-      "headline": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "headline": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-18T17:10:58.000Z",
-      "addedAt": "2026-09-18T17:10:58.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-      "summary": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\"."
+      "publishedAt": "2026-09-18T20:17:50.000Z",
+      "addedAt": "2026-09-18T10:39:31.000Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
     },
     {
-      "id": "auto-world-56e2bc62c97e2492",
+      "id": "auto-world-0478d913b9b40286",
       "section": "world",
-      "headline": "North Korean anthem played for South Korea at Asian Games",
+      "headline": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-18T17:18:09.000Z",
-      "addedAt": "2026-09-18T17:18:09.000Z",
-      "retrievedAt": "2026-09-18T20:53:24.521Z",
-      "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "summary": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan."
+      "publishedAt": "2026-09-18T18:56:17.000Z",
+      "addedAt": "2026-09-18T18:56:17.000Z",
+      "retrievedAt": "2026-09-18T23:17:22.820Z",
+      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+      "summary": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in."
     }
   ],
   "sources": {
