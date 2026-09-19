@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-19T04:36:03.469Z",
+  "updatedAt": "2026-09-19T10:57:10.283Z",
   "items": [
     {
-      "id": "auto-local-ab2c250f2ad12ede",
+      "id": "auto-local-b4f06a88fd04927a",
       "section": "local",
-      "headline": "Coolidge bounces back with road win over Safford",
+      "headline": "ASU study measures heat on school routes with help of CGESD students",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "addedAt": "2026-09-18T11:12:25.027Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
-      "url": "https://www.pinalcentral.com/local_sports/coolidge-bounces-back-with-road-win-over-safford/article_ead7fe28-b451-4929-a3b5-195073342b33.html",
+      "addedAt": "2026-09-19T10:57:10.283Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/asu-study-measures-heat-on-school-routes-with-help-of-cgesd-students/article_3b79083e-5f80-4cf4-8eab-bf7cd5085654.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -23,8 +23,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-17T16:58:56.599Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-ab2c250f2ad12ede",
+      "section": "local",
+      "headline": "Coolidge bounces back with road win over Safford",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-18T11:12:25.027Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
+      "url": "https://www.pinalcentral.com/local_sports/coolidge-bounces-back-with-road-win-over-safford/article_ead7fe28-b451-4929-a3b5-195073342b33.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -36,34 +49,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-18T20:53:24.521Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/lewis-tells-board-voting-by-mail-to-continue-after-supreme-court-decision/article_e638d3a9-82c2-4743-9c71-2403ce28e038.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-d1cb2cbc416b874e",
-      "section": "local",
-      "headline": "Apache Junction offers a la carte public school classes for ESA families",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-18T20:53:24.521Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
-      "url": "https://www.pinalcentral.com/apache_junction_central/apache-junction-offers-a-la-carte-public-school-classes-for-esa-families/article_8bd6d85d-0ac5-42d8-89ad-23a21c992324.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-527624278f36ceb7",
-      "section": "local",
-      "headline": "CUSD board president among inductees selected for CHS Hall of Fame",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-17T11:39:42.749Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
-      "url": "https://www.pinalcentral.com/coolidge_examiner/cusd-board-president-among-inductees-selected-for-chs-hall-of-fame/article_1e5fbfa6-def7-4542-9987-495f2004883e.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -76,9 +63,35 @@
       "priority": "normal",
       "publishedAt": "2026-09-17T06:45:00.000Z",
       "addedAt": "2026-09-17T06:45:00.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2pQNEJOc05nVWpwanJVb1hPWU1nQUJSUzVxN0xUVWNDSWdNRVJLUHFwZlhPSEZIbWExYUNrUzhnVW52alFyQWQ4UEJkWVBxVC1KUDdXSUM4ck16NHZjcEVjT2pMVzlucDNTNGE1ZEV4aUR4Tk5QTFBfM2RveWRER0EzN05DS2diV1NOSWJfVER0VWcwNDNYaVItOXZFM1lfTzEzT1kwWDNtOVc0RWFJeUdBazdPV21kM0VSTXpfaWpiMUJlcjh6Z1UwZGs?oc=5",
-      "summary": "York: Trump, inflation and the midterms PinalCentral.com",
+      "summary": "York: Trump, inflation and the midterms pinalcentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-d1cb2cbc416b874e",
+      "section": "local",
+      "headline": "Apache Junction offers a la carte public school classes for ESA families",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-18T20:53:24.521Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
+      "url": "https://www.pinalcentral.com/apache_junction_central/apache-junction-offers-a-la-carte-public-school-classes-for-esa-families/article_8bd6d85d-0ac5-42d8-89ad-23a21c992324.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-527624278f36ceb7",
+      "section": "local",
+      "headline": "CUSD board president among inductees selected for CHS Hall of Fame",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-17T11:39:42.749Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
+      "url": "https://www.pinalcentral.com/coolidge_examiner/cusd-board-president-among-inductees-selected-for-chs-hall-of-fame/article_1e5fbfa6-def7-4542-9987-495f2004883e.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -90,7 +103,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-17T04:51:18.882Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -103,7 +116,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-17T04:51:18.882Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/2-juveniles-arrested-in-cg-shooting-police-looking-for-3rd-suspect/article_188224ce-66cd-4a57-bb23-97cc4df48054.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -116,21 +129,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-18T11:12:25.027Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/pinal-40-expands-copper-country-music-fest-for-2026/article_26f681c5-cf96-4ae4-b08d-123d63c0b725.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-703249dab4c5e3a2",
-      "section": "local",
-      "headline": "Coolidge making progress as new coach, players adjust",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-19T04:36:03.469Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
-      "url": "https://www.pinalcentral.com/local_sports/coolidge-making-progress-as-new-coach-players-adjust/article_1b7514d8-1b23-42ee-a7b8-d7decbf2abd3.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -143,7 +143,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T20:15:53.000Z",
       "addedAt": "2026-09-18T20:15:53.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
       "summary": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming."
     },
@@ -156,7 +156,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T21:13:14.000Z",
       "addedAt": "2026-09-18T21:13:14.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
       "summary": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory."
     },
@@ -169,7 +169,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T11:00:00.000Z",
       "addedAt": "2026-09-18T11:00:00.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
       "summary": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind."
     },
@@ -182,7 +182,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T09:01:00.000Z",
       "addedAt": "2026-09-18T09:01:00.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
       "summary": "The world made it to another Friday without an AI apocalypse, so here's the quiz! See you next week … maybe."
     },
@@ -195,7 +195,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T09:00:00.000Z",
       "addedAt": "2026-09-18T09:00:00.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
       "summary": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products."
     },
@@ -208,7 +208,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T08:45:04.000Z",
       "addedAt": "2026-09-18T08:45:04.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5971152/army-medics-being-trained-to-treat-wounded-military-dogs-despite-supply-challenges",
       "summary": "The nature of modern warfare doesn't just mean challenges for treating human casualties. The Army is also training medics to better treat wounded military dogs on the frontlines."
     },
@@ -221,7 +221,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T08:44:14.000Z",
       "addedAt": "2026-09-18T08:44:14.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5971450/couple-shares-how-chance-encounter-brought-them-together-after-meeting-online",
       "summary": "A couple, now married, tell the story of how they met online and then crossed paths in an unexpected place."
     },
@@ -234,7 +234,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T08:44:08.000Z",
       "addedAt": "2026-09-18T08:44:08.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
       "summary": "Polish Prime Minister Donald Tusk said that these potential strikes \"intend to paralyze NATO\" in an attempt to demonstrate that Article 5 \"exists only in theory.\""
     },
@@ -247,9 +247,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T23:03:38.000Z",
       "addedAt": "2026-09-18T23:03:38.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
       "summary": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge."
+    },
+    {
+      "id": "auto-world-7ea44c1d235711e3",
+      "section": "world",
+      "headline": "Trump says he is banning CNN and Politico from White House",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-19T05:36:36.000Z",
+      "addedAt": "2026-09-18T20:47:49.000Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career."
     },
     {
       "id": "auto-world-8a0849e20b26d812",
@@ -260,7 +273,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-19T04:27:11.000Z",
       "addedAt": "2026-09-19T04:27:11.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
       "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
     },
@@ -273,35 +286,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T22:58:55.000Z",
       "addedAt": "2026-09-18T22:58:55.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials."
-    },
-    {
-      "id": "auto-world-7ea44c1d235711e3",
-      "section": "world",
-      "headline": "Trump says he is banning CNN and Politico from White House",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-18T23:26:48.000Z",
-      "addedAt": "2026-09-18T20:47:49.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career."
-    },
-    {
-      "id": "auto-world-73e4771c66b59ee4",
-      "section": "world",
-      "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-18T18:04:38.000Z",
-      "addedAt": "2026-09-18T15:14:35.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
+      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials."
     },
     {
       "id": "auto-world-cfe7f513107f906d",
@@ -312,9 +299,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-19T00:03:53.000Z",
       "addedAt": "2026-09-19T00:03:53.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats."
+    },
+    {
+      "id": "auto-world-73e4771c66b59ee4",
+      "section": "world",
+      "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-18T18:04:38.000Z",
+      "addedAt": "2026-09-18T15:14:35.000Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
     },
     {
       "id": "auto-world-13295b3c0dfabc30",
@@ -325,22 +325,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-18T20:35:03.000Z",
       "addedAt": "2026-09-18T20:35:03.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
       "url": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House."
     },
     {
-      "id": "auto-world-0f4f4afe15b2fbd4",
+      "id": "auto-world-899196757c83b1b7",
       "section": "world",
-      "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "headline": "Millions without power as Cuba hit by latest major blackout",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-19T04:20:47.000Z",
-      "addedAt": "2026-09-19T04:20:47.000Z",
-      "retrievedAt": "2026-09-19T04:36:03.469Z",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents later received the all-clear after explosions were reported in the capital."
+      "publishedAt": "2026-09-19T10:27:37.000Z",
+      "addedAt": "2026-09-19T10:27:37.000Z",
+      "retrievedAt": "2026-09-19T10:57:10.283Z",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade."
     }
   ],
   "sources": {
