@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T23:14:50.723Z",
+  "updatedAt": "2026-09-21T04:54:02.351Z",
   "items": [
     {
       "id": "auto-local-80256c55f8a2ec85",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-20T23:14:50.723Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.pinalcentral.com/free-access/asu-study-measures-heat-on-school-routes-with-help-of-cgesd-students/article_3b79083e-5f80-4cf4-8eab-bf7cd5085654.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-20T23:14:50.723Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -36,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-18T11:12:25.027Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.pinalcentral.com/local_sports/coolidge-bounces-back-with-road-win-over-safford/article_ead7fe28-b451-4929-a3b5-195073342b33.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +49,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-20T23:14:50.723Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/lewis-tells-board-voting-by-mail-to-continue-after-supreme-court-decision/article_e638d3a9-82c2-4743-9c71-2403ce28e038.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -62,7 +62,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-20T23:14:50.723Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-police-investigating-fatal-shooting-outside-cg-house-party/article_0778ac12-1d95-4036-8e51-f6cdf5f935f1.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -75,7 +75,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-20T23:14:50.723Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.pinalcentral.com/apache_junction_central/apache-junction-offers-a-la-carte-public-school-classes-for-esa-families/article_8bd6d85d-0ac5-42d8-89ad-23a21c992324.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -88,7 +88,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-20T23:14:50.723Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -101,21 +101,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-20T23:14:50.723Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/2-juveniles-arrested-in-cg-shooting-police-looking-for-3rd-suspect/article_188224ce-66cd-4a57-bb23-97cc4df48054.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-bb0f7d8139c0ea13",
-      "section": "local",
-      "headline": "Pinal 40 expands Copper Country Music Fest for 2026",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-20T23:14:50.723Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/pinal-40-expands-copper-country-music-fest-for-2026/article_26f681c5-cf96-4ae4-b08d-123d63c0b725.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -133,6 +120,19 @@
       "category": "Local news"
     },
     {
+      "id": "auto-local-13dabfbf03a82c48",
+      "section": "local",
+      "headline": "Florence's 1st season win slips away against Pusch Ridge",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-21T04:54:02.351Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
+      "url": "https://www.pinalcentral.com/local_sports/florences-1st-season-win-slips-away-against-pusch-ridge/article_3f12ee25-0a5f-426c-bb8c-1b96714b665a.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
       "id": "auto-national-64d9fa75fb5c7737",
       "section": "national",
       "headline": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
@@ -141,7 +141,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-20T15:05:47.000Z",
       "addedAt": "2026-09-20T15:05:47.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
       "summary": "President Trump has claimed that military operations are needed at his proposed triumphal arch in Washington D.C., in order to protect national security. A federal court is weighing the arch's legality."
     },
@@ -154,7 +154,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-20T12:26:44.000Z",
       "addedAt": "2026-09-20T12:26:44.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.npr.org/2026/09/20/nx-s1-5969818/a-program-in-a-texas-prison-teaches-incarcerated-women-to-transcribe-braille",
       "summary": "The job market is tougher for those with a criminal record. But a Texas women's prison offers inmates skills in braille transcription that could help them support themselves when they are released."
     },
@@ -167,7 +167,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-20T12:26:43.000Z",
       "addedAt": "2026-09-20T12:26:43.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.npr.org/2026/09/20/nx-s1-5971402/xi-jinping-is-coming-to-the-white-house-heres-what-to-expect",
       "summary": "Xi Jinping arrives in the US this week for an important summit with President Trump. We look at what President Trump and the Chinese leader want out of this visit."
     },
@@ -180,7 +180,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-19T21:05:28.000Z",
       "addedAt": "2026-09-19T21:05:28.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.npr.org/2026/09/19/nx-s1-5789858/university-president-embraces-dei-despite-trump-administration-rollbacks",
       "summary": "The President of Sacramento State talks about their Black honors college -- and how schools are dealing with DEI under the Trump administration. This story was produced with support from the Education Writers Association's Reporting Fellowship program."
     },
@@ -193,7 +193,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-20T21:53:00.000Z",
       "addedAt": "2026-09-20T21:53:00.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
       "summary": "The person shot is in serious but stable condition, Austin Mayor Kirk Watson said in a press conference."
     },
@@ -206,7 +206,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-20T11:00:00.000Z",
       "addedAt": "2026-09-20T11:00:00.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
       "summary": "In the Lower Ninth Ward, an old Family Dollar stands covered in graffiti. It looks abandoned. But inside, it's a treasure trove — clothing, home goods, toys and books. And everything is free."
     },
@@ -219,7 +219,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-20T10:01:00.000Z",
       "addedAt": "2026-09-20T10:01:00.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
       "summary": "Fox Corp. must turn over hundreds of documents that could shed light on how founder Rupert Murdoch handled some of his media companies' biggest scandals."
     },
@@ -232,7 +232,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-20T09:00:00.000Z",
       "addedAt": "2026-09-20T09:00:00.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
       "summary": "Students: It's time to turn on the mic and hit 'record.' Send us your podcasts and we'll pick the best ones. It's $5,000 for our grand prize and $500 for our finalists."
     },
@@ -243,11 +243,11 @@
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-20T20:21:40.000Z",
+      "publishedAt": "2026-09-21T03:22:44.000Z",
       "addedAt": "2026-09-20T20:21:40.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern."
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin."
     },
     {
       "id": "auto-world-6e312bf169195704",
@@ -258,7 +258,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-20T16:36:43.000Z",
       "addedAt": "2026-09-20T13:50:51.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump said the updated plans were at the request of the US military and for national security purposes."
     },
@@ -271,7 +271,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-19T23:49:26.000Z",
       "addedAt": "2026-09-19T20:16:07.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
       "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital."
     },
@@ -284,7 +284,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-19T23:00:27.000Z",
       "addedAt": "2026-09-18T22:58:55.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
       "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
     },
@@ -297,9 +297,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-19T21:01:56.000Z",
       "addedAt": "2026-09-19T21:01:56.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
       "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology."
+    },
+    {
+      "id": "auto-world-8a0849e20b26d812",
+      "section": "world",
+      "headline": "Google's Gemini AI hacked three companies in security test",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-19T13:39:32.000Z",
+      "addedAt": "2026-09-19T13:39:32.000Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
     },
     {
       "id": "auto-world-e0826140ffed073f",
@@ -310,7 +323,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-20T21:17:22.000Z",
       "addedAt": "2026-09-20T21:17:22.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
       "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach."
     },
@@ -323,22 +336,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-19T19:13:49.000Z",
       "addedAt": "2026-09-19T19:13:49.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
+      "retrievedAt": "2026-09-21T04:54:02.351Z",
       "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
       "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported."
-    },
-    {
-      "id": "auto-world-61c91885ad5c35fe",
-      "section": "world",
-      "headline": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-19T23:01:45.000Z",
-      "addedAt": "2026-09-19T23:01:45.000Z",
-      "retrievedAt": "2026-09-20T23:14:50.723Z",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers."
     }
   ],
   "sources": {
