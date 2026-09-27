@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-26T23:37:31.947Z",
+  "updatedAt": "2026-09-27T05:17:18.415Z",
   "items": [
     {
       "id": "auto-local-6305127557357fff",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-24T11:44:15.067Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,8 +23,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-25T17:09:30.365Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.pinalcentral.com/local_sports/coolidge-florence-delayed-until-saturday/article_06a07019-6cb8-49d8-9be9-1dfffd170db2.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-595244c697662ad9",
+      "section": "local",
+      "headline": "Tiny Bears Playhouse aims to bring playtime in from the heat",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-24T11:44:15.067Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -37,35 +50,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T02:32:21.000Z",
       "addedAt": "2026-09-26T02:32:21.000Z",
-      "retrievedAt": "2026-09-26T21:09:18.213Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkJEaTZON3JPaEdMSTdDNDhPbUhKUHd6WEpTdTA2Z0NEcFJXNFlwUmpjN0JqTXg4NlJjWHpwTFlLMkxldnh4WUpHUDFsN0xCTFQ2VFhnY21OM2xRSHFGODFzajJPWERWcVZ0RWU1c1c1TnU4cVFEWG54U25WLWZhV0h5MHctTnZCVk5KZ3c3WVAxLW0yOVhnVjlwc2oteG5F?oc=5",
       "summary": "Florence Middle School PinalCentral.com",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-884a4bdb02ef2b93",
-      "section": "local",
-      "headline": "CG police investigating fatal shooting outside CG house party",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-24T11:44:15.067Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-police-investigating-fatal-shooting-outside-cg-house-party/article_0778ac12-1d95-4036-8e51-f6cdf5f935f1.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-595244c697662ad9",
-      "section": "local",
-      "headline": "Tiny Bears Playhouse aims to bring playtime in from the heat",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-24T11:44:15.067Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -77,23 +64,38 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-25T04:56:18.819Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/police-arrest-2-more-teens-in-fatal-cg-shooting-seek-4th-suspect/article_0a9a9f82-c75a-432f-83ad-9823d7d279e5.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-09c9722655375f51",
+      "id": "auto-local-a86afdf79f4d8c5e",
       "section": "local",
-      "headline": "Florence Copper's part in economy shared with chamber",
+      "headline": "2026 Arizona General Election Debates: Prop 320",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-24T04:30:00.000Z",
-      "addedAt": "2026-09-24T04:30:00.000Z",
-      "retrievedAt": "2026-09-26T21:09:18.213Z",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUXYwdnFHa2Z6Q2JSd3dfU2VqbnhxTXk2TFpxZVZRUTNDZkVNbXJTbUtZZVd5T1hCN01xclRBSWgxWFZadmx5dXlEQUZvTXN1ci1iWXVfdml4UVRydzN0OTlaWFFLczZSS3R6RXZzaVRkNnVjRVlpblVoM0w1VG15eDBmamtEZmZDaUs5VkVSY1o0b0l3S0lQUTA2WGNYSjRTLURyb0JPWWFURVFZWm5NWnVwU3l2dG1GZm9kX1RxTE9QN1NjT1B5WnJGQW9zRnJhc0V6WWVJWkE3RFVqM21FVXl5OA?oc=5",
-      "summary": "Florence Copper's part in economy shared with chamber PinalCentral.com",
+      "publishedAt": "2026-09-25T13:30:00.000Z",
+      "addedAt": "2026-09-25T13:30:00.000Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMW1fZzJWTldGQ2tobHI1RUxfZmRJMlF4SUNCMnhUZW5oc0I0bWdkVXljOUFLSEZPeHlFTnpPY2FoenN1dmh3NjFlSUhQc05qM2ZyVHBTRFREdkRoQXlSeVI5OVhFTHJKSWFVV0Y1U1FUaE9MX3VCY0RpSTRZVjZfNXd4ZnB2Z193blA2RnNoMUdpN25PTlJENzktLUFBbWk2NURucS1kNGJTU3FaVDl6TERyQXJfNzZ2Z2poLVVmUDk?oc=5",
+      "summary": "2026 Arizona General Election Debates: Prop 320 PinalCentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-5ecffa22ff1714f1",
+      "section": "local",
+      "headline": "Bobcat sighting in Maricopa sparks visit from AZGFD",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-24T07:15:00.000Z",
+      "addedAt": "2026-09-24T07:15:00.000Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWVhOSHFsa0VnbnJVa3g2eDVQSS03WDJ4QlNlaWFUbG00U0h4LXBWeEpFVVpEclcxSDNtb1ctQjNZN21ZamU4ODAtWVZtRkpySk9xTEZnckdMQnRJZlF3dHlGdVNxM0FaWTUzSnItcGtrWGRkWERkSEg5Nlk1RmZVSnhFemdPeUdvSlpBVllQTU95Q2dsZm5hTVk0RVllVndfNVpaREswUTJETEhwdHY2TlhKSlFmSVFYQm4yVWk2TXNBS1J6aldwLXFZNG9SVU9vMW4zZVpmQTNwdWtQQkxQTA?oc=5",
+      "summary": "Bobcat sighting in Maricopa sparks visit from AZGFD PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -113,6 +115,21 @@
       "category": "Local news"
     },
     {
+      "id": "auto-local-bdab8106c88274f2",
+      "section": "local",
+      "headline": "Looking back in Coolidge history, 09/24/26",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-24T07:15:00.000Z",
+      "addedAt": "2026-09-24T07:15:00.000Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX05TV1JILTcySEt2LWpZMTN3amtmQnJLUzBsYzAxTUhla2ZwTW5IYTdwdzlaQlotanJTZkg2LUFEQ3FDTU82WmRSRzJ6LXdLOGdsMUlWYjNfNEFFcTF2WnNQZDVXekZnMEtkc1d5ejJfTmRfZXl4cEVraFJlUU9MZVVfdmVhbXhDSGFJdjZFcFNVVWp0amY4dXdjd0FJX0xxeEZ1VmZIS2tpbDJxZnpoR0lNOUFGRWZxamx3ZDNZdmFrdnpoYl9md3NoWnNEMTNmZldCdw?oc=5",
+      "summary": "Looking back in Coolidge history, 09/24/26 PinalCentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
       "id": "auto-local-da2f3927bd69cb20",
       "section": "local",
       "headline": "Pinal's People: Robert Miller sees volunteering as a way to support others",
@@ -120,21 +137,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-26T23:37:31.947Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-robert-miller-sees-volunteering-as-a-way-to-support-others/article_7e885c91-5dd4-45d7-ac85-383968d14780.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-5064471b4ba83b20",
-      "section": "local",
-      "headline": "Pinal’s People: Robbins attributes time in CG as catalyst for successful NFL career",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-26T23:37:31.947Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
-      "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-robbins-attributes-time-in-cg-as-catalyst-for-successful-nfl-career/article_1315fe6f-7b45-4e4a-9c4c-3a41d6056138.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -147,7 +151,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T09:00:00.000Z",
       "addedAt": "2026-09-26T09:00:00.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
       "summary": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition."
     },
@@ -160,7 +164,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-25T15:40:57.000Z",
       "addedAt": "2026-09-25T15:40:57.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
       "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections."
     },
@@ -173,7 +177,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T17:10:04.000Z",
       "addedAt": "2026-09-26T17:10:04.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
       "summary": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings."
     },
@@ -186,7 +190,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T05:43:38.000Z",
       "addedAt": "2026-09-26T05:43:38.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey",
       "summary": "Thousands are without power on the U.S. East Coast, while roads are flooding in some coastal New Jersey communities."
     },
@@ -199,7 +203,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T04:42:17.000Z",
       "addedAt": "2026-09-26T04:42:17.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
       "summary": "The White House has signaled that CNN will be left off Air Force One for President Donald Trump's Saturday trip in the latest media restriction in an ongoing dispute with First Amendment implications."
     },
@@ -212,7 +216,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-25T20:34:37.000Z",
       "addedAt": "2026-09-25T20:34:37.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.npr.org/2026/09/25/nx-s1-5977838/soybean-farmers-hopeful-for-xis-white-house-visit",
       "summary": "As China's president visits the White House, the Asia Society is visiting South Dakota to get grassroots views on agriculture trade issues."
     },
@@ -225,7 +229,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T21:13:55.000Z",
       "addedAt": "2026-09-26T21:13:55.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.npr.org/2026/09/26/nx-s1-5981103/cnn-is-getting-new-owners-with-close-ties-to-trump",
       "summary": "Two big TV news outlets, CBS and CNN, will now be controlled by Trump allies. Some journalists are worried about pressure on their coverage."
     },
@@ -238,7 +242,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T21:13:53.000Z",
       "addedAt": "2026-09-26T21:13:53.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.npr.org/2026/09/26/nx-s1-5979931/at-the-smithsonian-maya-angelous-typewriter-holds-a-place-of-honor",
       "summary": "A typewriter Maya Angelou used for decades is on display at the Smithsonian's National Museum of American History, near the original Star-Spangled Banner. A curator explains why it belongs there."
     },
@@ -249,11 +253,24 @@
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-26T22:04:26.000Z",
+      "publishedAt": "2026-09-27T04:23:09.000Z",
       "addedAt": "2026-09-26T17:47:09.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
       "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm."
+    },
+    {
+      "id": "auto-world-a0d2dea752736851",
+      "section": "world",
+      "headline": "Bangkok roads submerged as flood disaster declared",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-27T04:45:08.000Z",
+      "addedAt": "2026-09-26T07:21:30.000Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities said the heavy rains have subsided but the flooding is not yet over."
     },
     {
       "id": "auto-world-7e53538077ff0a23",
@@ -264,7 +281,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-25T19:13:35.000Z",
       "addedAt": "2026-09-25T16:35:01.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
       "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls."
     },
@@ -277,7 +294,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T19:16:14.000Z",
       "addedAt": "2026-09-26T05:09:09.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
       "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday."
     },
@@ -290,7 +307,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T15:46:40.000Z",
       "addedAt": "2026-09-26T03:22:17.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
       "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\"."
     },
@@ -303,22 +320,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T15:12:25.000Z",
       "addedAt": "2026-09-26T15:12:25.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
       "summary": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials."
-    },
-    {
-      "id": "auto-world-a0d2dea752736851",
-      "section": "world",
-      "headline": "Bangkok roads submerged as flood disaster declared",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-26T07:21:30.000Z",
-      "addedAt": "2026-09-26T07:21:30.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
     },
     {
       "id": "auto-world-d3bae53f22469619",
@@ -329,7 +333,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T15:34:18.000Z",
       "addedAt": "2026-09-26T15:34:18.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
       "summary": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday."
     },
@@ -342,7 +346,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T02:50:56.000Z",
       "addedAt": "2026-09-26T02:50:56.000Z",
-      "retrievedAt": "2026-09-26T23:37:31.947Z",
+      "retrievedAt": "2026-09-27T05:17:18.415Z",
       "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises."
     }
@@ -351,8 +355,6 @@
     "local": "PinalCentral",
     "national": "NPR National RSS",
     "world": "BBC News World RSS",
-    "failures": [
-      "PinalCentral discovery RSS: https://news.google.com/rss/search?q=site%3Apinalcentral.com&hl=en-US&gl=US&ceid=US%3Aen returned 503"
-    ]
+    "failures": []
   }
 }
