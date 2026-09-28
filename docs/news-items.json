@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T21:19:56.240Z",
+  "updatedAt": "2026-09-28T05:22:09.332Z",
   "items": [
     {
       "id": "auto-local-6305127557357fff",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-27T16:57:08.712Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-25T17:09:30.365Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.pinalcentral.com/local_sports/coolidge-florence-delayed-until-saturday/article_06a07019-6cb8-49d8-9be9-1dfffd170db2.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -36,21 +36,23 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-27T16:57:08.712Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-59335b831d2a96f8",
+      "id": "auto-local-a86afdf79f4d8c5e",
       "section": "local",
-      "headline": "Police arrest 2 more teens in fatal CG shooting, seek 4th suspect",
+      "headline": "2026 Arizona General Election Debates: Prop 320",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "addedAt": "2026-09-25T04:56:18.819Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/police-arrest-2-more-teens-in-fatal-cg-shooting-seek-4th-suspect/article_0a9a9f82-c75a-432f-83ad-9823d7d279e5.html",
+      "publishedAt": "2026-09-25T13:30:00.000Z",
+      "addedAt": "2026-09-25T13:30:00.000Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMW1fZzJWTldGQ2tobHI1RUxfZmRJMlF4SUNCMnhUZW5oc0I0bWdkVXljOUFLSEZPeHlFTnpPY2FoenN1dmh3NjFlSUhQc05qM2ZyVHBTRFREdkRoQXlSeVI5OVhFTHJKSWFVV0Y1U1FUaE9MX3VCY0RpSTRZVjZfNXd4ZnB2Z193blA2RnNoMUdpN25PTlJENzktLUFBbWk2NURucS1kNGJTU3FaVDl6TERyQXJfNzZ2Z2poLVVmUDk?oc=5",
+      "summary": "2026 Arizona General Election Debates: Prop 320 PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -62,7 +64,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-27T12:00:43.565Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.pinalcentral.com/local_sports/florence-rallies-to-stun-coolidge-in-2-part-game/article_6dc2f7ca-f20e-4e40-bd03-7fb2b8fb38dd.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -76,7 +78,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T02:32:21.000Z",
       "addedAt": "2026-09-26T02:32:21.000Z",
-      "retrievedAt": "2026-09-27T16:57:08.712Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkJEaTZON3JPaEdMSTdDNDhPbUhKUHd6WEpTdTA2Z0NEcFJXNFlwUmpjN0JqTXg4NlJjWHpwTFlLMkxldnh4WUpHUDFsN0xCTFQ2VFhnY21OM2xRSHFGODFzajJPWERWcVZ0RWU1c1c1TnU4cVFEWG54U25WLWZhV0h5MHctTnZCVk5KZ3c3WVAxLW0yOVhnVjlwc2oteG5F?oc=5",
       "summary": "Florence Middle School PinalCentral.com",
       "locality": "Pinal County",
@@ -90,7 +92,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-26T23:37:31.947Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-robert-miller-sees-volunteering-as-a-way-to-support-others/article_7e885c91-5dd4-45d7-ac85-383968d14780.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -103,7 +105,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-27T12:00:43.565Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-robbins-attributes-time-in-cg-as-catalyst-for-successful-nfl-career/article_1315fe6f-7b45-4e4a-9c4c-3a41d6056138.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -116,21 +118,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-27T12:00:43.565Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-giddens-sees-relationships-as-the-center-of-his-52-years-in-business/article_6ae3bc0d-5ef2-4619-861a-b22473b55f4d.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-bee1becd67fb944b",
+      "id": "auto-local-d58d61d460f57a82",
       "section": "local",
-      "headline": "CHS alum found success as educator and coach in Winslow",
+      "headline": "Pinal's People: Winston focuses on impartiality, fairness in role as JP",
       "sourceName": "PinalCentral",
       "status": "active",
       "priority": "normal",
-      "addedAt": "2026-09-27T21:19:56.240Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
-      "url": "https://www.pinalcentral.com/coolidge_examiner/chs-alum-found-success-as-educator-and-coach-in-winslow/article_19847de5-dffd-4e44-b054-c0523da8082b.html",
+      "addedAt": "2026-09-28T05:22:09.332Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
+      "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-winston-focuses-on-impartiality-fairness-in-role-as-jp/article_02715c18-ca72-4e93-ac19-47fe179ba853.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -143,7 +145,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-27T12:17:32.000Z",
       "addedAt": "2026-09-27T12:17:32.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.npr.org/2026/09/27/nx-s1-5971160/maricopa-county-official-on-how-theyre-tackling-mistrust-around-election-security",
       "summary": "As President Trump questions election security, many local officials are trying to reassure voters. NPR's Ayesha Rascoe talks to Kate Brophy McGee, chair of the Maricopa County Board of Supervisors."
     },
@@ -156,7 +158,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-27T21:14:42.000Z",
       "addedAt": "2026-09-27T21:14:42.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.npr.org/2026/09/27/nx-s1-5980348/fall-planting-isnt-over-try-greens-garlic-or-both",
       "summary": "A University of Maryland farm manager explains why Swiss chard and garlic are good choices for a home garden this fall."
     },
@@ -169,7 +171,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-27T21:14:41.000Z",
       "addedAt": "2026-09-27T21:14:41.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.npr.org/2026/09/27/nx-s1-5940015/the-l-a-fires-gave-new-life-to-a-composers-firefighter-anthem",
       "summary": "LA-based composer Charles-Henri Avelange wrote a score to honor firefighters almost 20 years ago. After last year's wildfires in Los Angeles, he's made headway in finally recording it."
     },
@@ -182,35 +184,9 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T17:10:04.000Z",
       "addedAt": "2026-09-26T17:10:04.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
       "summary": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings."
-    },
-    {
-      "id": "auto-national-cd105f2355f744a6",
-      "section": "national",
-      "headline": "After Hurricane Helene, this community was inspired to learn how to use power tools",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-27T12:06:21.000Z",
-      "addedAt": "2026-09-27T12:06:21.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5979832/after-hurricane-helene-this-community-was-inspired-to-learn-how-to-use-power-tools",
-      "summary": "People in western North Carolina are learning to use power tools two years after Hurricane Helene. They want to be prepared for future disasters."
-    },
-    {
-      "id": "auto-national-9fe846eea05cebbf",
-      "section": "national",
-      "headline": "She owns 3 popular sushi restaurants in Phoenix. ICE detained her for 8 months",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-27T12:06:16.000Z",
-      "addedAt": "2026-09-27T12:06:16.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5971479/she-owns-3-popular-sushi-restaurants-in-phoenix-ice-detained-her-for-8-months",
-      "summary": "Kelly Yu owns three popular sushi restaurants in the Phoenix area. When she was detained by ICE, the local community rallied around her. NPR's Ayesha Rascoe visits Yu at one of her restaurants."
     },
     {
       "id": "auto-national-0231b3a376749b3a",
@@ -239,6 +215,32 @@
       "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections."
     },
     {
+      "id": "auto-national-cd105f2355f744a6",
+      "section": "national",
+      "headline": "After Hurricane Helene, this community was inspired to learn how to use power tools",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-27T12:06:21.000Z",
+      "addedAt": "2026-09-27T12:06:21.000Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5979832/after-hurricane-helene-this-community-was-inspired-to-learn-how-to-use-power-tools",
+      "summary": "People in western North Carolina are learning to use power tools two years after Hurricane Helene. They want to be prepared for future disasters."
+    },
+    {
+      "id": "auto-national-9fe846eea05cebbf",
+      "section": "national",
+      "headline": "She owns 3 popular sushi restaurants in Phoenix. ICE detained her for 8 months",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-27T12:06:16.000Z",
+      "addedAt": "2026-09-27T12:06:16.000Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5971479/she-owns-3-popular-sushi-restaurants-in-phoenix-ice-detained-her-for-8-months",
+      "summary": "Kelly Yu owns three popular sushi restaurants in the Phoenix area. When she was detained by ICE, the local community rallied around her. NPR's Ayesha Rascoe visits Yu at one of her restaurants."
+    },
+    {
       "id": "auto-world-ffa0ec75afd8e473",
       "section": "world",
       "headline": "Watch: BBC reports from the front-line of an escalating war in Yemen",
@@ -247,8 +249,21 @@
       "priority": "normal",
       "publishedAt": "2026-09-27T21:00:06.000Z",
       "addedAt": "2026-09-27T21:00:06.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
+    },
+    {
+      "id": "auto-world-1e1827efc32f5649",
+      "section": "world",
+      "headline": "Inside Yemen's front-line city as Houthis battle for control",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-27T21:16:31.000Z",
+      "addedAt": "2026-09-27T21:16:31.000Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
+      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
     },
     {
@@ -260,9 +275,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-27T20:04:21.000Z",
       "addedAt": "2026-09-27T20:04:21.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
       "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption."
+    },
+    {
+      "id": "auto-world-447a0a1312f107e6",
+      "section": "world",
+      "headline": "One dead as nor'easter storm pummels New York and New Jersey",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-27T23:37:26.000Z",
+      "addedAt": "2026-09-26T17:47:09.000Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system."
     },
     {
       "id": "auto-world-6c72244d0d44e30e",
@@ -273,22 +301,35 @@
       "priority": "normal",
       "publishedAt": "2026-09-27T15:56:25.000Z",
       "addedAt": "2026-09-27T15:56:25.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
       "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president."
     },
     {
-      "id": "auto-world-447a0a1312f107e6",
+      "id": "auto-world-73573c8cf9bde05c",
       "section": "world",
-      "headline": "One dead as nor'easter storm pummels New York and New Jersey",
+      "headline": "Why some Indian civil servants become heroes for doing their jobs",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-27T12:34:26.000Z",
-      "addedAt": "2026-09-26T17:47:09.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system."
+      "publishedAt": "2026-09-27T23:01:37.000Z",
+      "addedAt": "2026-09-27T23:01:37.000Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
+      "url": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation."
+    },
+    {
+      "id": "auto-world-3aedd60d6292594b",
+      "section": "world",
+      "headline": "Watch: Shipwreck uncovered on Nantucket island during nor'easter storm",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-28T00:52:49.000Z",
+      "addedAt": "2026-09-28T00:52:49.000Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
+      "url": "https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says."
     },
     {
       "id": "auto-world-9cf7257e4537de48",
@@ -299,56 +340,15 @@
       "priority": "normal",
       "publishedAt": "2026-09-27T07:44:11.000Z",
       "addedAt": "2026-09-27T07:44:11.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
+      "retrievedAt": "2026-09-28T05:22:09.332Z",
       "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments."
-    },
-    {
-      "id": "auto-world-a0d2dea752736851",
-      "section": "world",
-      "headline": "Bangkok roads submerged as flood disaster declared",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-27T04:45:08.000Z",
-      "addedAt": "2026-09-26T07:21:30.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities said the heavy rains have subsided but the flooding is not yet over."
-    },
-    {
-      "id": "auto-world-4930fc3391633a3d",
-      "section": "world",
-      "headline": "Young people in China are fangirling over a professor who gets their anxiety",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-26T22:02:18.000Z",
-      "addedAt": "2026-09-26T22:02:18.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
-      "url": "https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss",
-      "summary": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z."
-    },
-    {
-      "id": "auto-world-02325c3e9796f064",
-      "section": "world",
-      "headline": "Two bodies found after avalanche hits Himalayan climbing group",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-27T17:05:26.000Z",
-      "addedAt": "2026-09-27T16:22:37.000Z",
-      "retrievedAt": "2026-09-27T21:19:56.240Z",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak."
     }
   ],
   "sources": {
     "local": "PinalCentral",
     "national": "NPR National RSS",
     "world": "BBC News World RSS",
-    "failures": [
-      "PinalCentral discovery RSS: https://news.google.com/rss/search?q=site%3Apinalcentral.com&hl=en-US&gl=US&ceid=US%3Aen returned 503"
-    ]
+    "failures": []
   }
 }
