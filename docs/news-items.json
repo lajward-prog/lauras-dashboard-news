@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28T21:13:41.642Z",
+  "updatedAt": "2026-09-29T00:59:55.298Z",
   "items": [
     {
       "id": "auto-local-6305127557357fff",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-27T16:57:08.712Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,9 +23,22 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-28T21:13:41.642Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/local-youths-lead-the-way-during-casa-grande-9-11-day-of-service/article_43f07384-4c05-428a-9c8b-0adf3d9a241d.html",
       "locality": "Casa Grande",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-e7c8428bfddc2653",
+      "section": "local",
+      "headline": "Coolidge, Florence delayed until Saturday",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-09-29T00:59:55.298Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
+      "url": "https://www.pinalcentral.com/local_sports/coolidge-florence-delayed-until-saturday/article_06a07019-6cb8-49d8-9be9-1dfffd170db2.html",
+      "locality": "Pinal County",
       "category": "Local news"
     },
     {
@@ -36,7 +49,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-27T16:57:08.712Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +62,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-28T13:52:20.167Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/police-arrest-2-more-teens-in-fatal-cg-shooting-seek-4th-suspect/article_0a9a9f82-c75a-432f-83ad-9823d7d279e5.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -62,7 +75,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-27T12:00:43.565Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.pinalcentral.com/local_sports/florence-rallies-to-stun-coolidge-in-2-part-game/article_6dc2f7ca-f20e-4e40-bd03-7fb2b8fb38dd.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -76,9 +89,24 @@
       "priority": "normal",
       "publishedAt": "2026-09-26T02:32:21.000Z",
       "addedAt": "2026-09-26T02:32:21.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkJEaTZON3JPaEdMSTdDNDhPbUhKUHd6WEpTdTA2Z0NEcFJXNFlwUmpjN0JqTXg4NlJjWHpwTFlLMkxldnh4WUpHUDFsN0xCTFQ2VFhnY21OM2xRSHFGODFzajJPWERWcVZ0RWU1c1c1TnU4cVFEWG54U25WLWZhV0h5MHctTnZCVk5KZ3c3WVAxLW0yOVhnVjlwc2oteG5F?oc=5",
-      "summary": "Florence Middle School pinalcentral.com",
+      "summary": "Florence Middle School PinalCentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-f80a6aba67284742",
+      "section": "local",
+      "headline": "Library Notes: Activities planned",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-28T20:36:47.000Z",
+      "addedAt": "2026-09-28T20:36:47.000Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUW5mQVFuN2F0WmF3WVlfVkZTNV9jU21peEFfRUpCb29XTU1ZdzNFcnNvX3Q0VjNRQzNFcmRDSE1jRTF6a3hDWU9PYWNsLWVJMXk2SVFSMjFIc3ZNY2ZCaGNXTkYxQ3Z6UHREbjFRN2Fuck03VFBqM1VSY3JjRnFKZF9oc1NjOUtUWXdJYTJ3Qkgxd1V4b2ktT3ZreFIwbFFqcDR5Z3N5cGUwc181VWc5WXlJcER6TFZNY0o2S1Q0aUlEdHpfMjItM3dhS29GaW5SY1c4akIzTQ?oc=5",
+      "summary": "Library Notes: Activities planned PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -90,7 +118,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-26T23:37:31.947Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-robert-miller-sees-volunteering-as-a-way-to-support-others/article_7e885c91-5dd4-45d7-ac85-383968d14780.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -103,34 +131,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-09-27T12:00:43.565Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-robbins-attributes-time-in-cg-as-catalyst-for-successful-nfl-career/article_1315fe6f-7b45-4e4a-9c4c-3a41d6056138.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-472d58670d7e6537",
-      "section": "local",
-      "headline": "Pinal's People: Giddens sees relationships as the center of his 52 years in business",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-27T12:00:43.565Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
-      "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-giddens-sees-relationships-as-the-center-of-his-52-years-in-business/article_6ae3bc0d-5ef2-4619-861a-b22473b55f4d.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-d58d61d460f57a82",
-      "section": "local",
-      "headline": "Pinal's People: Winston focuses on impartiality, fairness in role as JP",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-09-28T21:13:41.642Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
-      "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-winston-focuses-on-impartiality-fairness-in-role-as-jp/article_02715c18-ca72-4e93-ac19-47fe179ba853.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -143,7 +145,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-28T16:27:30.000Z",
       "addedAt": "2026-09-28T16:27:30.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.npr.org/2026/09/28/nx-s1-5976810/trumps-immigration-idaho-dairy-industry",
       "summary": "America's farms have largely escaped the president's aggressive immigration crackdown. But as ICE sweeps continue across the nation, farmers are uneasy because many still can't find enough workers."
     },
@@ -156,7 +158,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-28T11:41:48.000Z",
       "addedAt": "2026-09-28T11:41:48.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.npr.org/2026/09/28/nx-s1-5930441/trump-construction-projects-legacy",
       "summary": "President Trump has brought his New York real estate background to the White House. But experts say D.C. is a very different historic and legal landscape — and worry about the precedent he could set."
     },
@@ -169,20 +171,33 @@
       "priority": "normal",
       "publishedAt": "2026-09-28T08:43:54.000Z",
       "addedAt": "2026-09-28T08:43:54.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.npr.org/2026/09/28/nx-s1-5977031/california-health-officials-warn-of-possible-measles-exposure-in-6-counties",
       "summary": "California health officials are on the lookout for new measles cases, after someone with the vaccine-preventable disease rode a passenger train and busses through six counties."
     },
     {
+      "id": "auto-national-a448c95758e78b67",
+      "section": "national",
+      "headline": "Cornell campus rape case reopened by prosecutor as new allegations surface",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-09-28T21:14:55.000Z",
+      "addedAt": "2026-09-28T21:14:55.000Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5983451/cornell-campus-rape-case-reopened-by-prosecutor-as-new-allegations-surface",
+      "summary": "A former Cornell University student has filed a lawsuit alleging the school didn't do enough to protect her after she says she was sexually assaulted at a fraternity house."
+    },
+    {
       "id": "auto-national-7cdb79987ef8b348",
       "section": "national",
-      "headline": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know",
+      "headline": "Prosecutors are reopening a Cornell fraternity rape case. Here's what we know",
       "sourceName": "NPR",
       "status": "active",
       "priority": "normal",
       "publishedAt": "2026-09-28T17:14:25.000Z",
       "addedAt": "2026-09-28T17:14:25.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
       "summary": "New York prosecutors are reopening an investigation into an alleged rape case at Cornell University in 2024. The alleged victim recently filed a lawsuit against seven members of Chi Phi fraternity."
     },
@@ -195,7 +210,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-28T13:15:29.000Z",
       "addedAt": "2026-09-28T13:15:29.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
       "summary": "Starship is key to SpaceX's commercial success and NASA's plans to land humans on the moon. This is the 14th flight of the uncrewed Starship, but the first time it reached orbit."
     },
@@ -208,7 +223,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-28T12:15:05.000Z",
       "addedAt": "2026-09-28T12:15:05.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
       "summary": "What we know — and still don't — about the suspected terror plot near a U.K. air base. Trump rejects Iran's offer to pause fighting. And CNN prepares for new owners with ties to Trump."
     },
@@ -226,19 +241,6 @@
       "summary": "As President Trump questions election security, many local officials are trying to reassure voters. NPR's Ayesha Rascoe talks to Kate Brophy McGee, chair of the Maricopa County Board of Supervisors."
     },
     {
-      "id": "auto-national-6680039031944249",
-      "section": "national",
-      "headline": "How to limit the rat numbers? Train the humans",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-09-28T09:00:00.000Z",
-      "addedAt": "2026-09-28T09:00:00.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
-      "url": "https://www.npr.org/2026/09/28/nx-s1-5980436/rats-dc-new-york-rangers",
-      "summary": "D.C.'s Rat Rangers take anyone who is interested on night time safaris through some of the Capitol's filthiest back alleys to learn the way of the rats, and to be better humans."
-    },
-    {
       "id": "auto-world-977c27d8c4bbee9d",
       "section": "world",
       "headline": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
@@ -247,7 +249,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-28T17:26:21.000Z",
       "addedAt": "2026-09-28T17:26:21.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
       "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\"."
     },
@@ -260,22 +262,22 @@
       "priority": "normal",
       "publishedAt": "2026-09-28T14:57:31.000Z",
       "addedAt": "2026-09-28T14:57:31.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
       "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret."
     },
     {
       "id": "auto-world-ff424853b8db43db",
       "section": "world",
-      "headline": "Mexico's Pacific coast braces for Hurricane Polo",
+      "headline": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-28T11:05:49.000Z",
+      "publishedAt": "2026-09-28T23:43:48.000Z",
       "addedAt": "2026-09-28T11:05:49.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "summary": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast."
+      "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur."
     },
     {
       "id": "auto-world-ffa0ec75afd8e473",
@@ -286,7 +288,7 @@
       "priority": "normal",
       "publishedAt": "2026-09-27T21:00:06.000Z",
       "addedAt": "2026-09-27T21:00:06.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
       "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
     },
@@ -299,48 +301,48 @@
       "priority": "normal",
       "publishedAt": "2026-09-27T21:16:31.000Z",
       "addedAt": "2026-09-27T21:16:31.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
       "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
     },
     {
-      "id": "auto-world-447a0a1312f107e6",
+      "id": "auto-world-7ff488c8d5ab97c6",
       "section": "world",
-      "headline": "One dead as nor'easter storm pummels New York and New Jersey",
+      "headline": "New York Times executive fatally shot allegedly by elderly in-laws",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-27T23:37:26.000Z",
-      "addedAt": "2026-09-26T17:47:09.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system."
+      "publishedAt": "2026-09-28T20:50:03.000Z",
+      "addedAt": "2026-09-28T20:50:03.000Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
+      "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder."
     },
     {
-      "id": "auto-world-b3528a330958647c",
+      "id": "auto-world-d8ac72ee10158d60",
       "section": "world",
-      "headline": "Embattled Serbian president resigns, paving way for early elections",
+      "headline": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-27T20:04:21.000Z",
-      "addedAt": "2026-09-27T20:04:21.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
-      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption."
+      "publishedAt": "2026-09-28T22:27:33.000Z",
+      "addedAt": "2026-09-28T22:27:33.000Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "summary": "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years."
     },
     {
-      "id": "auto-world-6c0e0991f5c202c1",
+      "id": "auto-world-b1b5f41c4bf36eca",
       "section": "world",
-      "headline": "Stand-up comic released after being convicted of insulting Erdoğan",
+      "headline": "French PM warns against escalation of school protests after 164 arrested",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-09-28T20:23:12.000Z",
-      "addedAt": "2026-09-28T20:23:12.000Z",
-      "retrievedAt": "2026-09-28T21:13:41.642Z",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served."
+      "publishedAt": "2026-09-28T21:46:53.000Z",
+      "addedAt": "2026-09-28T21:46:53.000Z",
+      "retrievedAt": "2026-09-29T00:59:55.298Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence."
     }
   ],
   "sources": {
