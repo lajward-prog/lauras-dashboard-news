@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T23:56:47.658Z",
+  "updatedAt": "2026-10-05T05:37:46.729Z",
   "items": [
     {
       "id": "auto-local-6305127557357fff",
@@ -10,21 +10,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-04T12:19:57.421Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-bbdfebdd02ea714a",
-      "section": "local",
-      "headline": "CUSD board president inducted into CHS Hall of Fame",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-10-02T00:46:45.042Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
-      "url": "https://www.pinalcentral.com/coolidge_examiner/cusd-board-president-inducted-into-chs-hall-of-fame/article_3aa6baa4-3e80-4ae6-82f2-ed21a0b0de65.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -36,7 +23,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-03T05:17:10.855Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/despite-jurisdiction-concerns-pinal-continues-murder-charges-on-canadian-man/article_1e49068b-ed7f-4662-8aa4-faf0f384ac91.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -49,7 +36,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-03T11:38:07.543Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-silent-witness-event-aims-to-bring-police-community-together/article_c5687fb3-0709-46e8-bced-b3e0042b674a.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -62,7 +49,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-03T05:17:10.855Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-planning-panel-oks-permit-for-954-acre-data-center-campus/article_61e23806-0d06-4ece-b0ed-480e30131317.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -75,7 +62,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-03T05:17:10.855Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/incoming-pinal-ways-fall-2026-issue-is-here/article_bdb99835-9b06-410e-8a63-cf9c1df7e22a.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -88,7 +75,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-03T21:13:02.482Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/area-rain-fueled-by-pacific-storm-tropical-moisture/article_100ec377-0e76-45b2-9c5d-661ad9bf8406.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -101,7 +88,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-02T22:12:55.593Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.pinalcentral.com/world_news/pilot-stabbing-raises-aviation-security-questions-further-unsettles-a-region-shaken-by-us-iran-war/article_a316cd19-865c-50ac-9646-d33dfbeb1305.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -114,7 +101,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-04T12:19:57.421Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.pinalcentral.com/florence_reminder_blade_tribune/recommendation-nears-on-school-closures-4-day-week/article_0126533d-199b-4fe3-92ea-3945450c99a7.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -127,8 +114,21 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-04T12:19:57.421Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-1592a405eae13549",
+      "section": "local",
+      "headline": "Coolidge rallies in 4th quarter to defeat Heritage Academy Gateway",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-10-05T05:37:46.729Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
+      "url": "https://www.pinalcentral.com/local_sports/coolidge-rallies-in-4th-quarter-to-defeat-heritage-academy-gateway/article_c2665557-9e64-4edf-ad9e-e615886c1b3e.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -141,7 +141,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T21:57:03.000Z",
       "addedAt": "2026-10-04T21:57:03.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.npr.org/2026/10/04/nx-s1-5985092/supreme-court-starts-a-new-term-with-a-case-about-who-pays-for-climate-damage",
       "summary": "The Supreme Court starts its new term with a Colorado county's claim that an oil refinery worsened climate change. The ruling could determine whether similar cases can move forward."
     },
@@ -154,7 +154,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T21:53:55.000Z",
       "addedAt": "2026-10-04T21:53:55.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.npr.org/2026/10/04/nx-s1-5990822/how-much-are-ai-data-centers-adding-to-your-electricity-bill",
       "summary": "Americans are worried AI data centers will raise their electricity bills. Congress has come up with a plan to protect ratepayers, but there's no easy way to find out what AI is costing them."
     },
@@ -167,7 +167,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T18:36:48.000Z",
       "addedAt": "2026-10-04T18:36:48.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
       "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence."
     },
@@ -180,7 +180,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T15:41:07.000Z",
       "addedAt": "2026-10-04T15:41:07.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
       "summary": "Cornell president Michael I. Kotlikoff said his university \"must do better\" in a video statement. \"This is a defining moment in Cornell's history,\" he added."
     },
@@ -193,7 +193,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T09:00:00.000Z",
       "addedAt": "2026-10-04T09:00:00.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
       "summary": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat."
     },
@@ -206,7 +206,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T21:57:04.000Z",
       "addedAt": "2026-10-04T21:57:04.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.npr.org/2026/10/04/nx-s1-5985911/in-ply-hernan-diaz-imagines-what-we-become-after-the-world-we-know",
       "summary": "Pulitzer prize winner Hernán Díaz' new book 'Ply' follows a young woman who siphons electricity to power punk shows in a re-wilded world. Díaz tells NPR how the novel came to examine selfhood, identity and intimacy."
     },
@@ -219,7 +219,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T15:15:09.000Z",
       "addedAt": "2026-10-04T15:15:09.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
       "summary": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday."
     },
@@ -232,7 +232,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T14:51:27.000Z",
       "addedAt": "2026-10-04T14:51:27.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
       "summary": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences — and call for a wider reckoning over sexual violence."
     },
@@ -245,48 +245,61 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T16:51:30.000Z",
       "addedAt": "2026-10-04T16:51:30.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
       "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition."
     },
     {
-      "id": "auto-world-d548bfbdb22c4021",
+      "id": "auto-world-c1740e16fc5bc46a",
       "section": "world",
-      "headline": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "headline": "Watch: How Brazil's dramatic election unfolded",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-10-04T03:42:15.000Z",
-      "addedAt": "2026-10-03T13:34:11.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
+      "publishedAt": "2026-10-05T04:51:24.000Z",
+      "addedAt": "2026-10-05T04:51:24.000Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
+      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
     },
     {
       "id": "auto-world-9c677fe560430990",
       "section": "world",
-      "headline": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "headline": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-10-04T23:45:53.000Z",
+      "publishedAt": "2026-10-05T03:16:16.000Z",
       "addedAt": "2026-10-04T23:45:53.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October."
+      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
     },
     {
-      "id": "auto-world-6df60966c50d38e2",
+      "id": "auto-world-05746aad92aba756",
       "section": "world",
-      "headline": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+      "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-10-04T20:14:49.000Z",
-      "addedAt": "2026-10-04T11:03:20.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival."
+      "publishedAt": "2026-10-05T03:37:41.000Z",
+      "addedAt": "2026-10-05T03:37:41.000Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
+    },
+    {
+      "id": "auto-world-97dcd3ccb6d54cd0",
+      "section": "world",
+      "headline": "Why has Brazil accused the US of election interference?",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-10-03T13:52:13.000Z",
+      "addedAt": "2026-10-03T13:52:13.000Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
     },
     {
       "id": "auto-world-6fca28af3c8cc09e",
@@ -297,7 +310,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T17:01:19.000Z",
       "addedAt": "2026-10-04T17:01:19.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
       "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls."
     },
@@ -310,35 +323,22 @@
       "priority": "normal",
       "publishedAt": "2026-10-04T13:33:05.000Z",
       "addedAt": "2026-10-04T13:33:05.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
       "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
       "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city."
     },
     {
-      "id": "auto-world-ba442c88f2b998d7",
+      "id": "auto-world-558567eda8c6950c",
       "section": "world",
-      "headline": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "headline": "US air force removes all bombers from British military base RAF Fairford",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-10-04T14:36:57.000Z",
-      "addedAt": "2026-10-04T14:36:57.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action."
-    },
-    {
-      "id": "auto-world-97dcd3ccb6d54cd0",
-      "section": "world",
-      "headline": "Why has Brazil accused the US of election interference?",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-10-03T13:52:13.000Z",
-      "addedAt": "2026-10-03T13:52:13.000Z",
-      "retrievedAt": "2026-10-04T23:56:47.658Z",
-      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
+      "publishedAt": "2026-10-05T04:58:56.000Z",
+      "addedAt": "2026-10-05T04:58:56.000Z",
+      "retrievedAt": "2026-10-05T05:37:46.729Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US."
     }
   ],
   "sources": {
