@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T15:56:06.583Z",
+  "updatedAt": "2026-10-06T22:39:05.618Z",
   "items": [
     {
       "id": "auto-local-a31925ace19a445a",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-05T22:00:35.599Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/pinal-supervisors-escalate-feud-with-county-attorney-brad-miller-seek-bar-investigation/article_b2bd86fd-782c-460a-bc6b-2813d0d97eed.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -23,34 +23,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-04T12:19:57.421Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-cf0b8e4345863a33",
-      "section": "local",
-      "headline": "CG planning panel OKs permit for 954-acre data center campus",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-10-06T15:56:06.583Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-planning-panel-oks-permit-for-954-acre-data-center-campus/article_61e23806-0d06-4ece-b0ed-480e30131317.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-65cc24cb279f3296",
-      "section": "local",
-      "headline": "Area rain fueled by Pacific storm, tropical moisture",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-10-03T21:13:02.482Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/area-rain-fueled-by-pacific-storm-tropical-moisture/article_100ec377-0e76-45b2-9c5d-661ad9bf8406.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -75,23 +49,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-04T12:19:57.421Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-06cba267ac98c969",
-      "section": "local",
-      "headline": "Marge Jenkins",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-10-06T02:05:15.000Z",
-      "addedAt": "2026-10-06T02:05:15.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnJzanFmc0FPV3Q1ZV8xSkMxV2NrMEd4QnBrTHluZzE5QmdIMVoyeDBJaW5LQkdoZWFVX1FFRnBsel9GcHhtS2J3czdyNDdRQmlKRUZYYkRmNVUzTW40c3ZXYWpSZktyZXl1am1qdUVhNHBVa1k0RjFMUDM1cDlZZXQ2Qjl4dThibndPWWNxb1pBSWQ1bWlyRXRFWDdXTG0tMmp6RXBR?oc=5",
-      "summary": "Marge Jenkins PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -103,7 +62,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-06T06:18:48.318Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.pinalcentral.com/local_sports/coolidge-rallies-in-4th-quarter-to-defeat-heritage-academy-gateway/article_c2665557-9e64-4edf-ad9e-e615886c1b3e.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -116,8 +75,23 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-06T06:18:48.318Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.pinalcentral.com/maricopa_monitor/sports/ala-ironwood-hands-heritage-maricopa-first-loss-in-5-set-thriller/article_499da632-eb4c-44b6-9b9b-f2ab5a21a062.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-06cba267ac98c969",
+      "section": "local",
+      "headline": "Marge Jenkins",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-10-06T02:05:15.000Z",
+      "addedAt": "2026-10-06T02:05:15.000Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnJzanFmc0FPV3Q1ZV8xSkMxV2NrMEd4QnBrTHluZzE5QmdIMVoyeDBJaW5LQkdoZWFVX1FFRnBsel9GcHhtS2J3czdyNDdRQmlKRUZYYkRmNVUzTW40c3ZXYWpSZktyZXl1am1qdUVhNHBVa1k0RjFMUDM1cDlZZXQ2Qjl4dThibndPWWNxb1pBSWQ1bWlyRXRFWDdXTG0tMmp6RXBR?oc=5",
+      "summary": "Marge Jenkins PinalCentral.com",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -129,10 +103,49 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-06T06:18:48.318Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinals-people-robert-miller-sees-volunteering-as-a-way-to-support-others/article_7e885c91-5dd4-45d7-ac85-383968d14780.html",
       "locality": "Pinal County",
       "category": "Local news"
+    },
+    {
+      "id": "auto-local-4b9c863980a3633e",
+      "section": "local",
+      "headline": "New nonprofit aims to help young people find direction",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-10-06T22:39:05.618Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/new-nonprofit-aims-to-help-young-people-find-direction/article_d1fab480-0250-4aed-88e9-e2b590853434.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-a02dac04df9392cb",
+      "section": "local",
+      "headline": "Large crowds turn out as CG Rotary Club celebrates 100 years",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-10-06T22:39:05.618Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/large-crowds-turn-out-as-cg-rotary-club-celebrates-100-years/article_15a4a602-4cb8-421e-b50b-541bd2445314.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-national-3f5743157025a4dd",
+      "section": "national",
+      "headline": "Trump says Fort Hood shooter can be executed by firing squad",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-10-06T19:50:39.000Z",
+      "addedAt": "2026-10-06T19:50:39.000Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5992606/trump-says-fort-hood-shooter-can-be-executed-by-firing-squad",
+      "summary": "The last time the U.S. military held an execution was in 1961, by hanging. The last military execution by firing squad was in 1945, when an American soldier was shot for desertion in World War II."
     },
     {
       "id": "auto-national-c3ab8634cb7e28cf",
@@ -143,7 +156,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-06T09:17:00.000Z",
       "addedAt": "2026-10-06T09:17:00.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.npr.org/2026/10/06/nx-s1-5991831/disney-battles-fcc",
       "summary": "President Trump has repeatedly called for Disney's ABC to fire late night comedian Jimmy Kimmel, for mocking him. Trump has also routinely denounced ABC's The View , accusing it of being unfair."
     },
@@ -156,7 +169,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-06T09:00:00.000Z",
       "addedAt": "2026-10-06T09:00:00.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.npr.org/2026/10/06/g-s1-145511/fbi-trump-counterintelligence-units-cuts",
       "summary": "The cuts come as a consequence of President Trump and FBI Director Kash Patel's focus on violent crime and immigration, leaving other priorities understaffed."
     },
@@ -169,9 +182,22 @@
       "priority": "normal",
       "publishedAt": "2026-10-05T14:24:31.000Z",
       "addedAt": "2026-10-05T14:24:31.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
       "summary": "ennis Hastert, whose political legacy as Congress' longest-serving Republican House speaker was later fouled by allegations that he had molested high school athletes during his prior career as a teacher and wrestling coach, has died, a coroner said Monday. He was 84."
+    },
+    {
+      "id": "auto-national-5618f0ff78571961",
+      "section": "national",
+      "headline": "Cornell names former acting U.S. attorney general to review rape case",
+      "sourceName": "NPR",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-10-06T18:31:45.000Z",
+      "addedAt": "2026-10-06T18:31:45.000Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
+      "summary": "Cornell University names Sally Yates, former acting U.S. attorney general and career federal prosecutor, to lead an independent review into how the school handled a former student's rape allegations."
     },
     {
       "id": "auto-national-9edab555755ac1fe",
@@ -182,22 +208,9 @@
       "priority": "normal",
       "publishedAt": "2026-10-05T11:47:36.000Z",
       "addedAt": "2026-10-05T11:47:36.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
       "summary": "The FBI and U.S. prosecutors say Wanying Zhang, also know as Heather, surveilled the Taiwanese president's son and his family."
-    },
-    {
-      "id": "auto-national-73d6487eee2403d8",
-      "section": "national",
-      "headline": "Supreme Court's new term kicks off with blockbuster climate change case",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-10-05T09:00:00.000Z",
-      "addedAt": "2026-10-05T09:00:00.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
-      "url": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
-      "summary": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate."
     },
     {
       "id": "auto-national-d082a2520d0fbf70",
@@ -208,22 +221,9 @@
       "priority": "normal",
       "publishedAt": "2026-10-06T11:00:00.000Z",
       "addedAt": "2026-10-06T11:00:00.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
       "summary": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections."
-    },
-    {
-      "id": "auto-national-d34421ececf634f6",
-      "section": "national",
-      "headline": "People are asking ChatGPT to help them decide how to vote in the midterms",
-      "sourceName": "NPR",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-10-05T09:00:00.000Z",
-      "addedAt": "2026-10-05T09:00:00.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
-      "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-      "summary": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for."
     },
     {
       "id": "auto-national-27a08383e4fb7377",
@@ -234,7 +234,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-06T09:00:00.000Z",
       "addedAt": "2026-10-06T09:00:00.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai",
       "summary": "Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems."
     },
@@ -245,9 +245,9 @@
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-10-06T14:15:06.000Z",
+      "publishedAt": "2026-10-06T20:15:31.000Z",
       "addedAt": "2026-10-06T14:15:06.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
       "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
     },
@@ -258,9 +258,9 @@
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-10-06T15:51:47.000Z",
+      "publishedAt": "2026-10-06T16:02:32.000Z",
       "addedAt": "2026-10-06T15:51:47.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
       "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year."
     },
@@ -273,9 +273,22 @@
       "priority": "normal",
       "publishedAt": "2026-10-06T11:53:21.000Z",
       "addedAt": "2026-10-06T11:53:21.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
       "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine."
+    },
+    {
+      "id": "auto-world-38219f9e28eb43b1",
+      "section": "world",
+      "headline": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-10-06T16:51:59.000Z",
+      "addedAt": "2026-10-06T02:37:46.000Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
+      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come."
     },
     {
       "id": "auto-world-0c2cb31fd9addb17",
@@ -286,7 +299,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-06T10:05:22.000Z",
       "addedAt": "2026-10-06T10:05:22.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
       "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections."
     },
@@ -299,35 +312,9 @@
       "priority": "normal",
       "publishedAt": "2026-10-06T12:51:05.000Z",
       "addedAt": "2026-10-06T12:51:05.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
       "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
-    },
-    {
-      "id": "auto-world-38219f9e28eb43b1",
-      "section": "world",
-      "headline": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-10-06T11:42:52.000Z",
-      "addedAt": "2026-10-06T02:37:46.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
-      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come."
-    },
-    {
-      "id": "auto-world-be9ba022b6f233a4",
-      "section": "world",
-      "headline": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-10-06T02:22:24.000Z",
-      "addedAt": "2026-10-06T02:22:24.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base."
     },
     {
       "id": "auto-world-4e7f1a63373ce16f",
@@ -338,9 +325,22 @@
       "priority": "normal",
       "publishedAt": "2026-10-06T06:53:17.000Z",
       "addedAt": "2026-10-06T06:00:53.000Z",
-      "retrievedAt": "2026-10-06T15:56:06.583Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
       "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
       "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
+    },
+    {
+      "id": "auto-world-eafe280e6f0255dc",
+      "section": "world",
+      "headline": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-10-06T22:00:43.000Z",
+      "addedAt": "2026-10-06T22:00:43.000Z",
+      "retrievedAt": "2026-10-06T22:39:05.618Z",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday."
     }
   ],
   "sources": {
