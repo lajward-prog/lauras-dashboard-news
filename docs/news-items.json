@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T20:36:39.023Z",
+  "updatedAt": "2026-10-08T00:59:24.393Z",
   "items": [
     {
       "id": "auto-local-e33cf633892cc665",
@@ -10,7 +10,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-07T05:58:05.903Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.pinalcentral.com/arizona_news/trump-criticizes-election-officials-in-arizona-s-maricopa-county-over-error-affecting-3-000-ballots/article_8e85b642-3edc-5eee-bd3e-09c9d4bae681.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -24,7 +24,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T07:27:49.000Z",
       "addedAt": "2026-10-07T07:18:00.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSi10bnJjbURFWXN5WDZyeDYxeXJzMS1jamZKOS1UbnN0TTcwdmlEVDlSbzh6LXdncnlIaGJ4T2RXMEw5Z0dfNEpqTEI2T3hCOFFENHh6eUJzSnpWYzdLam8wRGZKM0ZvY2ZxQ0Vab3Rkek1NYVAzd1g3d2FjbnIzcnQtaG1kdnJ6V29sd3J6VmNyOTRteFE0elNEdHpiSDdwNFFXRU8zbXBZODdIejV4M1VzQ3lkTktNZ0VXYkFaVHJSaENRa2xoQ0VyNU5JMzZ2VlE?oc=5",
       "summary": "Volleyball: Coolidge vs. Florence 10/6/26 PinalCentral.com",
       "locality": "Pinal County",
@@ -38,7 +38,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-07T20:36:39.023Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.pinalcentral.com/pinal_spotlight/pinal-s-people-parsons-will-miss-job-of-seeing-coolidge-grow/article_b9f17785-d8ff-4cf3-a9ac-8ac05ca6d4ce.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -52,9 +52,35 @@
       "priority": "normal",
       "publishedAt": "2026-10-05T17:42:21.000Z",
       "addedAt": "2026-10-05T17:42:21.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUVJPMXZvdHh2bHNVTXBkSEVDVGNSNEpPSEE0aWVqSzlFTTNzV2xUSFdtcWVyNGhweFBGeFYzdldpbHVhN0x1cnhLeEZadG9Bc2JnUEk1cW4wUkwtYmthcGN2MjF1Y192c3Bkc2RUNGFndmFoWF9IXzJoeEhCVXVPU1BjUTRCc19QR2hLVEoxa29pZ3puMDVFZEkydkdWVXh2RUZrZUNWa3ZxYWNzR0VubldjRTV6bEgxWE1UM3VrMFlBb1UyM2hFUWxKNi1kTEVwTGFKMEtIejBwbFdsRXVhVFk0c2ZtVDhoQzg0WV92NXpzM0dSMmM1LThMaG00NW5oVTVSMjVtV1lvVS1vR3gxVHFtNWF6dw?oc=5",
       "summary": "Pinal supervisors escalate feud with county attorney Brad Miller, seek bar investigation PinalCentral.com",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-1a53353d54ed8bb0",
+      "section": "local",
+      "headline": "19-year-old found dead in Arizona City",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-10-08T00:59:24.393Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
+      "url": "https://www.pinalcentral.com/arizona_city_independent/19-year-old-found-dead-in-arizona-city/article_1d85e125-bd1e-4c0d-af8a-2206b88a3e76.html",
+      "locality": "Pinal County",
+      "category": "Local news"
+    },
+    {
+      "id": "auto-local-912383b2b3dc1bbb",
+      "section": "local",
+      "headline": "CG Fire will seek ambulance rate increase",
+      "sourceName": "PinalCentral",
+      "status": "active",
+      "priority": "normal",
+      "addedAt": "2026-10-08T00:59:24.393Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
+      "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-fire-will-seek-ambulance-rate-increase/article_de576eca-5391-4105-8f70-f4c8724b9ec5.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -66,7 +92,7 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-07T20:36:39.023Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.pinalcentral.com/coolidge_examiner/coolidge-automotive-repair-closes-amidst-lease-dispute/article_0e9cc933-93ee-4e9d-a131-84073950f88c.html",
       "locality": "Pinal County",
       "category": "Local news"
@@ -79,21 +105,8 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-07T20:36:39.023Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.pinalcentral.com/arizona_city_independent/library-hosts-first-fall-fest-during-school-break/article_30ae36c5-2629-4610-87c3-e86dabb981cf.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-local-7564176b9dfb7e7f",
-      "section": "local",
-      "headline": "Mayes challenges water, sewer rate increases impacting Robson Ranch",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-10-07T05:58:05.903Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
-      "url": "https://www.pinalcentral.com/eloy_enterprise/mayes-challenges-water-sewer-rate-increases-impacting-robson-ranch/article_4eff0f6d-0481-40a6-bfaf-04373a5b48d9.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
@@ -118,36 +131,23 @@
       "status": "active",
       "priority": "normal",
       "addedAt": "2026-10-07T05:58:05.903Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.pinalcentral.com/casa_grande_dispatch/cg-planning-panel-oks-permit-for-954-acre-data-center-campus/article_61e23806-0d06-4ece-b0ed-480e30131317.html",
       "locality": "Pinal County",
       "category": "Local news"
     },
     {
-      "id": "auto-local-595244c697662ad9",
-      "section": "local",
-      "headline": "Tiny Bears Playhouse aims to bring playtime in from the heat",
-      "sourceName": "PinalCentral",
-      "status": "active",
-      "priority": "normal",
-      "addedAt": "2026-10-07T20:36:39.023Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
-      "url": "https://www.pinalcentral.com/casa_grande_dispatch/tiny-bears-playhouse-aims-to-bring-playtime-in-from-the-heat/article_eb157124-1147-4cf8-ad5d-f948a03cd8e4.html",
-      "locality": "Pinal County",
-      "category": "Local news"
-    },
-    {
-      "id": "auto-national-e35381a10f6dfe78",
+      "id": "auto-national-a7f21a36c209bcd3",
       "section": "national",
-      "headline": "FBI counterintelligence squads are now severely understaffed, as threats only grow",
+      "headline": "Judge orders Tennessee to preserve evidence in failed execution",
       "sourceName": "NPR",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-10-07T20:21:46.000Z",
-      "addedAt": "2026-10-07T20:21:46.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5988045/fbi-counterintelligence-squads-are-now-severely-understaffed-as-threats-only-grow",
-      "summary": "NPR's exclusive reporting shows that the FBI teams that hunt foreign spies are severely understaffed, down as much as 50 percent in some offices."
+      "publishedAt": "2026-10-07T20:37:38.000Z",
+      "addedAt": "2026-10-07T20:37:38.000Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5993603/judge-orders-tennessee-to-preserve-evidence-in-failed-execution",
+      "summary": "Lawyers for Christa Pike, the woman who survived an execution in Tennessee, were in court Wednesday as she regained consciousness."
     },
     {
       "id": "auto-national-563445ad732a3eb6",
@@ -158,7 +158,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T19:53:10.000Z",
       "addedAt": "2026-10-07T19:53:10.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved",
       "summary": "A week after the failed execution, Pike is awake but is said to be angry and confused. Her lawyers said Wednesday's hearing was about \"transparency.\""
     },
@@ -171,7 +171,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T19:08:48.000Z",
       "addedAt": "2026-10-07T19:08:48.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood",
       "summary": "The Pentagon says Nidal Hasan will be executed by firing squad in December at Fort Hood, where he killed 13 people in 2009. The announcement came days after a botched lethal injection in Tennessee."
     },
@@ -184,7 +184,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T16:55:19.000Z",
       "addedAt": "2026-10-07T16:55:19.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.npr.org/2026/10/07/nx-s1-5992775/how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military",
       "summary": "The New York Times reporter Greg Jaffe says Hegseth has disproportionately blocked promotions of Black and women senior officers, and he's also been purging the military of transgender people."
     },
@@ -197,7 +197,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T09:00:00.000Z",
       "addedAt": "2026-10-07T09:00:00.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.npr.org/2026/10/07/nx-s1-5980349/rail-trail-bridge-ohio-river",
       "summary": "The Trump administration has been hostile to federal spending on bicycle and pedestrian infrastructure. But there's bipartisan support for a multiuse trail that would connect Ohio and West Virginia."
     },
@@ -210,7 +210,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T09:00:00.000Z",
       "addedAt": "2026-10-07T09:00:00.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno",
       "summary": "Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that."
     },
@@ -223,7 +223,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T09:00:00.000Z",
       "addedAt": "2026-10-07T09:00:00.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.npr.org/2026/10/07/nx-s1-5988314/civil-rights-data-public-schools-trump",
       "summary": "The federal Civil Rights Data Collection, for the first time in decades, tells us about the teacher workforce and reminds us racial disparities are still stark in American public schools."
     },
@@ -236,9 +236,22 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T09:00:00.000Z",
       "addedAt": "2026-10-07T09:00:00.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.npr.org/2026/10/07/nx-s1-5986124/over-1-000-children-are-buried-at-juvenile-detention-centers-nationwide",
       "summary": "Researchers uncovered the graves of more than 1,000 children next to juvenile detention facilities in 29 states. At one Maryland gravesite, 230 Black boys are buried."
+    },
+    {
+      "id": "auto-world-d78edc8b5e9d4df6",
+      "section": "world",
+      "headline": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "sourceName": "BBC News",
+      "status": "active",
+      "priority": "normal",
+      "publishedAt": "2026-10-07T20:27:03.000Z",
+      "addedAt": "2026-10-07T20:27:03.000Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war."
     },
     {
       "id": "auto-world-9de624b5bb9a0438",
@@ -262,7 +275,7 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T18:12:58.000Z",
       "addedAt": "2026-10-07T13:02:17.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
       "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept."
     },
@@ -275,22 +288,22 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T05:00:21.000Z",
       "addedAt": "2026-10-07T05:00:21.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
       "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party."
     },
     {
-      "id": "auto-world-b9ac00bd0d2c456d",
+      "id": "auto-world-8a166f07b0aa419c",
       "section": "world",
-      "headline": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "headline": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-10-07T17:47:31.000Z",
-      "addedAt": "2026-10-07T12:16:58.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers."
+      "publishedAt": "2026-10-08T00:09:17.000Z",
+      "addedAt": "2026-10-08T00:09:17.000Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September."
     },
     {
       "id": "auto-world-636c035c18b8d71b",
@@ -301,22 +314,22 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T19:30:51.000Z",
       "addedAt": "2026-10-07T19:30:51.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
       "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely."
     },
     {
-      "id": "auto-world-66188c6a9e14f835",
+      "id": "auto-world-b9ac00bd0d2c456d",
       "section": "world",
-      "headline": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "headline": "France halts use of stun grenades after boy's hand blown off in student protests",
       "sourceName": "BBC News",
       "status": "active",
       "priority": "normal",
-      "publishedAt": "2026-10-07T18:27:40.000Z",
-      "addedAt": "2026-10-07T12:58:03.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia."
+      "publishedAt": "2026-10-07T17:47:31.000Z",
+      "addedAt": "2026-10-07T12:16:58.000Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers."
     },
     {
       "id": "auto-world-4e43c8a2e5ca7124",
@@ -327,22 +340,9 @@
       "priority": "normal",
       "publishedAt": "2026-10-07T16:00:18.000Z",
       "addedAt": "2026-10-07T16:00:18.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
+      "retrievedAt": "2026-10-08T00:59:24.393Z",
       "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
       "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry."
-    },
-    {
-      "id": "auto-world-1c0ce68cb68779c7",
-      "section": "world",
-      "headline": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "sourceName": "BBC News",
-      "status": "active",
-      "priority": "normal",
-      "publishedAt": "2026-10-07T12:46:39.000Z",
-      "addedAt": "2026-10-07T12:46:39.000Z",
-      "retrievedAt": "2026-10-07T20:36:39.023Z",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya."
     }
   ],
   "sources": {
